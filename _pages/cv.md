@@ -44,10 +44,8 @@ redirect_from:
 ## Awards and Grants
 
 * IUF Junior Membership, 2025-2030
-* RIPEC 3 Research Bonus, 2024
 * Suzanne Zivi Prize, Académie de Stanislas, 2020
 * LUE Grant (€10,000), "Religions and Identities in Contemporary Russia," 2020
-* PEDR Research Bonus, 2018
 
 ## Editorial Responsibilities
 
