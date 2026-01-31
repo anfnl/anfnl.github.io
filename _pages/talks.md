@@ -131,3 +131,39 @@ author_profile: true
 **2006**
 
 * "Morale et religion : quelle unité pour _Les Deux Sources_?". Symposium ‘Bergson et la Religion’, University of Geneva, November 30 - December 1
+
+## Public Engagement
+
+**2025**
+
+* "L'évidence de Dieu". Centre théologique de Meylan, 7 février 2025
+
+**2024**
+
+* "La communication des religions". Conférence dans le cadre du cycle "Apéro-communes" du CREM (Université de Lorraine), 13 février 2024
+
+
+**2019**
+
+* "Liberté et religion". Conférence à l'Espace Saint Jean (Nancy) le 14 janvier 2019
+
+**2018**
+
+* "Quel avenir pour le dialogue interculturel et interreligieux ?". Table ronde organisée par République en tête(s)
+* "‘Culbuter tous les obstacles [...] même peut-être la mort” : le transhumanisme de Henri Bergson". Metz, 20 novembre 2018
+
+**2017**
+
+* "Espérances, utopies, messianismes : comment les distinguer ?". Conférence à l'Espace culturel protestant (Reims), 18 septembre 2017
+
+**2015**
+
+* "Du militantisme à l’extrémisme, comment s’opère la transition ?". Café-psycho (UL Nancy) le 12 mars 2015
+
+**2014**
+
+* "Un bon pape est pire qu’un mauvais". Débat sur le Pape François organisé par 'Cité-senior' (Genève), publié dans Le Courrier
+
+**2013**
+
+* "Le Pendule de Foucault : une parabole de l’expérience religieuse ?". Salons Dufour, Genève, 17 juin 2013
