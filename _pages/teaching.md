@@ -9,7 +9,7 @@ author_profile: true
 
 - Arts de l'écran
 - Questions de théologie contemporaine
-- *Philosophie française contemporaine 
+- Philosophie française contemporaine 
 - Théologie contemporaine
 - Violences et religion : W. Cavanaugh et J. Moltmann
   *Séminaire de Master commun avec F. Chavel (Institut protestant de théologie)*
