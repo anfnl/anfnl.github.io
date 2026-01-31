@@ -27,16 +27,16 @@ author_profile: true
 **2023**
 
 * "Philosophie, croyance et démocratie". Symposium ‘Athène et Jérusalem devant la naissance de la philosophie’, Catholic Institute of Paris, December 7-8
-* "(P". Symposium ‘Expérience et vérité’, University of Geneva, September 4-6
-* "Personhood". HEAT - Helsinki Analytic Theology Workshop, University of Helsinki, February 15-17
+* "(Post-)vérité et démocratie". Symposium ‘Expérience et vérité’, University of Geneva, September 4-6
+* "Personhood and Guilt-Transfer : a (Too) Strong Lockean Model". HEAT - Helsinki Analytic Theology Workshop, University of Helsinki, February 15-17
 * "Peut-on faire une histoire chrétienne ? L’histoire péguiste, la guerre et la vérité". Symposium ‘Péguy and the Dialogues of History’, Paris IV, February 10-11
 
 **2022**
 
 * "Le cinéma, spectacle de la vie éternelle ?". University of Geneva, Congress of the French Society for the Philosophy of Religion, September 1-3
-* "Vladimir". Bologna, European Academy of Religion, Panel Russia and Europe in the late 19th – the first half of the 20th centuries: intellectual and religious dialogue through concepts, representations, and personalities, June 23
-* "Some Insights". Doctoral Seminar in Systematic Theology, University of Helsinki, April 28
-* "How to Leave". Round Table on the Concept of Officium, PSTGU, Moscow, April 13 [online]
+* "Vladimir Lossky as a French Personalist". Bologna, European Academy of Religion, Panel Russia and Europe in the late 19th – the first half of the 20th centuries: intellectual and religious dialogue through concepts, representations, and personalities, June 23
+* "Some Insights on the Current Religious Climate in Russia". Doctoral Seminar in Systematic Theology, University of Helsinki, April 28
+* "How to Leave One’s Duty: Limits of Bad Faith". Round Table on the Concept of Officium, PSTGU, Moscow, April 13 [online]
 
 **2021**
 
@@ -55,7 +55,7 @@ author_profile: true
 
 **2018**
 
-* "‘De l’impossible sinon j’étouffe ‘: sur un paradoxe de l’identité personnelle, à partir de Kierkegaard". Symposium ‘Le paradoxe de la finitude’, University of Lorraine and Paris 1, May 2-3
+* "‘De l’impossible sinon j’étouffe‘: sur un paradoxe de l’identité personnelle, à partir de Kierkegaard". Symposium ‘Le paradoxe de la finitude’, University of Lorraine and Paris 1, May 2-3
 * "Usages du réalisme critique". journée d'étude 'Naturalism and Critical Realism', University of Lorraine, April 12
 * "Le blasphème : puissance et dérision". journée d'étude 'Blasphème : le retour d'une question juridique oubliée', ICP, Faculty of Canon Law, April 10
 * "‘Comme s’il était plus facile et plus possible, devant Dieu (...) de se taire que de parler’". journée d'étude ‘La voix et le silence dans les arts’, University of Lorraine, March 9
