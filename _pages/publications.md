@@ -5,8 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?hl=fr&user=-5KYAJ8AAAAJ).
-
 ## Books
 
 **2022**
