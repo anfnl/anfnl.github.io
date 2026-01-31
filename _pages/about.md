@@ -13,7 +13,7 @@ My research focuses on theological language, the epistemology of belief, and the
 
 I am founder and Publishing Director of the journal [ThéoRèmes](https://journals.openedition.org/theoremes/).
 
-I am currently working on an [IUF project](https://www.iufrance.fr/les-membres-de-liuf/membre/2850-anthony-feneuil.html) on the political consequences of the social sciences of belief.
+I am currently working on an IUF project on the political consequences of the social sciences of belief.
 
 For more details, see my [CV](cv/) and [publications](publications/).
 
@@ -21,6 +21,6 @@ For more details, see my [CV](cv/) and [publications](publications/).
 
 
 <div style="display: flex; justify-content: space-between; align-items: flex-end; margin-top: 60px;">
-  <img src="https://anfnl.github.io/images/logoEcritures.jpg" alt="Logo 1" style="height: 80px;">
-  <img src="https://anfnl.github.io/images/LogoIUF.png" alt="Logo 2" style="height: 80px;">
+  <a href="https://ecritures.univ-lorraine.fr/"><img src="https://anfnl.github.io/images/logoEcritures.jpg" alt="Logo 1" style="height: 80px;"></a>
+  <a href="https://www.iufrance.fr/les-membres-de-liuf/membre/2850-anthony-feneuil.html"><img src="https://anfnl.github.io/images/LogoIUF.png" alt="Logo 2" style="height: 80px;"></a>
 </div>
