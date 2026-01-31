@@ -35,7 +35,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 **2024**
 
-* Ed. with Sarg, Rachel. *Théologie et sociétés : usages sociaux des discours théologiques*. *ThéoRèmes* 21|2024. [DOI](https://doi-org/10.4000/12z8p)
+* Ed. with Sarg, Rachel. *Théologie et sociétés : usages sociaux des discours théologiques*. *ThéoRèmes* 21-2024. [DOI](https://doi-org/10.4000/12z8p)
 
 **2022**
 
@@ -48,7 +48,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 **2018**
 
 * Ed. with Krtolica, Igor. *L'expérience de l'éternité: Philosophie, mystique, clinique*. Paris: Hermann
-* Ed. with Bouriau, Christophe, , Meessen, Yves. *Le transcendantal: Réceptions et mutations d’une notion kantienne*. Nancy: Presses Universitaires de Nancy
+* Ed. with Bouriau, Christophe, Meessen, Yves. *Le transcendantal: Réceptions et mutations d’une notion kantienne*. Nancy: Presses Universitaires de Nancy
 
 **2017**
 
@@ -57,20 +57,20 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 **2016**
 
-* Ed. with Waterlot, Ghislain. *Le protestantisme libéral: Une théologie aux limites ?*. *ThéoRèmes* 8|2016. [DOI](https://doi.org/10.4000/theoremes.766)
+* Ed. with Waterlot, Ghislain. *Le protestantisme libéral: Une théologie aux limites ?*. *ThéoRèmes* 8-2016. [DOI](https://doi.org/10.4000/theoremes.766)
 
 **2014**
 
-* Ed. with Schmitt, Yann. *Le réalisme spéculatif entre athéisme et messianisme*. *ThéoRèmes* 6|2014. [DOI](https://doi.org/10.4000/theoremes.617)
+* Ed. with Schmitt, Yann. *Le réalisme spéculatif entre athéisme et messianisme*. *ThéoRèmes* 6-2014. [DOI](https://doi.org/10.4000/theoremes.617)
 
 **2013**
 
-* Ed. with Schmitt, Yann. *L'incroyance religieuse*. *ThéoRèmes* 5|2013. [DOI](https://doi.org/10.4000/theoremes.507)
+* Ed. with Schmitt, Yann. *L'incroyance religieuse*. *ThéoRèmes* 5-2013. [DOI](https://doi.org/10.4000/theoremes.507)
 
 **2012**
 
 * *L'expérience religieuse: Approches empiriques, enjeux philosophiques*. Paris: Beauchesne
-* Ed. with Waterlot, Ghislain. *Les renouveaux analytiques de la philosophie de la religion en question*. *ThéoRèmes* 2|2012. [DOI](https://doi-org/10.4000/theoremes.259)
+* Ed. with Waterlot, Ghislain. *Les renouveaux analytiques de la philosophie de la religion en question*. *ThéoRèmes* 2-2012. [DOI](https://doi-org/10.4000/theoremes.259)
 
 ## Journal Articles
 
@@ -92,8 +92,8 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 **2019**
 
-* "textitNo Future: sur une fausse distinction entre le possible et le virtuel chez Bergson". *Revue Philosophique de Louvain* 117(1), 83–111. [DOI](10.2143/RPL.117.1.3287048)
-* "L’expérience comme promesse et comme détresse chez K". *Transversalités*(149), 85–102. [DOI](https://doi.org/10.3917/trans.149.0085)
+* "No Future: sur une fausse distinction entre le possible et le virtuel chez Bergson". *Revue Philosophique de Louvain* 117(1), 83–111. [DOI](10.2143/RPL.117.1.3287048)
+* "L’expérience comme promesse et comme détresse chez Karl Barth". *Transversalités*(149), 85–102. [DOI](https://doi.org/10.3917/trans.149.0085)
 * "Quelques remarques, entre gentlemen, sur la critique de Bergson par Santayana". *Teorema -Limbo*(39), 77–84. [DOI](https://dialnet.unirioja.es/descarga/articulo/7265683.pdf)
 
 **2017**
@@ -102,7 +102,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 **2016**
 
-* "Sciences des religions et théologie : l’apport de Karl Barth". *Cahiers d’étude du religieux. Recherches interdisciplinaires*(15|2016). [DOI](https://doi-org/10.4000/cerri.1484)
+* "Sciences des religions et théologie : l’apport de Karl Barth". *Cahiers d’étude du religieux. Recherches interdisciplinaires*(15-2016). [DOI](https://doi-org/10.4000/cerri.1484)
 
 **2015**
 
@@ -120,7 +120,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 **2012**
 
 * "De l’immédiatement donné au ‘détour de l’expérience mystique’. Remarques sur l’unité de la méthode intuitive chez Bergson". *Philosophos* 17(1), 31–54. [DOI](https://doi.org/10.5216/phi.v17i1.17542)
-* "Percevoir Dieu ? H: une hypothèse sur la différence entre philosophie continentale et analytique de la religion". *ThéoRèmes* 0(2). [DOI](https://doi-org/10.4000/theoremes.310)
+* "Percevoir Dieu ? Henri Bergson et William P. Alston : une hypothèse sur la différence entre philosophie continentale et analytique de la religion". *ThéoRèmes* 0(2). [DOI](https://doi-org/10.4000/theoremes.310)
 
 **2011**
 
