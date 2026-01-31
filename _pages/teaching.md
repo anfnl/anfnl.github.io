@@ -13,7 +13,7 @@ author_profile: true
 - Théologie contemporaine
 - Violences et religion : W. Cavanaugh et J. Moltmann
   *Séminaire de Master commun avec F. Chavel (Institut protestant de théologie)*
-- Éthique et théologie contemporaine** 
+- Éthique et théologie contemporaine 
 - Théologie et philosophie 
 
 - Philosophie des religions
