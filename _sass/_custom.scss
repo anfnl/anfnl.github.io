@@ -1,16 +1,4 @@
-.logos-footer {
-  display: flex !important;
-  flex-direction: row !important;
-  justify-content: space-between !important;
-  align-items: center !important;
-  width: 100% !important;
-  margin-top: 60px;
-
-  > img {
-    max-width: 150px !important;
-    width: 150px !important;
-    height: auto !important;
-    display: inline-block !important;
-    float: none !important;
-  }
+table img {
+  max-width: none !important;
+  display: inline !important;
 }
