@@ -21,14 +21,8 @@ For more details, see my [CV](cv/) and [publications](publications/).
 
 
 
-<table style="width: 100%;">
-  <tr>
-    <td style="text-align: left;">
-      <img src="/images/LogoIUF.png" alt="Logo IUF" style="width: 200px;">
-    </td>
-    <td style="text-align: right;">
-      <img src="/images/logoEcritures.jpg" alt="Logo Écritures" style="width: 200px;">
-    </td>
-  </tr>
-</table>
+<div class="logos-footer">
+  <img src="/images/LogoIUF.png" alt="Logo IUF">
+  <img src="/images/logoEcritures.jpg" alt="Logo Écritures">
+</div>
 
