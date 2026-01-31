@@ -1,0 +1,13 @@
+---
+category: chapters
+citation: 'Feneuil, Anthony. (2010). "Thérèse de Lisieux : Nouvelle Jeanne d’Arc ou
+  ‘Sainte des poilus’?". In *La Mystique face aux guerres mondiales*. ed. Dominique
+  de Courcelles and Ghislain Waterlot. Paris, PUF. pp. 69-86.'
+collection: publications
+date: '2010-01-01'
+paperurl: https://archive-ouverte.unige.ch/unige:18482
+permalink: /publication/2010-therese-de-lisieux-nouvelle-jeanne-darc-ou-sainte-des-poilus
+title: 'Thérèse de Lisieux : Nouvelle Jeanne d’Arc ou ‘Sainte des poilus’?'
+venue: La Mystique face aux guerres mondiales (ed. Dominique de Courcelles and Ghislain
+  Waterlot)
+---
