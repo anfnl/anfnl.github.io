@@ -23,7 +23,7 @@ For more details, see my [CV](cv/) and [publications](publications/).
 <table style="width:100%; border: none; border-collapse: collapse; margin-top: 60px;">
   <tr>
     <td style="border: none; text-align: left; vertical-align: middle; width: 50%; padding: 0;">
-      <img src="/images/LogoIUF.png" alt="Logo IUF" height="100">
+      <img src="/images/LogoIUF.png" alt="Logo IUF" height="70">
     </td>
     <td style="border: none; text-align: right; vertical-align: middle; width: 50%; padding: 0;">
       <img src="/images/logoEcritures.jpg" alt="Logo Écritures" height="100">
