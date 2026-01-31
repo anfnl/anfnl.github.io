@@ -13,7 +13,7 @@ redirect_from:
 
 * **Associate Professor of Systematic Theology**, University of Lorraine (2014-present)
 * **Junior Member**, Institut Universitaire de France (IUF) (2023-2028)
-* **Director**, *ThéoRèmes* journal (2011-present)
+* **Publishing Director and Editorial Board Member**, *ThéoRèmes* journal (2011-present)
 
 
 ## Education
