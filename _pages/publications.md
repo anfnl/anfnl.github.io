@@ -31,7 +31,6 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 **2025**
 
 * Ed. with Bouriau, Christophe. *Du beau, du bon, du vrai, du Pouivet. Mélanges pour Roger Pouivet*. Nancy: EDUL
-* *[Accepté]*. Paris: Presses Universitaires de Nanterre
 
 **2024**
 
