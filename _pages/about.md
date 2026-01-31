@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Associate Professor of Philosophy at the University of Lorraine (France), where I teach systematic theology and contemporary philosophy.
+I am an Associate Professor at the University of Lorraine (France), where I teach systematic theology and contemporary philosophy.
 
 My research focuses on theological language, the epistemology of belief and the relationships between contemporary theology and the social sciences.
 
