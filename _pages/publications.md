@@ -11,7 +11,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 **2022**
 
-* With Meessen, Yves. *[En collaboration]: Ressourcements*. Genève: Labor et Fides
+* With Meessen, Yves. *Lexique de théologie: Ressourcements*. Genève: Labor et Fides
 
 **2021**
 
