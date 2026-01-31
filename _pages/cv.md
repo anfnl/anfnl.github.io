@@ -30,8 +30,9 @@ redirect_from:
 
 * Theological language and epistemology of belief
 * Contemporary theology and philosophy of religion
+* Personal identity
 * Mysticism and religious experience
-* Relationships between theology and social sciences
+* Theology and social sciences
 * Beliefs and Politics
 
 ## Visiting Positions
