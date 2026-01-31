@@ -361,13 +361,3 @@ compress_html:
   ignore:
     envs: development
 
-# Publication categories
-publication_category:
-  books:
-    title: "Books"
-  edited-volumes:
-    title: "Edited Volumes"
-  articles:
-    title: "Journal Articles"
-  chapters:
-    title: "Book Chapters"
