@@ -13,15 +13,15 @@ redirect_from:
 
 * **Associate Professor of Systematic Theology**, University of Lorraine (2014-present)
 * **Junior Member**, Institut Universitaire de France (IUF) (2023-2028)
-* **Editor-in-Chief**, *ThéoRèmes* journal (2011-present)
+* **Director**, *ThéoRèmes* journal (2011-present)
 
 
 ## Education
 
 * **Habilitation (HDR)**, University of Lorraine, 2020
-  * *Powers of Uncertainty: Theology as Philosophical Method*
+  * *The Powers of Uncertainty: Theology as a Philosophical Method*
 * **Ph.D. in Philosophy and Theology** (cotutelle), University of Lille III & University of Geneva, 2008-2013
-  * Dissertation: *More than an Experience? The Epistemological Stakes of the Notion of Religious Experience in K. Barth and H. Bergson*
+  * Dissertation: *More than Experience? The Epistemological Stakes of the Notion of Religious Experience in K. Barth and H. Bergson*
   * Supervisors: Ghislain Waterlot (Geneva) & Frédéric Worms (ENS)
 * **M.A. in History of Philosophy**, École Normale Supérieure de Lyon, 2007
 * **Student**, École Normale Supérieure de Lyon (ENS LSH), 2003-2008
@@ -42,7 +42,7 @@ redirect_from:
 
 ## Awards and Grants
 
-* IUF Junior Membership, 2023-2028
+* IUF Junior Membership, 2025-2030
 * RIPEC 3 Research Bonus, 2024
 * Suzanne Zivi Prize, Académie de Stanislas, 2020
 * LUE Grant (€10,000), "Religions and Identities in Contemporary Russia," 2020
