@@ -7,6 +7,15 @@ author_profile: true
 
 ## Books
 
+<p align="center">
+  <a href="lien1"><img src="images/lexique.png" height="200"></a>
+  <a href="lien2"><img src="images/evidence.png" height="200"></a>
+  <a href="lien3"><img src="images/individu.png" height="200"></a>
+  <a href="lien3"><img src="images/serpent.png" height="200"></a>
+  <a href="lien3"><img src="images/bergson.png" height="200"></a>
+</p>
+
+
 **2022**
 
 * *Lexique de théologie: Ressourcements*. With Y. Meessen. Genève: Labor et Fides
