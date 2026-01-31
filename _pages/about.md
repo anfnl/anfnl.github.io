@@ -15,7 +15,7 @@ I am founder and Publishing Director of the journal [ThéoRèmes](https://journa
 
 I am currently working on an [IUF project](https://www.iufrance.fr/les-membres-de-liuf/membre/2850-anthony-feneuil.html) on the political consequences of the social sciences of belief.
 
-Research Areas: Beliefs • Philosophy And Theology • Identity • Religious Studies
+### Research Areas: Beliefs • Philosophy And Theology • Identity • Religious Studies
 
 For more details, see my [CV](cv/) and [publications](publications/).
 
