@@ -20,14 +20,15 @@ For more details, see my [CV](cv/) and [publications](publications/).
 ### Beliefs • Philosophy And Theology • Identity • Religious Studies
 
 
-<style>
-  .content-wrapper, .post-content, main, .container {
-    max-width: 100% !important;
-    width: 100% !important;
-  }
-</style>
-<div style="margin-top: 60px; width: 100%; display: flex; justify-content: space-between; align-items: center;">
-  <img src="/images/LogoIUF.png" alt="Logo IUF" style="width: 200px;">
-  <img src="/images/logoEcritures.jpg" alt="Logo Écritures" style="width: 200px;">
-</div>
+
+<table style="width: 100%;">
+  <tr>
+    <td style="text-align: left;">
+      <img src="/images/LogoIUF.png" alt="Logo IUF" style="width: 200px;">
+    </td>
+    <td style="text-align: right;">
+      <img src="/images/logoEcritures.jpg" alt="Logo Écritures" style="width: 200px;">
+    </td>
+  </tr>
+</table>
 
