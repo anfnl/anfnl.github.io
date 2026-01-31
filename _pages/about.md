@@ -19,4 +19,8 @@ For more details, see my [CV](cv/) and [publications](publications/).
 
 ### Beliefs • Philosophy And Theology • Identity • Religious Studies
 
+<div style="margin-top: 60px; display: flex; justify-content: space-between; align-items: center;">
+  <img src="assets/images/logoIUF.png" alt="Logo 1" style="width: 150px;">
+  <img src="assets/images/logoEcritures.jpg" alt="Logo 2" style="width: 150px;">
+</div>
 
