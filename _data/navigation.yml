@@ -24,7 +24,7 @@ main:
   - title: "Media"
     url: /media/
 
-    - title: "Downloads"
+  - title: "Downloads"
     url: /download/
     
   # - title: "CV"
