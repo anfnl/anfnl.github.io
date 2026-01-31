@@ -25,7 +25,7 @@ author:
   # Biographic information
   avatar           : "profile.jpg"
   name             : "Anthony Feneuil"
-  pronouns         : "he" # example: "he"  
+  pronouns         : # example: "he"  
   bio              : "Maître de conférences en théologie et philosophie, HDR"
   location         : "Metz, France"
   employer         : "Université de Lorraine"
