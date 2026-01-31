@@ -20,4 +20,7 @@ For more details, see my [CV](cv/) and [publications](publications/).
 ### Beliefs • Philosophy And Theology • Identity • Religious Studies
 
 
-<table style="width:100%; border-collapse: collapse; margin-top: 60px;"><tr><td style="width:50%; padding:0; border:none; text-align:left; vertical-align:middle;"><img src="/images/LogoIUF.png" alt="Logo IUF" height="70"></td><td style="width:50%; padding:0; border:none; text-align:right; vertical-align:middle;"><img src="/images/logoEcritures.jpg" alt="Logo Écritures" height="100"></td></tr></table>
+<div style="display: flex; justify-content: space-between; align-items: flex-end; margin-top: 60px;">
+  <img src="{{ site.baseurl }}/images/logoEcritures.jpg" alt="Logo 1" style="height: 80px;">
+  <img src="{{ site.baseurl }}/images/LogoIUF.png" alt="Logo 2" style="height: 80px;">
+</div>
