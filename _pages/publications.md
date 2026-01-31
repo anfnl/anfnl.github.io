@@ -128,7 +128,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 **2010**
 
-* "‘Le mysticisme à l’état pur’ (Bergson): Images des ténèbres chez Thérèse". *Revue Théologique de Louvain* 41(4), 519–538. [DOI](https://doi-org.bases-doc/10.2143/RTL.41.4.2057474)
+* "‘Le mysticisme à l’état pur’ (Bergson): Images des ténèbres chez Thérèse de Lisieux". *Revue Théologique de Louvain* 41(4), 519–538. [DOI](https://doi-org.bases-doc/10.2143/RTL.41.4.2057474)
 
 **2009**
 
@@ -150,7 +150,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 **2020**
 
-* "‘P: Puissance et dérision du blasphème". In *Le blasphème*, ed. Cédric Burguin and Ludovic Danto. Paris: Artège Lethielleux, 145–157. [Link](https://hal.univ-lorraine.fr/hal-02972703)
+* "‘Peut-être une prière’: Puissance et dérision du blasphème". In *Le blasphème*, ed. Cédric Burguin and Ludovic Danto. Paris: Artège Lethielleux, 145–157. [Link](https://hal.univ-lorraine.fr/hal-02972703)
 
 **2019**
 
