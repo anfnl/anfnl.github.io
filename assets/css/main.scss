@@ -8,6 +8,11 @@
    sorted by the dependencies. Also, the first two lines of the file are required by Jekyll.
  */
 
+$serif: 'Crimson Pro', Georgia, Times, serif;
+$sans-serif: 'Crimson Pro', Georgia, Times, serif;
+$header-font-family: 'Playfair Display', Georgia, Times, serif;
+
+
 @import
     "vendor/breakpoint/breakpoint",
 
