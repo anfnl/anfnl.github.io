@@ -19,6 +19,12 @@ For more details, see my [CV](cv/) and [publications](publications/).
 
 ### Beliefs • Philosophy And Theology • Identity • Religious Studies
 
+
+<style>
+  .content-wrapper, .post-content, main, .container {
+    max-width: 100% !important;
+    width: 100% !important;
+  }
 </style>
 <div style="margin-top: 60px; width: 100%; display: flex; justify-content: space-between; align-items: center;">
   <img src="/images/LogoIUF.png" alt="Logo IUF" style="width: 200px;">
