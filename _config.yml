@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "https://bsky.app/profile/anfnl.bsky.social" # Replace this with you Bluesky username
+  bluesky          : "bsky.app/profile/anfnl.bsky.social" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/anthony-feneuil-572465245/"
+  linkedin         : "anthony-feneuil-572465245/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
