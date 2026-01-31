@@ -21,8 +21,5 @@ For more details, see my [CV](cv/) and [publications](publications/).
 
 
 
-<div class="logos-footer">
-  <img src="/images/LogoIUF.png" alt="Logo IUF">
-  <img src="/images/logoEcritures.jpg" alt="Logo Écritures">
-</div>
+<div class="logos-footer"><img src="/images/LogoIUF.png" alt="Logo IUF"><img src="/images/logoEcritures.jpg" alt="Logo Écritures"></div>
 
