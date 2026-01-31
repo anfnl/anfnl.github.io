@@ -21,6 +21,6 @@ For more details, see my [CV](cv/) and [publications](publications/).
 
 
 <div style="display: flex; justify-content: space-between; align-items: flex-end; margin-top: 60px;">
-  <img src="{{ site.baseurl }}/images/logoEcritures.jpg" alt="Logo 1" style="height: 80px;">
-  <img src="{{ site.baseurl }}/images/LogoIUF.png" alt="Logo 2" style="height: 80px;">
+  <img src="{{anfnl.github.io}}/images/logoEcritures.jpg" alt="Logo 1" style="height: 80px;">
+  <img src="{{anfnl.github.io}}/images/LogoIUF.png" alt="Logo 2" style="height: 80px;">
 </div>
