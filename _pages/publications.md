@@ -8,11 +8,11 @@ author_profile: true
 ## Books
 
 <p align="center">
-  <a href="lien1"><img src="images/lexique.png" height="200"></a>
-  <a href="lien2"><img src="images/evidence.png" height="200"></a>
-  <a href="lien3"><img src="images/individu.png" height="200"></a>
-  <a href="lien3"><img src="images/serpent.png" height="200"></a>
-  <a href="lien3"><img src="images/bergson.png" height="200"></a>
+  <a href="lien1"><img src="images/images_livres/lexique.png" height="200"></a>
+  <a href="lien2"><img src="images/images_livres/evidence.png" height="200"></a>
+  <a href="lien3"><img src="images/images_livres/individu.png" height="200"></a>
+  <a href="lien3"><img src="images/images_livres/serpent.png" height="200"></a>
+  <a href="lien3"><img src="images/images_livres/bergson.png" height="200"></a>
 </p>
 
 
