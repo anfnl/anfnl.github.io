@@ -4,5 +4,7 @@ table img {
 }
 
 .logos-footer td:first-child img {
-  height: 60px !important;
+  height: auto !important;
+  width: 180px !important;
+  max-width: 180px !important;
 }
