@@ -14,6 +14,9 @@ main:
   
   - title: "Publications"
     url: /publications/
+    children:
+      - title: "Books"
+      url/publications/#books
 
   - title: "Talks"
     url: /talks/      
