@@ -29,18 +29,19 @@
 
 {% if page.permalink == '/publications/' or page.permalink == '/talks/' or page.permalink == '/teachings/' or page.permalink == '/media/' %}
 <style>
-  .archive__item li {
-    margin-bottom: 0.15em;
+  .archive ul {
+    margin-bottom: 0;
+  }
+  .archive p:empty {
+    display: none;
+  }
+  .archive li {
+    margin-bottom: 0.1em;
     line-height: 1.4;
   }
-  .archive__item p strong {
-    display: block;
-    margin-top: 0.6em;
-    margin-bottom: 0.1em;
-  }
-  .archive__item h2 {
-    margin-top: 1.2em;
-    margin-bottom: 0.3em;
+  .archive h2 {
+    margin-top: 1em;
+    margin-bottom: 0.2em;
   }
 </style>
 {% endif %}
