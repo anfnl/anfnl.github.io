@@ -15,6 +15,23 @@ author_profile: true
   <a href="https://www.puf.com/bergson-mystique-et-philosophie"><img src="/images/images_livres/bergson.png" height="200"></a>
 </p>
 
+<style>
+  .pub-tight li {
+    margin-bottom: 0.15em;
+    line-height: 1.4;
+  }
+  .pub-tight p strong {
+    display: block;
+    margin-top: 0.6em;
+    margin-bottom: 0.1em;
+  }
+  .pub-tight h2 {
+    margin-top: 1.2em;
+    margin-bottom: 0.3em;
+  }
+</style>
+
+<div class="pub-tight" markdown="1">
 
 **2022**
 
@@ -204,3 +221,5 @@ author_profile: true
 * "Le Dieu de _L'Évolution créatrice_ est-il un Dieu des philosophes?". In *Annales Bergsoniennes IV*, ed. Anne Fagault-Largeault and Frédéric Worms. Paris: PUF, 309–324. [Link](https://archive-ouverte.unige.ch/unige:5246)
 * "Morale et religion : quelle unité pour textitLes Deux sources". In *Bergson et la religion : nouvelles perspectives sur Les deux sources de la morale et de la religion*, ed. Ghislain Waterlot. Paris: PUF, 355–377. [Link](https://archive-ouverte.unige.ch/unige:5246)
 * "Édition critique de ‘L'intuition philosophique’ de Henri Bergson". In *La Pensée et le Mouvant*. Paris: PUF
+
+</div>
