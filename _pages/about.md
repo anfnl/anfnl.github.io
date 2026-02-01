@@ -21,7 +21,7 @@ For more details, see my [CV](cv/) and [publications](publications/).
 
 <br>
 
-<p style="font-family: 'Crimson Pro', sans-serif; color: #666; font-weight: normal; font-size: 1em; letter-spacing: 0.05em;">Beliefs · Philosophy & Theology · Identity · Religious Studies Epistemology</p>
+<p style="font-family: 'Crimson Pro', sans-serif; color: #666; font-weight: normal; font-size: 1em; letter-spacing: 0.05em; text-align: center;">Beliefs · Philosophy & Theology · Identity · Religious Studies Epistemology</p>
 
 <br>
 
