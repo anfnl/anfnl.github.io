@@ -21,7 +21,7 @@ redirect_from:
 ### Education
 
 * **Habilitation (HDR)**, University of Lorraine, 2020
-  * *The Powers of Uncertainty: Theology as a Philosophical Method*
+  * *Powers of Uncertainty: Theology as a Philosophical Method*
 * **Ph.D. in Philosophy and Theology** (cotutelle), University of Lille III & University of Geneva, 2008-2013
   * Dissertation: *More than Experience? The Epistemological Stakes of the Notion of Religious Experience in K. Barth and H. Bergson*
   * Supervisors: Ghislain Waterlot (Geneva) & Frédéric Worms (ENS)
