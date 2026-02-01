@@ -5,6 +5,14 @@ permalink: /publications/
 author_profile: true
 header: false
 ---
+<p align="center">
+  <a href="https://www.laboretfides.com/product/un-lexique-theologique/"><img src="/images/images_livres/lexique.png" height="200"></a>
+  <a href="https://www.laboretfides.com/product/l-evidence-de-dieu/"><img src="/images/images_livres/evidence.png" height="200"></a>
+  <a href="https://www.cnrseditions.fr/catalogue/philosophie-et-histoire-des-idees/l-individu-impossible/"><img src="/images/images_livres/individu.png" height="200"></a>
+  <a href="https://www.lagedhomme.com/ouvrages/anthony+feneuil/le+serpent+d%27aaron/4058"><img src="/images/images_livres/serpent.png" height="200"></a>
+  <a href="https://www.puf.com/bergson-mystique-et-philosophie"><img src="/images/images_livres/bergson.png" height="200"></a>
+</p>
+
 
 <br>
 
