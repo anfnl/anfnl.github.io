@@ -17,8 +17,7 @@ I am currently working on an [IUF project](https://www.iufrance.fr/les-membres-d
 
 For more details, see my [CV](cv/) and [publications](publications/).
 
-### Beliefs • Philosophy And Theology • Identity • Religious Studies
-
+<p style="font-family: 'Segoe UI', sans-serif; color: #888; font-weight: normal; font-size: 0.95em; letter-spacing: 0.05em;">Beliefs · Philosophy And Theology · Identity · Religious Studies</p>
 
 <div style="display: flex; justify-content: space-between; align-items: flex-end; margin-top: 60px;">
   <a href="https://ecritures.univ-lorraine.fr/"><img src="https://anfnl.github.io/images/logoEcritransp.png" alt="Logo 1" style="height: 80px;"></a>
