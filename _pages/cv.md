@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-## Current Positions
+### Current Positions
 
 * **Associate Professor of Systematic Theology**, University of Lorraine (2014-present)
 * **Junior Member**, Institut Universitaire de France (IUF) (2023-2028)
@@ -18,7 +18,7 @@ redirect_from:
 * **Member of the Executive Commitee**, ANR ReligiS (2024-present)
 
 
-## Education
+### Education
 
 * **Habilitation (HDR)**, University of Lorraine, 2020
   * *The Powers of Uncertainty: Theology as a Philosophical Method*
@@ -28,7 +28,7 @@ redirect_from:
 * **M.A. in History of Philosophy**, École Normale Supérieure de Lyon, 2007
 * **Student**, École Normale Supérieure de Lyon (ENS LSH), 2003-2008
 
-## Research Interests
+### Research Interests
 
 * Theological language and epistemology of belief
 * Contemporary theology and philosophy of religion
@@ -37,30 +37,30 @@ redirect_from:
 * Theology and social sciences
 * Beliefs and Politics
 
-## Visiting Positions
+### Visiting Positions
 
 * Visiting Scholar, University of Helsinki, Faculty of Theology, March-June 2022
 * Research Leave (CRCT + LUE), Moscow, CEFR & Institute of Philosophy, 2021-2022
 * Visiting Doctoral Student, Princeton Theological Seminary, September 2012-February 2013
 
-## Awards and Grants
+### Awards and Grants
 
 * IUF Junior Membership, 2025-2030
 * Suzanne Zivi Prize, Académie de Stanislas, 2020
 * LUE Grant (€10,000), "Religions and Identities in Contemporary Russia," 2020
 
-## Editorial Responsibilities
+### Editorial Responsibilities
 
 * Editor-in-Chief, *ThéoRèmes* (2011-present) - indexed in ERIH+, Scopus
 * Editorial Board, *Laval théologique et philosophique* (2025-present)
 * Editorial Board, *Analecta Bruxellensia* (2024-present)
 
-## Professional Societies
+### Professional Societies
 
 * Secretary, Société francophone de philosophie de la religion (2022-present)
 * Member, Société des amis de Bergson
 
-## Languages
+### Languages
 
 * French (native)
 * English (fluent, C1)
