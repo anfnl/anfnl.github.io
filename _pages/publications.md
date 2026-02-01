@@ -6,25 +6,15 @@ author_profile: true
 header: false
 ---
 
-## Books
+# Edited Volumes
 
-<p align="center">
-  <a href="https://www.laboretfides.com/product/un-lexique-theologique/"><img src="/images/images_livres/lexique.png" height="200"></a>
-  <a href="https://www.laboretfides.com/product/l-evidence-de-dieu/"><img src="/images/images_livres/evidence.png" height="200"></a>
-  <a href="https://www.cnrseditions.fr/catalogue/philosophie-et-histoire-des-idees/l-individu-impossible/"><img src="/images/images_livres/individu.png" height="200"></a>
-  <a href="https://www.lagedhomme.com/ouvrages/anthony+feneuil/le+serpent+d%27aaron/4058"><img src="/images/images_livres/serpent.png" height="200"></a>
-  <a href="https://www.puf.com/bergson-mystique-et-philosophie"><img src="/images/images_livres/bergson.png" height="200"></a>
-</p>
+2025\. *Du beau, du bon, du vrai, du Pouivet. Mélanges pour Roger Pouivet*. Ed. with Bouriau, Christophe. Nancy: EDUL
 
-## Edited Volumes
+2024\. *Théologie et sociétés : usages sociaux des discours théologiques*. Ed. with Sarg, Rachel. *ThéoRèmes* 21-2024. [DOI](https://doi-org/10.4000/12z8p)
 
-2025. *Du beau, du bon, du vrai, du Pouivet. Mélanges pour Roger Pouivet*. Ed. with Bouriau, Christophe. Nancy: EDUL
+2022\. *Imiter Dieu*. Ed. with Mazzocco, Mariel and Waterlot, Ghislain. Paris: Cerf
 
-2024. *Théologie et sociétés : usages sociaux des discours théologiques*. Ed. with Sarg, Rachel. *ThéoRèmes* 21-2024. [DOI](https://doi-org/10.4000/12z8p)
-
-2022. *Imiter Dieu*. Ed. with Mazzocco, Mariel and Waterlot, Ghislain. Paris: Cerf
-
-2019. *Le paradoxe de la finitude: Représentations, conditions, dépassements*. Ed. with Longo, Ana and Trentini, Bruno. Milan: Mimésis
+2019\. *Le paradoxe de la finitude: Représentations, conditions, dépassements*. Ed. with Longo, Ana and Trentini, Bruno. Milan: Mimésis
 
 2018a. *L'expérience de l'éternité: Philosophie, mystique, clinique*. Ed. with Krtolica, Igor. Paris: Hermann
 
@@ -34,25 +24,25 @@ header: false
 
 2017b. *Religion et rationalité*. Ed. with Pouivet, Roger. *Revue de Théologie et de Philosophie* 1-2
 
-2016. *Le protestantisme libéral: Une théologie aux limites ?*. Ed. with Waterlot, Ghislain. *ThéoRèmes* 8-2016. [DOI](https://doi.org/10.4000/theoremes.766)
+2016\. *Le protestantisme libéral: Une théologie aux limites ?*. Ed. with Waterlot, Ghislain. *ThéoRèmes* 8-2016. [DOI](https://doi.org/10.4000/theoremes.766)
 
-2014. *Le réalisme spéculatif entre athéisme et messianisme*. Ed. with Schmitt, Yann. *ThéoRèmes* 6-2014. [DOI](https://doi.org/10.4000/theoremes.617)
+2014\. *Le réalisme spéculatif entre athéisme et messianisme*. Ed. with Schmitt, Yann. *ThéoRèmes* 6-2014. [DOI](https://doi.org/10.4000/theoremes.617)
 
-2013. *L'incroyance religieuse*. Ed. with Schmitt, Yann. *ThéoRèmes* 5-2013. [DOI](https://doi.org/10.4000/theoremes.507)
+2013\. *L'incroyance religieuse*. Ed. with Schmitt, Yann. *ThéoRèmes* 5-2013. [DOI](https://doi.org/10.4000/theoremes.507)
 
 2012a. *L'expérience religieuse: Approches empiriques, enjeux philosophiques*. Paris: Beauchesne
 
 2012b. *Les renouveaux analytiques de la philosophie de la religion en question*. Ed. with Waterlot, Ghislain. *ThéoRèmes* 2-2012. [DOI](https://doi-org/10.4000/theoremes.259)
 
-## Journal Articles
+# Journal Articles
 
-2025. "Jürgen Moltmann, théologien de l'avenir". *Études*(4322), 71-79
+2025\. "Jürgen Moltmann, théologien de l'avenir". *Études*(4322), 71-79
 
-2023. "Le christianisme sans histoire: Teilhard de Chardin et les dernières amarres du Néolithique". *Revue de Théologie et de Philosophie*(155:3), 285–298
+2023\. "Le christianisme sans histoire: Teilhard de Chardin et les dernières amarres du Néolithique". *Revue de Théologie et de Philosophie*(155:3), 285–298
 
-2022. "L'extase et son écho: sur deux aspects de la théorie bergsonienne de la mystique". *Lo Sguardo – rivista di filosofia* 2021:2(33). [DOI](https://doi.org/10.5281/zenodo.6950115)
+2022\. "L'extase et son écho: sur deux aspects de la théorie bergsonienne de la mystique". *Lo Sguardo – rivista di filosofia* 2021:2(33). [DOI](https://doi.org/10.5281/zenodo.6950115)
 
-2020. "Le plus certain textiten soi: La foi comme affaiblissement de la croyance d'après Thomas d'Aquin". *Philosophie*(145), 47–60. [Link](https://hal.univ-lorraine.fr/hal-02906771)
+2020\. "Le plus certain textiten soi: La foi comme affaiblissement de la croyance d'après Thomas d'Aquin". *Philosophie*(145), 47–60. [Link](https://hal.univ-lorraine.fr/hal-02906771)
 
 2019a. "No Future: sur une fausse distinction entre le possible et le virtuel chez Bergson". *Revue Philosophique de Louvain* 117(1), 83–111. [DOI](10.2143/RPL.117.1.3287048)
 
@@ -60,29 +50,29 @@ header: false
 
 2019c. "Quelques remarques, entre gentlemen, sur la critique de Bergson par Santayana". *Teorema -Limbo*(39), 77–84. [DOI](https://dialnet.unirioja.es/descarga/articulo/7265683.pdf)
 
-2017. "La raison sans limite (Joseph Bochenski et Karl Barth)". *Revue de théologie et de philosophie* 149(2017:1-2), 168–180. [DOI](http://www.jstor.org/stable/45465680)
+2017\. "La raison sans limite (Joseph Bochenski et Karl Barth)". *Revue de théologie et de philosophie* 149(2017:1-2), 168–180. [DOI](http://www.jstor.org/stable/45465680)
 
-2016. "Sciences des religions et théologie : l'apport de Karl Barth". *Cahiers d'étude du religieux. Recherches interdisciplinaires*(15-2016). [DOI](https://doi-org/10.4000/cerri.1484)
+2016\. "Sciences des religions et théologie : l'apport de Karl Barth". *Cahiers d'étude du religieux. Recherches interdisciplinaires*(15-2016). [DOI](https://doi-org/10.4000/cerri.1484)
 
-2015. "A Philosophical Audacity: Karl Barth's Notion of Experience between Neo-Kantianism and Nietzsche". *International Journal for Systematic Theology* 17/1, 68–88. [DOI](https://doi.org/10.1111/ijst.12077)
+2015\. "A Philosophical Audacity: Karl Barth's Notion of Experience between Neo-Kantianism and Nietzsche". *International Journal for Systematic Theology* 17/1, 68–88. [DOI](https://doi.org/10.1111/ijst.12077)
 
 2014a. "'Plus de force pour agir et pour vivre' : vie, intelligence et intuition dans textitL'Évolution créatrice". *Studia Philosophica*(73/2014), 185–199. [Link](https://hal.univ-lorraine.fr/hal-01096469)
 
 2014b. "'Que le dieu soit là' : Le tournant corrélationniste de Quentin Meillassoux". *ThéoRèmes*(6/2014). [DOI](https://doi-org/10.4000/theoremes.651)
 
-2013. "Schleiermacher pour Barth : un problème éthique". *Laval théologique et philosophique* 69(1), 63–77. [DOI](https://doi.org/10.7202/1018356ar)
+2013\. "Schleiermacher pour Barth : un problème éthique". *Laval théologique et philosophique* 69(1), 63–77. [DOI](https://doi.org/10.7202/1018356ar)
 
 2012a. "De l'immédiatement donné au 'détour de l'expérience mystique'. Remarques sur l'unité de la méthode intuitive chez Bergson". *Philosophos* 17(1), 31–54. [DOI](https://doi.org/10.5216/phi.v17i1.17542)
 
 2012b. "Percevoir Dieu ? Henri Bergson et William P. Alston : une hypothèse sur la différence entre philosophie continentale et analytique de la religion". *ThéoRèmes* 0(2). [DOI](https://doi-org/10.4000/theoremes.310)
 
-2011. "Critique textuelle et expérience mystique : la série thérésienne de Claude Langlois". *Revue de l'histoire des religions* 228(1/2011), 93–103. [DOI](https://doi-org.bases-doc/10.4000/rhr.7717)
+2011\. "Critique textuelle et expérience mystique : la série thérésienne de Claude Langlois". *Revue de l'histoire des religions* 228(1/2011), 93–103. [DOI](https://doi-org.bases-doc/10.4000/rhr.7717)
 
-2010. "'Le mysticisme à l'état pur' (Bergson): Images des ténèbres chez Thérèse de Lisieux". *Revue Théologique de Louvain* 41(4), 519–538. [DOI](https://doi-org.bases-doc/10.2143/RTL.41.4.2057474)
+2010\. "'Le mysticisme à l'état pur' (Bergson): Images des ténèbres chez Thérèse de Lisieux". *Revue Théologique de Louvain* 41(4), 519–538. [DOI](https://doi-org.bases-doc/10.2143/RTL.41.4.2057474)
 
-2009. "La foi change-t-elle l'histoire ?: Bergson et Péguy devant les sciences historiques du Christ". *L'Amitié Charles Péguy* 32(126), 205–218. [DOI](https://archive-ouverte.unige.ch/unige:3987)
+2009\. "La foi change-t-elle l'histoire ?: Bergson et Péguy devant les sciences historiques du Christ". *L'Amitié Charles Péguy* 32(126), 205–218. [DOI](https://archive-ouverte.unige.ch/unige:3987)
 
-## Book Chapters
+# Book Chapters
 
 2025a. "Préserve nous de la solidarité originelle... ? L'identité personnelle, la solidarité humaine et la mort, à partir du commentaire de Rm 5, 12 par John Locke". In *À partir de la grâce. Recherches théologiques*, ed. Brouwer, Louis de and Valinho Gomes, Pedro. Louvain-La-Neuve: PU Louvain, 85–97
 
@@ -96,9 +86,9 @@ header: false
 
 2022c. "L'imitation originale: entre christologie et anthropologie". In *Imiter Dieu*, ed. Anthony Feneuil and Mariel Mazocco and Ghislain Waterlot. Paris: Cerf, 387–405
 
-2020. "'Peut-être une prière': Puissance et dérision du blasphème". In *Le blasphème*, ed. Cédric Burguin and Ludovic Danto. Paris: Artège Lethielleux, 145–157. [Link](https://hal.univ-lorraine.fr/hal-02972703)
+2020\. "'Peut-être une prière': Puissance et dérision du blasphème". In *Le blasphème*, ed. Cédric Burguin and Ludovic Danto. Paris: Artège Lethielleux, 145–157. [Link](https://hal.univ-lorraine.fr/hal-02972703)
 
-2019. "'D: L'infinité des possibles et la constitution du soi : une théorie de l'identité à partir de Kierkegaard". In *Le paradoxe de la finitude*, ed. Anthony Feneuil and Anna Longo and Bruno Trentini. Milan: Éditions Mimésis, 83–94. [Link](https://hal.univ-lorraine.fr/hal-02367196)
+2019\. "'D: L'infinité des possibles et la constitution du soi : une théorie de l'identité à partir de Kierkegaard". In *Le paradoxe de la finitude*, ed. Anthony Feneuil and Anna Longo and Bruno Trentini. Milan: Éditions Mimésis, 83–94. [Link](https://hal.univ-lorraine.fr/hal-02367196)
 
 2018a. "Corpus Æternitatis". In *L'expérience de l'éternité*, ed. Anthony Feneuil and Igor Krtolica. Paris: Hermann, 99–111. [Link](https://hal.univ-lorraine.fr/hal-01996221)
 
@@ -112,9 +102,9 @@ header: false
 
 2017b. "Après l'apocalypse : remarques sur l'eschatologie au passé". In *Game Over? Reconsidering Eschatology*, ed. Christophe Chalamet and al.. Berlin: De Gruyter, 251–260. [DOI](https://doi.org/10.1515/9783110521412-016)
 
-2015. "The Cross of Wisdom: Ambiguities in Turning Down Apologetics (Paul, Anselm, Barth)". In *The Wisdom and Foolishness of God: First Corinthians 1-2 in Theological Exploration*, ed. Hans-Christoph Askani and Christophe Chalamet. Minneapolis: Fortress Press, 167–181. [DOI](https://doi.org/10.1515/9783110521412-016)
+2015\. "The Cross of Wisdom: Ambiguities in Turning Down Apologetics (Paul, Anselm, Barth)". In *The Wisdom and Foolishness of God: First Corinthians 1-2 in Theological Exploration*, ed. Hans-Christoph Askani and Christophe Chalamet. Minneapolis: Fortress Press, 167–181. [DOI](https://doi.org/10.1515/9783110521412-016)
 
-2014. "L'espérance intégrale : Charles Péguy théologien de la mort de Dieu". In *C*, ed. Camille Riquier. Paris: Cerf, 287-305. [Link](https://www.editionsducerf.fr/librairie/livre/8648/J.-B)
+2014\. "L'espérance intégrale : Charles Péguy théologien de la mort de Dieu". In *C*, ed. Camille Riquier. Paris: Cerf, 287-305. [Link](https://www.editionsducerf.fr/librairie/livre/8648/J.-B)
 
 2013a. "Entrées 'Sarah Edwards', 'Lucy Farrow', 'Martha Ramsey'". In *Les femmes mystiques : Histoire et dictionnaire*, ed. Audrey Fella. Paris: Laffont
 
@@ -130,7 +120,7 @@ header: false
 
 2012d. "Henri Bergson: Incrédulité post-moderne et universalisme mystique". In *Où est la vérité ? La théologie aux défis de la Radical Orthodoxy et de la déconstruction*, ed. Dimitri Andronicos and Hans-Christoph Askani and Carlos Mendoza and Denis Müller. Genève: Labor et Fides, 229–244. [Link](https://archive-ouverte.unige.ch/unige:18763)
 
-2010. "Thérèse de Lisieux : Nouvelle Jeanne d'Arc ou 'Sainte des poilus'?". In *La Mystique face aux guerres mondiales*, ed. Dominique de Courcelles and Ghislain Waterlot. Paris: PUF, 69–86. [Link](https://archive-ouverte.unige.ch/unige:18482)
+2010\. "Thérèse de Lisieux : Nouvelle Jeanne d'Arc ou 'Sainte des poilus'?". In *La Mystique face aux guerres mondiales*, ed. Dominique de Courcelles and Ghislain Waterlot. Paris: PUF, 69–86. [Link](https://archive-ouverte.unige.ch/unige:18482)
 
 2008a. "Le Dieu de _L'Évolution créatrice_ est-il un Dieu des philosophes?". In *Annales Bergsoniennes IV*, ed. Anne Fagault-Largeault and Frédéric Worms. Paris: PUF, 309–324. [Link](https://archive-ouverte.unige.ch/unige:5246)
 
