@@ -6,12 +6,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&display=swap');
 
 /* ============================================
-   Subtle texture — on body, non-intrusive
+   Subtle texture
    ============================================ */
 body {
-  background-color: #f5f2ed;
-  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='0.08'/%3E%3C/svg%3E");
-  background-size: 256px 256px;
+  background-color: #f5f2ed !important;
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='0.08'/%3E%3C/svg%3E") !important;
+  background-size: 256px 256px !important;
 }
 
 /* ============================================
@@ -30,7 +30,15 @@ body {
   margin-bottom: 0.6em;
 }
 
-/* Section headings */
+/* h1 */
+.page__content h1 {
+  font-family: 'Crimson Pro', Georgia, serif;
+  font-weight: 600;
+  letter-spacing: -0.02em;
+  color: #2c2c2c;
+}
+
+/* h2 — section headings (Books, Edited Volumes...) */
 .page__content h2 {
   font-family: 'Crimson Pro', Georgia, serif;
   font-weight: 600;
@@ -43,18 +51,21 @@ body {
   border-bottom: 1px solid #e0dbd4;
 }
 
-/* Sub-headings (années, etc.) */
+/* h3 — années */
 .page__content h3 {
   font-family: 'Crimson Pro', Georgia, serif;
   font-weight: 600;
   font-size: 1.15em;
   color: #7a7068;
   letter-spacing: 0.04em;
-  margin-top: 1.2em;
-  margin-bottom: 0.3em;
+  margin-top: 0.8em;
+  margin-bottom: 0.15em;
 }
 
-/* Publication entries */
+/* ============================================
+   Listes
+   ============================================ */
+
 .page__content ul {
   list-style: none;
   padding-left: 0;
@@ -64,14 +75,14 @@ body {
 .page__content ul li {
   font-family: 'Crimson Pro', Georgia, serif;
   font-size: 1.08em;
-  line-height: 1.6;
+  line-height: 1.4;
   color: #3d3832;
-  padding: 0.35em 0;
+  padding: 0.15em 0;
   padding-left: 1.2em;
   position: relative;
 }
 
-/* Tiret comme puche */
+/* Tiret comme puce */
 .page__content ul li::before {
   content: '—';
   position: absolute;
@@ -87,7 +98,10 @@ body {
   color: #2c2c2c;
 }
 
-/* Links */
+/* ============================================
+   Links
+   ============================================ */
+
 .page__content a {
   color: #6b5b4e;
   text-decoration: none;
@@ -100,7 +114,10 @@ body {
   border-bottom-color: #3a3530;
 }
 
-/* Book covers */
+/* ============================================
+   Images (couvertures de livres)
+   ============================================ */
+
 .page__content img {
   box-shadow: 0 2px 12px rgba(60, 55, 48, 0.12);
   border-radius: 2px;
@@ -112,7 +129,7 @@ body {
   transform: translateY(-2px);
 }
 
-/* Sidebar author profile — keep it clean */
+/* Sidebar — ne pas toucher à l'avatar */
 .author__avatar img {
   box-shadow: none;
 }
@@ -120,4 +137,33 @@ body {
 .author__avatar img:hover {
   box-shadow: none;
   transform: none;
+}
+
+/* ============================================
+   Body text — Crimson Pro partout
+   ============================================ */
+
+.page__content p {
+  font-family: 'Crimson Pro', Georgia, serif;
+  font-size: 1.08em;
+  line-height: 1.6;
+  color: #3d3832;
+}
+
+/* Tags (Beliefs • Philosophy...) */
+.page__content .archive__item--tags a,
+.page__content a.tag {
+  font-family: 'Crimson Pro', Georgia, serif;
+}
+
+/* ============================================
+   Supprimer l'espace blanc en bas
+   ============================================ */
+
+.page__content {
+  min-height: unset !important;
+}
+
+.content--single {
+  min-height: unset !important;
 }
