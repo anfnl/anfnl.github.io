@@ -21,31 +21,31 @@ header: false
 
 # Edited Volumes
 
-2025\. *Du beau, du bon, du vrai, du Pouivet. Mélanges pour Roger Pouivet* (On Beauty, Goodness, Truth, and Pouivet: Essays in Honor of Roger Pouivet). Ed. with Bouriau, Christophe. Nancy: EDUL
+2025\. [*Du beau, du bon, du vrai, du Pouivet. Mélanges pour Roger Pouivet*](https://editions.univ-lorraine.fr/edul/catalog/book/b9782384511822) (On Beauty, Goodness, Truth, and Pouivet: Essays in Honor of Roger Pouivet). Ed. with Bouriau, Christophe. Nancy: EDUL
 
-2024\. *Théologie et sociétés : usages sociaux des discours théologiques* (Theology and Societies: Social Uses of Theological Discourse). Ed. with Sarg, Rachel. *ThéoRèmes* 21-2024. [DOI](https://doi-org/10.4000/12z8p)
+2024\. [*Théologie et sociétés : usages sociaux des discours théologiques*](https://doi-org/10.4000/12z8p) (Theology and Societies: Social Uses of Theological Discourse). Ed. with Sarg, Rachel. *ThéoRèmes* 21-2024
 
-2022\. *Imiter Dieu* (Imitating God). Ed. with Mazzocco, Mariel and Waterlot, Ghislain. Paris: Cerf
+2022\. [*Imiter Dieu*](https://search.worldcat.org/title/Imiter-Dieu-:-approches-theologiques-philosophiques-et-historiques/oclc/1369803127) (Imitating God). Ed. with Mazzocco, Mariel and Waterlot, Ghislain. Paris: Cerf
 
-2019\. *Le paradoxe de la finitude: Représentations, conditions, dépassements* (The Paradox of Finitude: Representations, Conditions, Overcoming). Ed. with Longo, Ana and Trentini, Bruno. Milan: Mimésis
+2019\. [*Le paradoxe de la finitude: Représentations, conditions, dépassements*](https://www.editionsmimesis.fr/catalogue/le-paradoxe-de-la-finitude/) (The Paradox of Finitude: Representations, Conditions, Overcoming). Ed. with Longo, Ana and Trentini, Bruno. Milan: Mimésis
 
-2018a. *L'expérience de l'éternité: Philosophie, mystique, clinique* (The Experience of Eternity: Philosophy, Mysticism, Clinic). Ed. with Krtolica, Igor. Paris: Hermann
+2018a. [*L'expérience de l'éternité: Philosophie, mystique, clinique*](https://www.editions-hermann.fr/livre/l-experience-de-l-eternite-anthony-feneuil) (The Experience of Eternity: Philosophy, Mysticism, Clinic). Ed. with Krtolica, Igor. Paris: Hermann
 
-2018b. *Le transcendantal: Réceptions et mutations d'une notion kantienne* (The Transcendental: Receptions and Mutations of a Kantian Notion). Ed. with Bouriau, Christophe and Meessen, Yves. Nancy: Presses Universitaires de Nancy
+2018b. [*Le transcendantal: Réceptions et mutations d'une notion kantienne*](https://www.lcdpu.fr/livre/?GCOI=27000100550890&fa=description) (The Transcendental: Receptions and Mutations of a Kantian Notion). Ed. with Bouriau, Christophe and Meessen, Yves. Nancy: Presses Universitaires de Nancy
 
-2017a. *Annales Bergsoniennes VIII*. Ed. with François, Arnaud, Riquier, Camille and Waterlot, Ghislain. Paris: PUF
+2017a. [*Annales Bergsoniennes VIII*](https://www.puf.com/annales-bergsoniennes-viii). Ed. with François, Arnaud, Riquier, Camille and Waterlot, Ghislain. Paris: PUF
 
-2017b. *Religion et rationalité* (Religion and Rationality). Ed. with Pouivet, Roger. *Revue de Théologie et de Philosophie* 1-2
+2017b. [*Religion et rationalité*](https://www.e-periodica.ch/digbib/view?pid=rtp-003%3A2017%3A149%3A%3A4) (Religion and Rationality). Ed. with Pouivet, Roger. *Revue de Théologie et de Philosophie* 1-2
 
-2016\. *Le protestantisme libéral: Une théologie aux limites ?* (Liberal Protestantism: A Theology at Its Limits?). Ed. with Waterlot, Ghislain. *ThéoRèmes* 8-2016. [DOI](https://doi.org/10.4000/theoremes.766)
+2016\. [*Le protestantisme libéral: Une théologie aux limites ?*](https://doi.org/10.4000/theoremes.766) (Liberal Protestantism: A Theology at Its Limits?). Ed. with Waterlot, Ghislain. *ThéoRèmes* 8-2016
 
-2014\. *Le réalisme spéculatif entre athéisme et messianisme* (Speculative Realism between Atheism and Messianism). Ed. with Schmitt, Yann. *ThéoRèmes* 6-2014. [DOI](https://doi.org/10.4000/theoremes.617)
+2014\. [*Le réalisme spéculatif entre athéisme et messianisme*](https://doi.org/10.4000/theoremes.617) (Speculative Realism between Atheism and Messianism). Ed. with Schmitt, Yann. *ThéoRèmes* 6-2014
 
-2013\. *L'incroyance religieuse* (Religious Disbelief). Ed. with Schmitt, Yann. *ThéoRèmes* 5-2013. [DOI](https://doi.org/10.4000/theoremes.507)
+2013\. [*L'incroyance religieuse*](https://doi.org/10.4000/theoremes.507) (Religious Disbelief). Ed. with Schmitt, Yann. *ThéoRèmes* 5-2013
 
-2012a. *L'expérience religieuse: Approches empiriques, enjeux philosophiques* (Religious Experience: Empirical Approaches, Philosophical Stakes). Paris: Beauchesne
+2012a. [*L'expérience religieuse: Approches empiriques, enjeux philosophiques*](https://search.worldcat.org/fr/title/810676549) (Religious Experience: Empirical Approaches, Philosophical Stakes). Paris: Beauchesne
 
-2012b. *Les renouveaux analytiques de la philosophie de la religion en question* (The Analytic Renewals of the Philosophy of Religion in Question). Ed. with Waterlot, Ghislain. *ThéoRèmes* 2-2012. [DOI](https://doi-org/10.4000/theoremes.259)
+2012b. [*Les renouveaux analytiques de la philosophie de la religion en question*](https://doi.org/10.4000/theoremes.259) (The Analytic Renewals of the Philosophy of Religion in Question). Ed. with Waterlot, Ghislain. *ThéoRèmes* 2-2012
 
 <br>
 
