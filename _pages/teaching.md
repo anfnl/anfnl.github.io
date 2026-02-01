@@ -5,12 +5,6 @@ permalink: /teaching/
 author_profile: true
 ---
 
----
-layout: archive
-title: "Teaching Experience"
-permalink: /teaching/
-author_profile: true
----
 ### Université de Lorraine - Master of Theology
 - **Screen Arts** (*Arts de l'écran*)
 - **Questions of Contemporary Theology** (*Questions de théologie contemporaine*)
