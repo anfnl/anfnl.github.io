@@ -20,49 +20,49 @@ header: false
 
 **2025**
 
-* _Du beau, du bon, du vrai, du Pouivet. Mélanges pour Roger Pouivet_. Ed. with Bouriau, Christophe. Nancy: EDUL
+*Du beau, du bon, du vrai, du Pouivet. Mélanges pour Roger Pouivet*. Ed. with Bouriau, Christophe. Nancy: EDUL
 
 **2024**
 
-***Théologie et sociétés : usages sociaux des discours théologiques***. Ed. with Sarg, Rachel. *ThéoRèmes* 21-2024. [DOI](https://doi-org/10.4000/12z8p)
+*Théologie et sociétés : usages sociaux des discours théologiques*. Ed. with Sarg, Rachel. *ThéoRèmes* 21-2024. [DOI](https://doi-org/10.4000/12z8p)
 
 **2022**
 
-***Imiter Dieu***. Ed. with Mazzocco, Mariel and Waterlot, Ghislain. Paris: Cerf
+*Imiter Dieu*. Ed. with Mazzocco, Mariel and Waterlot, Ghislain. Paris: Cerf
 
 **2019**
 
-***Le paradoxe de la finitude: Représentations, conditions, dépassements***. Ed. with Longo, Ana and Trentini, Bruno. Milan: Mimésis
+*Le paradoxe de la finitude: Représentations, conditions, dépassements*. Ed. with Longo, Ana and Trentini, Bruno. Milan: Mimésis
 
 **2018**
 
-***L'expérience de l'éternité: Philosophie, mystique, clinique***. Ed. with Krtolica, Igor. Paris: Hermann
+*L'expérience de l'éternité: Philosophie, mystique, clinique*. Ed. with Krtolica, Igor. Paris: Hermann
 
-***Le transcendantal: Réceptions et mutations d’une notion kantienne***. Ed. with Bouriau, Christophe and Meessen, Yves. Nancy: Presses Universitaires de Nancy
+*Le transcendantal: Réceptions et mutations d’une notion kantienne*. Ed. with Bouriau, Christophe and Meessen, Yves. Nancy: Presses Universitaires de Nancy
 
 **2017**
 
-***Annales Bergsoniennes VIII***. Ed. with François, Arnaud, Riquier, Camille and Waterlot, Ghislain. Paris: PUF
+*Annales Bergsoniennes VIII*. Ed. with François, Arnaud, Riquier, Camille and Waterlot, Ghislain. Paris: PUF
 
-***Religion et rationalité***. Ed. with Pouivet, Roger. *Revue de Théologie et de Philosophie* 1-2
+*Religion et rationalité*. Ed. with Pouivet, Roger. *Revue de Théologie et de Philosophie* 1-2
 
 **2016**
 
-***Le protestantisme libéral: Une théologie aux limites ?***. Ed. with Waterlot, Ghislain. *ThéoRèmes* 8-2016. [DOI](https://doi.org/10.4000/theoremes.766)
+*Le protestantisme libéral: Une théologie aux limites ?*. Ed. with Waterlot, Ghislain. *ThéoRèmes* 8-2016. [DOI](https://doi.org/10.4000/theoremes.766)
 
 **2014**
 
-***Le réalisme spéculatif entre athéisme et messianisme***. Ed. with Schmitt, Yann. *ThéoRèmes* 6-2014. [DOI](https://doi.org/10.4000/theoremes.617)
+*Le réalisme spéculatif entre athéisme et messianisme*. Ed. with Schmitt, Yann. *ThéoRèmes* 6-2014. [DOI](https://doi.org/10.4000/theoremes.617)
 
 **2013**
 
-***L'incroyance religieuse***. Ed. with Schmitt, Yann. *ThéoRèmes* 5-2013. [DOI](https://doi.org/10.4000/theoremes.507)
+*L'incroyance religieuse*. Ed. with Schmitt, Yann. *ThéoRèmes* 5-2013. [DOI](https://doi.org/10.4000/theoremes.507)
 
 **2012**
 
-***L'expérience religieuse: Approches empiriques, enjeux philosophiques***. Paris: Beauchesne
+*L'expérience religieuse: Approches empiriques, enjeux philosophiques*. Paris: Beauchesne
 
-***Les renouveaux analytiques de la philosophie de la religion en question***. Ed. with Waterlot, Ghislain. *ThéoRèmes* 2-2012. [DOI](https://doi-org/10.4000/theoremes.259)
+*Les renouveaux analytiques de la philosophie de la religion en question*. Ed. with Waterlot, Ghislain. *ThéoRèmes* 2-2012. [DOI](https://doi-org/10.4000/theoremes.259)
 
 ## Journal Articles
 
