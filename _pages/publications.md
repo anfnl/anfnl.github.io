@@ -33,6 +33,7 @@ author_profile: true
 
 <div class="pub-tight" markdown="1">
 
+
 **2022**
 
 * *Lexique de théologie: Ressourcements*. With Y. Meessen. Genève: Labor et Fides
