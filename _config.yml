@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "dirt" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "sunrise" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Anthony Feneuil"
 title_separator          : "-"
 name                     : &name "Anthony Feneuil"
-description              : &description "Associate Professor in theology and philosophy"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Associate Professor of Theology and Philosophy"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://anfnl.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,7 +26,7 @@ author:
   avatar           : "profile.jpg"
   name             : "Anthony Feneuil"
   pronouns         : # example: "he"  
-  bio              : "Associate professor in theology and philosophy"
+  bio              : "Associate Professor of Theology and Philosophy"
   location         : "Metz, France"
   employer         : "Université de Lorraine"
   uri              : # URL
