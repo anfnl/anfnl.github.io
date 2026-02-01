@@ -20,7 +20,7 @@ header: false
 
 **2025**
 
-***Du beau, du bon, du vrai, du Pouivet. Mélanges pour Roger Pouivet***. Ed. with Bouriau, Christophe. Nancy: EDUL
+* _Du beau, du bon, du vrai, du Pouivet. Mélanges pour Roger Pouivet_. Ed. with Bouriau, Christophe. Nancy: EDUL
 
 **2024**
 
