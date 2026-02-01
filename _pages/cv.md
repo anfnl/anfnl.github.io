@@ -11,7 +11,7 @@ redirect_from:
 
 ### Current Positions
 
-* **Associate Professor (Maître de conférences) of Systematic Theology**, University of Lorraine (2014-present)
+* **Associate Professor (Maître de conférences)**, University of Lorraine (2014-present)
 * **Junior Member**, Institut Universitaire de France (IUF) (2023-2028)
 * **Publishing Director and Editorial Board Member**, *ThéoRèmes* journal (2011-present)
 * **Vice-Director**, Research Center Écritures (ER3943) (2025-present)
