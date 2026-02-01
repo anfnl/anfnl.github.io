@@ -23,8 +23,6 @@ For more details, see my [CV](cv/) and [publications](publications/).
 
 <p style="font-family: 'Crimson Pro', sans-serif; color: #666; font-weight: normal; font-size: 1em; letter-spacing: 0.05em; text-align: center;">Beliefs · Philosophy & Theology · Identity · Religious Studies Epistemology</p>
 
-<br>
-
 <div style="display: flex; justify-content: space-between; align-items: flex-end; margin-top: 60px;">
   <a href="https://ecritures.univ-lorraine.fr/"><img src="https://anfnl.github.io/images/logoEcritransp.png" alt="Logo 1" style="height: 80px;"></a>
   <a href="https://www.iufrance.fr/les-membres-de-liuf/membre/2850-anthony-feneuil.html"><img src="https://anfnl.github.io/images/LogoIUF.png" alt="Logo 2" style="height: 80px;"></a>
