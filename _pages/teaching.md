@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Master
+## Université de Lorraine - Master - Theology
 
 - Arts de l'écran
 - Questions de théologie contemporaine
@@ -22,29 +22,29 @@ author_profile: true
 - Monde et eschatologie
 - Détermination éthique et politique 
 
-## Licence 3
+## Université de Lorraine - Licence 3 - Theology
 
 - Théologie des sacrements 
 - Théologie de la vie)
 - Méthodologie du travail universitaire
 
-## Licence 2
+## Université de Lorraine - Licence 2 - Theology
 
 - Sotériologie
 - Dieu créateur
 - Sacrements chrétiens
 - Méthodologie
 
-## Licence 1
+## Université de Lorraine - Licence 1 - Theology
 
 - Introduction à la théologie
 - Méthodologie
 - Christologie
 - Théologie fondamentale
 
----
+----
 
-## Université de Lorraine - Autres départements
+## Université de Lorraine - Other departments
 
 ### L1 SHS
 - Introduction à la pensée chrétienne
@@ -61,9 +61,9 @@ author_profile: true
 - Introduction à la théologie
 - Littéralisme et critique
 
----
+----
 
-## Autres institutions et expérience internationale
+## International and External Teaching Experience
 
 ### Erasmus+
 **Université Félix-Houphouêt-Boigny, Abidjan, Côte d'Ivoire**  
