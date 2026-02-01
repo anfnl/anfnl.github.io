@@ -30,21 +30,29 @@
 {% if page.permalink == '/publications/' or page.permalink == '/talks/' or page.permalink == '/teachings/' or page.permalink == '/media/' %}
 <style>
   .archive li {
-    font-size: 0.5em !important;
+    font-size: 0.85em !important;
+    line-height: 1.4 !important;
+    margin-bottom: 0.1em !important;
   }
   .archive ul {
-    margin-bottom: 0;
+    margin-bottom: 0.2em !important;
   }
   .archive p:empty {
-    display: none;
-  }
-  .archive li {
-    margin-bottom: 0.1em;
-    line-height: 1.4;
+    display: none !important;
   }
   .archive h2 {
-    margin-top: 1em;
-    margin-bottom: 0.2em;
+    font-size: 1.3em !important;
+    margin-top: 0.8em !important;
+    margin-bottom: 0.2em !important;
+  }
+  .archive p strong {
+    font-size: 0.85em !important;
+    display: block;
+    margin-top: 0.5em !important;
+    margin-bottom: 0.1em !important;
+  }
+  .page__hero {
+    min-height: auto !important;
   }
 </style>
 {% endif %}
