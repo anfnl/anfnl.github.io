@@ -27,4 +27,22 @@
 <link rel="icon" href="/images/favicon.ico"/>
 <meta name="theme-color" content="#ffffff"/>
 
+{% if page.permalink == '/publications/' or page.permalink == '/talks/' or page.permalink == '/teachings/' or page.permalink == '/media/' %}
+<style>
+  .archive__item li {
+    margin-bottom: 0.15em;
+    line-height: 1.4;
+  }
+  .archive__item p strong {
+    display: block;
+    margin-top: 0.6em;
+    margin-bottom: 0.1em;
+  }
+  .archive__item h2 {
+    margin-top: 1.2em;
+    margin-bottom: 0.3em;
+  }
+</style>
+{% endif %}
+
 <!-- end custom head snippets -->
