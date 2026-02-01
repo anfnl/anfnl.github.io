@@ -9,7 +9,7 @@ author_profile: true
 
 **2026**
 
-* "Intuition, émotion et intelligence chez Bergson". Seminar "De l'affect au concept", Université de Caen, January 14
+* ["Intuition, émotion et intelligence chez Bergson"](https://mrsh.hypotheses.org/12162). Seminar "De l'affect au concept", Université de Caen, January 14
 
 **2025**
 
