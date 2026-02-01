@@ -26,7 +26,7 @@ redirect_from:
   * Dissertation: *More than Experience? The Epistemological Stakes of the Notion of Religious Experience in K. Barth and H. Bergson*
   * Supervisors: Ghislain Waterlot (Geneva) & Frédéric Worms (ENS)
 * **M.A. in History of Philosophy**, École Normale Supérieure de Lyon, 2007
-* **Student**, École Normale Supérieure de Lyon (ENS LSH), 2003-2008
+* **Élève**, École Normale Supérieure de Lyon (ENS LSH), 2003-2008
 
 ### Research Interests
 
