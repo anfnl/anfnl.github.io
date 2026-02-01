@@ -18,67 +18,53 @@ header:
   <a href="https://www.puf.com/bergson-mystique-et-philosophie"><img src="/images/images_livres/bergson.png" height="200"></a>
 </p>
 
-**2022**
-
-* *Lexique de théologie: Ressourcements*. With Y. Meessen. Genève: Labor et Fides
-
-**2021**
-
-* *L'évidence de Dieu: Études sur le doute religieux*. Genève: Labor et Fides
-* *L'individu impossible: Philosophie, cinéma, théologie*. Paris: CNRS Éditions
-
-**2015**
-
-* *Le serpent d'Aaron: Sur l'expérience religieuse chez Karl Barth et Henri Bergson*. Lausanne: L'Âge d'Homme
-
-**2011**
-
-* *Bergson: Mystique et philosophie*. Paris: PUF
-
 ## Edited Volumes
 
 **2025**
 
-* Ed. with Bouriau, Christophe. *Du beau, du bon, du vrai, du Pouivet. Mélanges pour Roger Pouivet*. Nancy: EDUL
+***Du beau, du bon, du vrai, du Pouivet. Mélanges pour Roger Pouivet***. Ed. with Bouriau, Christophe. Nancy: EDUL
 
 **2024**
 
-* Ed. with Sarg, Rachel. *Théologie et sociétés : usages sociaux des discours théologiques*. *ThéoRèmes* 21-2024. [DOI](https://doi-org/10.4000/12z8p)
+***Théologie et sociétés : usages sociaux des discours théologiques***. Ed. with Sarg, Rachel. *ThéoRèmes* 21-2024. [DOI](https://doi-org/10.4000/12z8p)
 
 **2022**
 
-* Ed. with Mazzocco, Mariel, Waterlot, Ghislain. *Imiter Dieu*. Paris: Cerf
+***Imiter Dieu***. Ed. with Mazzocco, Mariel and Waterlot, Ghislain. Paris: Cerf
 
 **2019**
 
-* Ed. with Longo, Ana, Trentini, Bruno. *Le paradoxe de la finitude: Représentations, conditions, dépassements*. Milan: Mimésis
+***Le paradoxe de la finitude: Représentations, conditions, dépassements***. Ed. with Longo, Ana and Trentini, Bruno. Milan: Mimésis
 
 **2018**
 
-* Ed. with Krtolica, Igor. *L'expérience de l'éternité: Philosophie, mystique, clinique*. Paris: Hermann
-* Ed. with Bouriau, Christophe, Meessen, Yves. *Le transcendantal: Réceptions et mutations d’une notion kantienne*. Nancy: Presses Universitaires de Nancy
+***L'expérience de l'éternité: Philosophie, mystique, clinique***. Ed. with Krtolica, Igor. Paris: Hermann
+
+***Le transcendantal: Réceptions et mutations d’une notion kantienne***. Ed. with Bouriau, Christophe and Meessen, Yves. Nancy: Presses Universitaires de Nancy
 
 **2017**
 
-* Ed. with François, Arnaud, Riquier, Camille, Waterlot, Ghislain. *Annales Bergsoniennes VIII*. Paris: PUF
-* Ed. with Pouivet, Roger. *Religion et rationalité*. *Revue de Théologie et de Philosophie* 1-2
+***Annales Bergsoniennes VIII***. Ed. with François, Arnaud, Riquier, Camille and Waterlot, Ghislain. Paris: PUF
+
+***Religion et rationalité***. Ed. with Pouivet, Roger. *Revue de Théologie et de Philosophie* 1-2
 
 **2016**
 
-* Ed. with Waterlot, Ghislain. *Le protestantisme libéral: Une théologie aux limites ?*. *ThéoRèmes* 8-2016. [DOI](https://doi.org/10.4000/theoremes.766)
+***Le protestantisme libéral: Une théologie aux limites ?***. Ed. with Waterlot, Ghislain. *ThéoRèmes* 8-2016. [DOI](https://doi.org/10.4000/theoremes.766)
 
 **2014**
 
-* Ed. with Schmitt, Yann. *Le réalisme spéculatif entre athéisme et messianisme*. *ThéoRèmes* 6-2014. [DOI](https://doi.org/10.4000/theoremes.617)
+***Le réalisme spéculatif entre athéisme et messianisme***. Ed. with Schmitt, Yann. *ThéoRèmes* 6-2014. [DOI](https://doi.org/10.4000/theoremes.617)
 
 **2013**
 
-* Ed. with Schmitt, Yann. *L'incroyance religieuse*. *ThéoRèmes* 5-2013. [DOI](https://doi.org/10.4000/theoremes.507)
+***L'incroyance religieuse***. Ed. with Schmitt, Yann. *ThéoRèmes* 5-2013. [DOI](https://doi.org/10.4000/theoremes.507)
 
 **2012**
 
-* *L'expérience religieuse: Approches empiriques, enjeux philosophiques*. Paris: Beauchesne
-* Ed. with Waterlot, Ghislain. *Les renouveaux analytiques de la philosophie de la religion en question*. *ThéoRèmes* 2-2012. [DOI](https://doi-org/10.4000/theoremes.259)
+***L'expérience religieuse: Approches empiriques, enjeux philosophiques***. Paris: Beauchesne
+
+***Les renouveaux analytiques de la philosophie de la religion en question***. Ed. with Waterlot, Ghislain. *ThéoRèmes* 2-2012. [DOI](https://doi-org/10.4000/theoremes.259)
 
 ## Journal Articles
 
