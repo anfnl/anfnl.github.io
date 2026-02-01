@@ -6,6 +6,8 @@ author_profile: true
 header: false
 ---
 
+<br>
+
 # Edited Volumes
 
 2025\. *Du beau, du bon, du vrai, du Pouivet. Mélanges pour Roger Pouivet*. Ed. with Bouriau, Christophe. Nancy: EDUL
@@ -33,6 +35,8 @@ header: false
 2012a. *L'expérience religieuse: Approches empiriques, enjeux philosophiques*. Paris: Beauchesne
 
 2012b. *Les renouveaux analytiques de la philosophie de la religion en question*. Ed. with Waterlot, Ghislain. *ThéoRèmes* 2-2012. [DOI](https://doi-org/10.4000/theoremes.259)
+
+<br>
 
 # Journal Articles
 
@@ -71,6 +75,8 @@ header: false
 2010\. "'Le mysticisme à l'état pur' (Bergson): Images des ténèbres chez Thérèse de Lisieux". *Revue Théologique de Louvain* 41(4), 519–538. [DOI](https://doi-org.bases-doc/10.2143/RTL.41.4.2057474)
 
 2009\. "La foi change-t-elle l'histoire ?: Bergson et Péguy devant les sciences historiques du Christ". *L'Amitié Charles Péguy* 32(126), 205–218. [DOI](https://archive-ouverte.unige.ch/unige:3987)
+
+<br>
 
 # Book Chapters
 
