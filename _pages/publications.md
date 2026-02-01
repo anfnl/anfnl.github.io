@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 header: false
 ---
+# Books
+
 <p align="center">
   <a href="https://www.laboretfides.com/product/un-lexique-theologique/"><img src="/images/images_livres/lexique.png" height="200"></a>
   <a href="https://www.laboretfides.com/product/l-evidence-de-dieu/"><img src="/images/images_livres/evidence.png" height="200"></a>
