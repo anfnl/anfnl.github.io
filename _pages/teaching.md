@@ -7,12 +7,19 @@ author_profile: true
 
 ## Université de Lorraine - Master of Theology
 
-* **Contemporary Theology:** Questions of Contemporary Theology (*Questions de théologie contemporaine*); French Contemporary Philosophy (*Philosophie française contemporaine*); Ethics and Contemporary Theology (*Éthique et théologie contemporaine*).
-* **Theology & Philosophy:** Relationships between Theology and Philosophy (*Théologie et philosophie*); Philosophy of Religions (*Philosophie des religions*); Philosophy and Social Sciences (*Philosophie et sciences humaines*).
-* **Systematic Theology:** World and Eschatology (*Monde et eschatologie*); Ethical and Political Determination (*Détermination éthique et politique*).
-* **Special Seminars:** * *Violence and Religion: W. Cavanaugh and J. Moltmann* (*Violences et religion*). Joint Master’s seminar with F. Chavel (Institut Protestant de Théologie).
-    * *Screen Arts* (*Arts de l'écran*).
-* **Historiography:** History and Theology: Historiographical Issues (*Histoire et théologie : questions historiographiques*).
+- **Screen Arts** (*Arts de l'écran*)
+- **Questions of Contemporary Theology** (*Questions de théologie contemporaine*)
+- **French Contemporary Philosophy** (*Philosophie française contemporaine*)
+- **Contemporary Theology** (*Théologie contemporaine*)
+- **Violence and Religion: W. Cavanaugh and J. Moltmann** (*Violences et religion*)
+  *Joint Master’s seminar with F. Chavel (Institut Protestant de Théologie)*
+- **Ethics and Contemporary Theology** (*Éthique et théologie contemporaine*)
+- **Theology and Philosophy** (*Théologie et philosophie*)
+- **Philosophy of Religions** (*Philosophie des religions*)
+- **History and Theology: Historiographical Issues** (*Histoire et théologie : questions historiographiques*)
+- **Philosophy and Social Sciences** (*Philosophie et sciences humaines*)
+- **World and Eschatology** (*Monde et eschatologie*)
+- **Ethical and Political Determination** (*Détermination éthique et politique*)
 
 ## Université de Lorraine - Bachelor of Theology (L3)
 
