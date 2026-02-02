@@ -6,7 +6,7 @@ author_profile: true
 header: false
 ---
 
-# Books
+# Monographs
 
 <p align="center">
   <a href="https://www.laboretfides.com/product/un-lexique-theologique/"><img src="/images/images_livres/lexique.png" height="200"></a>
