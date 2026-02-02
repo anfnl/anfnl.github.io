@@ -111,7 +111,7 @@ header: false
 
 2018b. "Le réalisme transcendantal". (Transcendental Realism). In *Le transcendantal en question*, ed. Christophe Bouriau and Anthony Feneuil and Yves Meessen. Nancy: PUN - Éditions universitaires de Lorraine, 151–160. [Link](https://hal.univ-lorraine.fr/hal-02367227)
 
-2018c. "Mystique, dogme et critique". (Mysticism, Dogma, and Critique). In *L'université face à la mystique : un siècle de controverses*, ed. Mariel Mazocco and François Trémolière and Ghislain Waterlot. Rennes: PUR, 67–75. [Link](https://hal.univ-lorraine.fr/hal-01811581)
+2018c. ["Mystique, dogme et critique"](https://books.openedition.org/pur/282166?lang=fr). (Mysticism, Dogma, and Critique). In *L'université face à la mystique : un siècle de controverses*, ed. Mariel Mazocco and François Trémolière and Ghislain Waterlot. Rennes: PUR, 67–75. [Link](https://hal.univ-lorraine.fr/hal-01811581)
 
 2018d. "Becoming God or Becoming Yourself. Vladimir Lossky on Deification and Personal Identity". In *Theosis/Deification: Christian Doctrines of Divinization East and West*, ed. John Arblaster and Ron Faesen. Leuven: Peeters, 49–63. [Link](https://hal.univ-lorraine.fr/hal-01799615)
 
