@@ -115,9 +115,9 @@ header: false
 
 2017b. ["Après l'apocalypse : remarques sur l'eschatologie au passé"](https://doi.org/10.1515/9783110521412-016). (After the Apocalypse: Remarks on Eschatology in the Past Tense). In *Game Over? Reconsidering Eschatology*, ed. Christophe Chalamet and al.. Berlin: De Gruyter, 251–260
 
-2015\ ["The Cross of Wisdom: Ambiguities in Turning Down Apologetics (Paul, Anselm, Barth)"](https://doi.org/10.1515/9783110521412-016). In *The Wisdom and Foolishness of God: First Corinthians 1-2 in Theological Exploration*, ed. Hans-Christoph Askani and Christophe Chalamet. Minneapolis: Fortress Press, 167–181
+2015\. ["The Cross of Wisdom: Ambiguities in Turning Down Apologetics (Paul, Anselm, Barth)"](https://doi.org/10.1515/9783110521412-016). In *The Wisdom and Foolishness of God: First Corinthians 1-2 in Theological Exploration*, ed. Hans-Christoph Askani and Christophe Chalamet. Minneapolis: Fortress Press, 167–181
 
-2014\ ["L'espérance intégrale : Charles Péguy théologien de la mort de Dieu"](https://www.editionsducerf.fr/librairie/livre/8648/J.-B). (Integral Hope: Charles Péguy as Theologian of the Death of God). In *C*, ed. Camille Riquier. Paris: Cerf, 287-305
+2014\. ["L'espérance intégrale : Charles Péguy théologien de la mort de Dieu"](https://www.editionsducerf.fr/librairie/livre/8648/J.-B). (Integral Hope: Charles Péguy as Theologian of the Death of God). In *C*, ed. Camille Riquier. Paris: Cerf, 287-305
 
 2013a. "Entrées 'Sarah Edwards', 'Lucy Farrow', 'Martha Ramsey'". (Entries 'Sarah Edwards', 'Lucy Farrow', 'Martha Ramsey'). In *Les femmes mystiques : Histoire et dictionnaire*, ed. Audrey Fella. Paris: Laffont
 
