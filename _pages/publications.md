@@ -99,9 +99,9 @@ header: false
 
 2022c. "L'imitation originale: entre christologie et anthropologie". (Original Imitation: Between Christology and Anthropology). In *Imiter Dieu*, ed. Anthony Feneuil and Mariel Mazocco and Ghislain Waterlot. Paris: Cerf, 387–405
 
-2020. ["'Peut-être une prière': Puissance et dérision du blasphème"](https://hal.univ-lorraine.fr/hal-02972703). ('Perhaps a Prayer': The Power and Mockery of Blasphemy). In *Le blasphème*, ed. Cédric Burguin and Ludovic Danto. Paris: Artège Lethielleux, 145–157
+2020\ ["'Peut-être une prière': Puissance et dérision du blasphème"](https://hal.univ-lorraine.fr/hal-02972703). ('Perhaps a Prayer': The Power and Mockery of Blasphemy). In *Le blasphème*, ed. Cédric Burguin and Ludovic Danto. Paris: Artège Lethielleux, 145–157
 
-2019. ["'De l'impossible, sinon j'étouffe!' L'infinité des possibles et la constitution du soi : une théorie de l'identité à partir de Kierkegaard"](https://hal.univ-lorraine.fr/hal-02367196). (The Infinity of Possibilities and the Constitution of the Self: A Theory of Identity from Kierkegaard). In *Le paradoxe de la finitude*, ed. Anthony Feneuil and Anna Longo and Bruno Trentini. Milan: Éditions Mimésis, 83–94
+2019\ ["'De l'impossible, sinon j'étouffe!' L'infinité des possibles et la constitution du soi : une théorie de l'identité à partir de Kierkegaard"](https://hal.univ-lorraine.fr/hal-02367196). (The Infinity of Possibilities and the Constitution of the Self: A Theory of Identity from Kierkegaard). In *Le paradoxe de la finitude*, ed. Anthony Feneuil and Anna Longo and Bruno Trentini. Milan: Éditions Mimésis, 83–94
 
 2018a. ["Corpus Æternitatis"](https://hal.univ-lorraine.fr/hal-01996221). In *L'expérience de l'éternité*, ed. Anthony Feneuil and Igor Krtolica. Paris: Hermann, 99–111
 
@@ -115,9 +115,9 @@ header: false
 
 2017b. ["Après l'apocalypse : remarques sur l'eschatologie au passé"](https://doi.org/10.1515/9783110521412-016). (After the Apocalypse: Remarks on Eschatology in the Past Tense). In *Game Over? Reconsidering Eschatology*, ed. Christophe Chalamet and al.. Berlin: De Gruyter, 251–260
 
-2015. ["The Cross of Wisdom: Ambiguities in Turning Down Apologetics (Paul, Anselm, Barth)"](https://doi.org/10.1515/9783110521412-016). In *The Wisdom and Foolishness of God: First Corinthians 1-2 in Theological Exploration*, ed. Hans-Christoph Askani and Christophe Chalamet. Minneapolis: Fortress Press, 167–181
+2015\ ["The Cross of Wisdom: Ambiguities in Turning Down Apologetics (Paul, Anselm, Barth)"](https://doi.org/10.1515/9783110521412-016). In *The Wisdom and Foolishness of God: First Corinthians 1-2 in Theological Exploration*, ed. Hans-Christoph Askani and Christophe Chalamet. Minneapolis: Fortress Press, 167–181
 
-2014. ["L'espérance intégrale : Charles Péguy théologien de la mort de Dieu"](https://www.editionsducerf.fr/librairie/livre/8648/J.-B). (Integral Hope: Charles Péguy as Theologian of the Death of God). In *C*, ed. Camille Riquier. Paris: Cerf, 287-305
+2014\ ["L'espérance intégrale : Charles Péguy théologien de la mort de Dieu"](https://www.editionsducerf.fr/librairie/livre/8648/J.-B). (Integral Hope: Charles Péguy as Theologian of the Death of God). In *C*, ed. Camille Riquier. Paris: Cerf, 287-305
 
 2013a. "Entrées 'Sarah Edwards', 'Lucy Farrow', 'Martha Ramsey'". (Entries 'Sarah Edwards', 'Lucy Farrow', 'Martha Ramsey'). In *Les femmes mystiques : Histoire et dictionnaire*, ed. Audrey Fella. Paris: Laffont
 
@@ -133,7 +133,7 @@ header: false
 
 2012d. ["Henri Bergson: Incrédulité post-moderne et universalisme mystique"](https://archive-ouverte.unige.ch/unige:18763). (Henri Bergson: Postmodern Incredulity and Mystical Universalism). In *Où est la vérité ? La théologie aux défis de la Radical Orthodoxy et de la déconstruction*, ed. Dimitri Andronicos and Hans-Christoph Askani and Carlos Mendoza and Denis Müller. Genève: Labor et Fides, 229–244
 
-2010. ["Thérèse de Lisieux : Nouvelle Jeanne d'Arc ou 'Sainte des poilus'?"](https://archive-ouverte.unige.ch/unige:18482). (Thérèse of Lisieux: New Joan of Arc or 'Saint of the Poilus'?). In *La Mystique face aux guerres mondiales*, ed. Dominique de Courcelles and Ghislain Waterlot. Paris: PUF, 69–86
+2010\ ["Thérèse de Lisieux : Nouvelle Jeanne d'Arc ou 'Sainte des poilus'?"](https://archive-ouverte.unige.ch/unige:18482). (Thérèse of Lisieux: New Joan of Arc or 'Saint of the Poilus'?). In *La Mystique face aux guerres mondiales*, ed. Dominique de Courcelles and Ghislain Waterlot. Paris: PUF, 69–86
 
 2008a. ["Le Dieu de _L'Évolution créatrice_ est-il un Dieu des philosophes?"](https://archive-ouverte.unige.ch/unige:5246). (Is the God of *Creative Evolution* a God of the Philosophers?). In *Annales Bergsoniennes IV*, ed. Anne Fagault-Largeault and Frédéric Worms. Paris: PUF, 309–324
 
