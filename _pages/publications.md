@@ -101,7 +101,7 @@ header: false
 
 2020\. ["'Peut-être une prière': Puissance et dérision du blasphème"](https://hal.univ-lorraine.fr/hal-02972703). ('Perhaps a Prayer': The Power and Mockery of Blasphemy). In *Le blasphème*, ed. Cédric Burguin and Ludovic Danto. Paris: Artège Lethielleux, 145–157
 
-2019\. ["'De l'impossible, sinon j'étouffe!' L'infinité des possibles et la constitution du soi : une théorie de l'identité à partir de Kierkegaard"](https://hal.univ-lorraine.fr/hal-02367196). (The Infinity of Possibilities and the Constitution of the Self: A Theory of Identity from Kierkegaard). In *Le paradoxe de la finitude*, ed. Anthony Feneuil and Anna Longo and Bruno Trentini. Milan: Éditions Mimésis, 83–94
+2019\. ["'De l'impossible, sinon j'étouffe!' L'infinité des possibles et la constitution du soi : une théorie de l'identité à partir de Kierkegaard"](https://hal.univ-lorraine.fr/hal-02367196). ("The impossible, or else I suffocate!" The Infinity of Possibilities and the Constitution of the Self: A Theory of Identity from Kierkegaard). In *Le paradoxe de la finitude*, ed. Anthony Feneuil and Anna Longo and Bruno Trentini. Milan: Éditions Mimésis, 83–94
 
 2018a. ["Corpus Æternitatis"](https://hal.univ-lorraine.fr/hal-01996221). In *L'expérience de l'éternité*, ed. Anthony Feneuil and Igor Krtolica. Paris: Hermann, 99–111
 
