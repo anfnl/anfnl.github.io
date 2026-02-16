@@ -87,6 +87,8 @@ header: false
 
 # Book Chapters
 
+2026\. "Reverberations. Albert Piette's Anthroplogy of Separation". Foreword to Albert Piette, *Humans, Temporary Absolutes*. Milan: Mimesis International, 7-13.
+
 2025a. ["Préserve nous de la solidarité originelle... ? L'identité personnelle, la solidarité humaine et la mort, à partir du commentaire de Rm 5, 12 par John Locke"](https://pul.uclouvain.be/book/?GCOI=29303100706490). (Preserve Us from Original Solidarity...? Personal Identity, Human Solidarity, and Death, from John Locke's Commentary on Rom 5:12). In *À partir de la grâce. Recherches théologiques*, ed. Brouwer, Louis de and Valinho Gomes, Pedro. Louvain-La-Neuve: PU Louvain, 85–97
 
 2025b. ["Le péché originel est-il plausible?"](https://doi.org/10.62688/edul/b9782384512140/09). (Is Original Sin Plausible?). In *Le mal en question*, ed. Bouriau, Christophe and Husson, Laurent and Meessen, Yves. Nancy: EDUL, 107–117
