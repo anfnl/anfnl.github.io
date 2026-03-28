@@ -1,6 +1,6 @@
 function toggleLang() {
-  const current = localStorage.getItem('lang') || 'en';
-  const next = current === 'en' ? 'fr' : 'en';
+  const current = localStorage.getItem('lang') || 'fr';
+  const next = current === 'fr' ? 'en' : 'fr';
   setLang(next);
 }
 
@@ -10,9 +10,9 @@ function setLang(lang) {
     el.style.display = el.dataset.lang === lang ? '' : 'none';
   });
   const btn = document.getElementById('lang-toggle');
-  if (btn) btn.textContent = '🌐 ' + (lang === 'en' ? 'FR' : 'EN');
+  if (btn) btn.textContent = '🌐 ' + (lang === 'fr' ? 'EN' : 'FR');
 }
 
 document.addEventListener('DOMContentLoaded', () => {
-  setLang(localStorage.getItem('lang') || 'en');
+  setLang(localStorage.getItem('lang') || 'fr');
 });
