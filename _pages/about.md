@@ -1,4 +1,4 @@
-----
+---
 permalink: /
 title: "Anthony Feneuil"
 author_profile: true
