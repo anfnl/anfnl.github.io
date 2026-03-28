@@ -29,7 +29,7 @@ For more details, see my [CV](cv/) and [publications](publications/).
 <div data-lang="fr" markdown="1">
 
 Je suis maître de conférences à l'Université de Lorraine (France), où j'enseigne la théologie systématique et la philosophie contemporaine.
-Mes recherches portent sur le langage théologique, l'épistémologie de la croyance et les relations entre théologie contemporaine et sciences sociales. J'ai soutenu ma thèse en 2013 (sur l'expérience religieuse chez Karl Barth et Henri Bergson) et mon habilitation en 2020. Je m'intéresse également à la construction de l'identité, que j'explore à travers les prismes philosophique et théologique du problème de l'identité personnelle, et par des expériences littéraires ([Rien de caché](https://www.placedeslibraires.fr/livre/9782227503502-rien-de-cache-anthony-feneuil/), 2026).
+Mes recherches portent sur le langage théologique, l'épistémologie de la croyance et les relations entre théologie contemporaine et sciences sociales. J'ai soutenu ma thèse en 2013 (sur l'expérience religieuse chez Karl Barth et Henri Bergson) et mon habilitation en 2020. Je m'intéresse également à la construction de l'identité, que j'explore à travers les prismes philosophique et théologique du problème de l'identité personnelle, et via des expérimentations littéraires ([Rien de caché](https://www.placedeslibraires.fr/livre/9782227503502-rien-de-cache-anthony-feneuil/), 2026).
 
 Je suis cofondateur et directeur de publication de la revue [*Théo*Rèmes](https://journals.openedition.org/theoremes/).
 
