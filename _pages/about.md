@@ -48,6 +48,6 @@ Pour plus de détails, voir mon [CV](cv/) et mes [publications](publications/).
 </div>
 
 <div style="display: flex; justify-content: space-between; align-items: flex-end; margin-top: 60px;">
-  <a href="https://ecritures.univ-lorraine.fr/"><img src="https://anfnl.github.io/images/logoEcritransp.png" alt="Logo 1" style="height: 80px;"></a>
-  <a href="https://www.iufrance.fr/les-membres-de-liuf/membre/2850-anthony-feneuil.html"><img src="https://anfnl.github.io/images/LogoIUF.png" alt="Logo 2" style="height: 80px;"></a>
+  <a href="https://ecritures.univ-lorraine.fr/"><img src="/images/logoEcritransp.png" alt="Logo 1" style="height: 80px;"></a>
+  <a href="https://www.iufrance.fr/les-membres-de-liuf/membre/2850-anthony-feneuil.html"><img src="/images/LogoIUF.png" alt="Logo 2" style="height: 80px;"></a>
 </div>
