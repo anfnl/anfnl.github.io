@@ -41,3 +41,18 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+@import
+    /* ... tous les imports existants ... */
+    "vendor/font-awesome/brands"
+;
+
+/* ——— Surcharges personnalisées ——— */
+
+h1.p-name {
+  font-family: 'EB Garamond', Georgia, serif;
+  font-weight: 400;
+  font-size: 2rem;
+  letter-spacing: 0.06em;
+  color: #111111;
+  margin-bottom: 0.6em;
+}
