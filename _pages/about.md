@@ -9,8 +9,8 @@ redirect_from:
 
 <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2em; margin-bottom: 2em; padding-bottom: 0.8em; border-bottom: 1px solid #ddd;">
   <div>
-    <div data-lang="en" style="color: #888; font-size: 0.9em; letter-spacing: 0.07em;">Beliefs · Philosophy & Theology · Identity · Epistemology of Religious Studies</div>
-    <div data-lang="fr" style="color: #888; font-size: 0.9em; letter-spacing: 0.07em;">Croyances · Philosophie & Théologie · Identité · Épistémologie des sciences des religions</div>
+    <div data-lang="en" style="color: #888; font-size: 1em; letter-spacing: 0.07em;">Beliefs · Philosophy & Theology · Identity · Epistemology of Religious Studies</div>
+    <div data-lang="fr" style="color: #888; font-size: 1em; letter-spacing: 0.07em;">Croyances · Philosophie & Théologie · Identité · Épistémologie des sciences des religions</div>
   </div>
   <button id="lang-toggle" onclick="toggleLang()" style="background: none; border: 1px solid #999; border-radius: 4px; padding: 4px 10px; cursor: pointer; font-size: 0.85em; color: #555; white-space: nowrap;">🌐 FR</button>
 </div>
