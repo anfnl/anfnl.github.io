@@ -48,15 +48,6 @@
 
 /* ——— Surcharges personnalisées ——— */
 
-h1.page__title {
-  font-family: 'EB Garamond', Georgia, serif;
-  font-weight: 700;
-  font-size: 2rem;
-  letter-spacing: 0.06em;
-  color: #111111;
-  margin-bottom: 0.6em;
-}
-
 .page__inner-wrap > header {
-  padding-top: 3em;
+  display: none;
 }
