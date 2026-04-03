@@ -12,7 +12,7 @@ redirect_from:
     <div data-lang="en" style="color: #888; font-size: 0.8em; letter-spacing: 0.07em;">Beliefs · Philosophy & Theology · Identity · Epistemology of Religious Studies</div>
     <div data-lang="fr" style="color: #888; font-size: 0.8em; letter-spacing: 0.07em;">Croyances · Philosophie & Théologie · Identité · Épistémologie des sciences des religions</div>
   </div>
-  <button id="lang-toggle" onclick="toggleLang()" style="background: none; border: 1px solid #999; border-radius: 4px; padding: 4px 10px; cursor: pointer; font-size: 0.85em; color: #555; white-space: nowrap;">🌐 FR</button>
+  <button id="lang-toggle" onclick="toggleLang()" style="background: none; border: 1px solid #999; border-radius: 4px; padding: 2px 10px; cursor: pointer; font-size: 0.75em; color: #555; white-space: nowrap;">🌐 FR</button>
 </div>
 
 <div data-lang="en" markdown="1">
