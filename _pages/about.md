@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1.8em;">
+<div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1.2em; padding-bottom: 0.8em; border-bottom: 1px solid #ddd;">
   <div>
     <div data-lang="en" style="color: #888; font-size: 0.8em; letter-spacing: 0.07em;">Beliefs · Philosophy & Theology · Identity · Epistemology</div>
     <div data-lang="fr" style="color: #888; font-size: 0.8em; letter-spacing: 0.07em;">Croyances · Philosophie & Théologie · Identité · Épistémologie</div>
