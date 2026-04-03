@@ -7,19 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-<div style="text-align: right; margin-bottom: 1em;">
-  <button id="lang-toggle" onclick="toggleLang()" style="background: none; border: 1px solid #999; border-radius: 4px; padding: 4px 10px; cursor: pointer; font-size: 0.85em; color: #555;">🌐 FR</button>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1.8em;">
+  <div>
+    <div data-lang="en" style="color: #888; font-size: 0.8em; letter-spacing: 0.07em;">Beliefs · Philosophy & Theology · Identity · Epistemology</div>
+    <div data-lang="fr" style="color: #888; font-size: 0.8em; letter-spacing: 0.07em;">Croyances · Philosophie & Théologie · Identité · Épistémologie</div>
+  </div>
+  <button id="lang-toggle" onclick="toggleLang()" style="background: none; border: 1px solid #999; border-radius: 4px; padding: 4px 10px; cursor: pointer; font-size: 0.85em; color: #555; white-space: nowrap;">🌐 FR</button>
 </div>
-
-<div data-lang="en">
-<p style="font-family: 'Crimson Pro', sans-serif; color: #666; font-weight: normal; font-size: 1em; letter-spacing: 0.05em; text-align: center;">Beliefs · Philosophy & Theology · Identity · Religious Studies Epistemology</p>
-</div>
-
-<div data-lang="fr">
-<p style="font-family: 'Crimson Pro', sans-serif; color: #666; font-weight: normal; font-size: 1em; letter-spacing: 0.05em; text-align: center;">Croyances · Philosophie & Théologie · Identité · Épistémologie des sciences des religions</p>
-</div>
-
-<br>
 
 <div data-lang="en" markdown="1">
 
