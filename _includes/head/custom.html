@@ -58,4 +58,11 @@
   "url": "https://feneuil.com"
 }
 </script>
+
+{% if page.permalink == '/' %}
+<style>
+  .page__inner-wrap > header {
+    display: none !important;
+  }
+</style>
 <!-- end custom head snippets -->
