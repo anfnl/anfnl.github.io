@@ -16,7 +16,7 @@ redirect_from:
 </div>
 
 <div data-lang="fr">
-<p style="font-family: 'Crimson Pro', sans-serif; color: #666; font-weight: normal; font-size: 1em; letter-spacing: 0.05em; text-align: center;">Croyances · Philosophie & Théologie · Identité · Épistémologie des sciences religieuses</p>
+<p style="font-family: 'Crimson Pro', sans-serif; color: #666; font-weight: normal; font-size: 1em; letter-spacing: 0.05em; text-align: center;">Croyances · Philosophie & Théologie · Identité · Épistémologie des sciences des religions</p>
 </div>
 
 <br>
