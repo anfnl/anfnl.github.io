@@ -76,6 +76,26 @@ author_profile: true
 </div>
 
 <div class="rdc-item">
+<div class="rdc-tag-col"><span class="rdc-tag tag-presse">Presse</span></div>
+<div class="rdc-item-body"><p class="rdc-item-source"><a href="https://singulars.fr/10-conseils-de-lecture-de-singulars-et-de-my-fair-book-pour-mars-2026/" target="_blank">Singular's · mars 2026</a></p></div>
+</div>
+
+<div class="rdc-item">
+<div class="rdc-tag-col"><span class="rdc-tag tag-presse">Presse</span></div>
+<div class="rdc-item-body"><p class="rdc-item-source"><a href="https://www.lamontagne.fr/paris-75000/loisirs/on-leve-le-voile-sur-rien-de-cache-livre-signe-anthony-feneuil_14941783/" target="_blank">La Montagne · 28 mars 2026</a></p></div>
+</div>
+
+<div class="rdc-item">
+<div class="rdc-tag-col"><span class="rdc-tag tag-presse">Presse</span></div>
+<div class="rdc-item-body"><p class="rdc-item-source"><a href="https://www.fondationlaposte.org/florilettres/dernieres-parutions/dernieres-parutions-edition-mars-2026-par-elisabeth-miso-et" target="_blank">FloriLettres · Fondation La Poste · mars 2026</a></p></div>
+</div>
+
+<div class="rdc-item">
+<div class="rdc-tag-col"><span class="rdc-tag tag-presse">Presse</span></div>
+<div class="rdc-item-body"><p class="rdc-item-source"><a href="https://www.lagrandeparade.com/acrobates-de-la-plume/auto-biographie/7055-%C2%AB-rien-de-cach%C3%A9-%C2%BB-les-simagr%C3%A9es-de-la-naissance-sous-x.html" target="_blank">La Grande Parade · mars 2026</a></p></div>
+</div>
+
+<div class="rdc-item">
 <div class="rdc-tag-col"><span class="rdc-tag tag-event">Salon</span></div>
 <div class="rdc-item-body"><p class="rdc-item-source">Le Livre à Metz · 10–11 avril 2026</p></div>
 </div>
