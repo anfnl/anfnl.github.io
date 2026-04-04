@@ -82,12 +82,12 @@ author_profile: true
 
 <div class="rdc-item">
 <div class="rdc-tag-col"><span class="rdc-tag tag-event">Rencontre</span></div>
-<div class="rdc-item-body"><p class="rdc-item-source">Labor et Fides · Genève · 29 avril 2026 · 19h30</p></div>
+<div class="rdc-item-body"><p class="rdc-item-source">Labor et Fides · Genève · 29 avril 2026 · 19h00</p></div>
 </div>
 
 <div class="rdc-item">
 <div class="rdc-tag-col"><span class="rdc-tag tag-event">Rencontre</span></div>
-<div class="rdc-item-body"><p class="rdc-item-source">Librairie Le Valentin · Lausanne · 30 avril 2026 · 19h30</p></div>
+<div class="rdc-item-body"><p class="rdc-item-source">Librairie Le Valentin · Lausanne · 30 avril 2026 · 19h15</p></div>
 </div>
 
 </div>
