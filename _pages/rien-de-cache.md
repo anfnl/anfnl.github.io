@@ -35,10 +35,10 @@ author_profile: true
 .tag-presse    { background: #e8f5ec; color: #3d7850; }
 .tag-event     { background: #f5f0e8; color: #7a6535; }
 .rdc-item-body { flex: 1; }
-.rdc-item-source { font-size: 0.78rem; color: #999; letter-spacing: 0.03em; margin: 0 0 0.2rem 0; font-weight: 300; }
-.rdc-item-title { font-size: 1rem; line-height: 1.45; margin: 0; font-weight: 400; }
-.rdc-item-title a { color: #1a1a1a; text-decoration: none; border-bottom: 1px solid #ccc; transition: border-color 0.2s; }
-.rdc-item-title a:hover { border-color: #1a1a1a; }
+.rdc-item-source { font-size: 0.78rem; color: #1a1a1a; letter-spacing: 0.03em; margin: 0 0 0.2rem 0; font-weight: 400; }
+.rdc-item-title { font-size: 1rem; line-height: 1.45; margin: 0; font-weight: 300; color: #888; }
+.rdc-item-title a { color: #888; text-decoration: none; border-bottom: 1px solid #ddd; transition: border-color 0.2s; }
+.rdc-item-title a:hover { border-color: #888; }
 .rdc-item-note { font-size: 0.85rem; color: #666; margin: 0.25rem 0 0 0; font-style: italic; font-weight: 300; }
 
 @media (max-width: 500px) {
