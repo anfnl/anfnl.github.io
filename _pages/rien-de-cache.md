@@ -71,18 +71,18 @@ author_profile: true
  <div class="rdc-item">
     <div class="rdc-tag-col"><span class="rdc-tag tag-presse">Presse</span></div>
     <div class="rdc-item-body">
-      <p class="rdc-item-source"><a href="https://www.temoignagechretien.fr/les-livres-du-printemps-5/" target="_blank"><em>Témoignage chrétien</em> · avril 2026</a></p>
-      <p class="rdc-item-title">À paraître</p>
+      <p class="rdc-item-source">Témoignage chrétien · avril 2026</a></p>
+      <p class="rdc-item-title"><a href="https://www.temoignagechretien.fr/les-livres-du-printemps-5/" target="_blank">Le fil d'une vie</p>
     </div>
   </div>
 
 
 
   <div class="rdc-item">
-    <div class="rdc-tag-col"><span class="rdc-tag tag-radio">Radio</span></div>
+    <div class="rdc-tag-col"><span class="rdc-tag tag-radio">TV</span></div>
     <div class="rdc-item-body">
-      <p class="rdc-item-source">RTBF · 2026</p>
-      <p class="rdc-item-title">À paraître</p>
+      <p class="rdc-item-source">Les Maternelles · France Télévision · 18 Mars 2026</p>
+      <p class="rdc-item-title"><a[href="https://youtu.be/ebDLgzfrg7c?si=w8WdJxdsUaN7AZtm" target="_blank">Rubrique "On se dit tout"</p>
     </div>
   </div>
 
