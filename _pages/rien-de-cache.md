@@ -30,11 +30,10 @@ author_profile: true
 .rdc-item { display: flex; gap: 1.2rem; margin-bottom: 1.6rem; align-items: center; }
 .rdc-tag-col { flex: 0 0 115px; text-align: right; }
 .rdc-tag { display: inline-block; font-size: 0.68rem; letter-spacing: 0.1em; text-transform: uppercase; padding: 0.18rem 0.5rem; border-radius: 2px; font-family: 'Source Serif 4', serif; }
-.tag-recension { background: #f0ece4; color: #6b5d45; }
-.tag-radio     { background: #e8edf5; color: #3d5278; }
-.tag-tv        { background: #f5e8e8; color: #7a3d3d; }
-.tag-presse    { background: #e8f5ec; color: #3d7850; }
-.tag-event     { background: #f5f0e8; color: #7a6535; }
+.tag-tv     { background: #e4e4e4; color: #3a3a3a; }
+.tag-radio  { background: #e6e2db; color: #4a4035; }
+.tag-presse { background: #dce3e8; color: #2d3f4e; }
+.tag-event  { background: #e8e4dd; color: #5a4f3f; }
 .rdc-item-body { flex: 1; }
 .rdc-item-source { font-size: 0.9rem; color: #1a1a1a; letter-spacing: 0.03em; margin: 0; font-weight: 400; }
 .rdc-item-source a { color: #1a1a1a; text-decoration: none; }
@@ -68,7 +67,7 @@ author_profile: true
 
 <div class="rdc-item">
 <div class="rdc-tag-col"><span class="rdc-tag tag-presse">Presse</span></div>
-<div class="rdc-item-body"><p class="rdc-item-source"><a href="https://www.temoignagechretien.fr/les-livres-du-printemps-5/" target="_blank"><em>Témoignage chrétien</em> · avril 2026</a></p></div>
+<div class="rdc-item-body"><p class="rdc-item-source"><a href="https://www.temoignagechretien.fr/les-livres-du-printemps-5/" target="_blank">Témoignage chrétien · avril 2026</a></p></div>
 </div>
 
 <div class="rdc-item">
@@ -78,7 +77,7 @@ author_profile: true
 
 <div class="rdc-item">
 <div class="rdc-tag-col"><span class="rdc-tag tag-recension">Recension</span></div>
-<div class="rdc-item-body"><p class="rdc-item-source">FloriLettres · Fondation La Poste · 2026</p></div>
+<div class="rdc-item-body"><p class="rdc-item-source"> · Fondation La Poste · 2026</p></div>
 </div>
 
 <div class="rdc-item">
