@@ -66,28 +66,33 @@ author_profile: true
 <p class="rdc-section-title">Presse &amp; Médias</p>
 
 <div class="rdc-item">
-<div class="rdc-tag-col"><span class="rdc-tag tag-presse">Presse</span></div>
-<div class="rdc-item-body"><p class="rdc-item-source"><a href="https://www.temoignagechretien.fr/les-livres-du-printemps-5/" target="_blank">Témoignage chrétien · avril 2026</a></p></div>
-</div>
-
-<div class="rdc-item">
 <div class="rdc-tag-col"><span class="rdc-tag tag-tv">TV</span></div>
 <div class="rdc-item-body"><p class="rdc-item-source"><a href="https://youtu.be/ebDLgzfrg7c?si=w8WdJxdsUaN7AZtm" target="_blank">Les Maternelles · France Télévision · 18 mars 2026</a></p></div>
 </div>
 
 <div class="rdc-item">
 <div class="rdc-tag-col"><span class="rdc-tag tag-presse">Presse</span></div>
-<div class="rdc-item-body"><p class="rdc-item-source"><a href="https://singulars.fr/10-conseils-de-lecture-de-singulars-et-de-my-fair-book-pour-mars-2026/" target="_blank">Singular's · mars 2026</a></p></div>
+<div class="rdc-item-body"><p class="rdc-item-source"><a href="https://www.temoignagechretien.fr/les-livres-du-printemps-5/" target="_blank">Témoignage chrétien · avril 2026</a></p></div>
 </div>
 
 <div class="rdc-item">
 <div class="rdc-tag-col"><span class="rdc-tag tag-presse">Presse</span></div>
-<div class="rdc-item-body"><p class="rdc-item-source"><a href="https://www.lamontagne.fr/paris-75000/loisirs/on-leve-le-voile-sur-rien-de-cache-livre-signe-anthony-feneuil_14941783/" target="_blank">La Montagne · 28 mars 2026</a></p></div>
+<div class="rdc-item-body"><p class="rdc-item-source"><a href="https://www.famillechretienne.fr/46775/article/resister-avec-vassili-grossman-weekly-les-livres-coups-de-coeur-de-la-redaction" target="_blank">Famille chrétienne · mars 2026</a></p></div>
+</div>
+
+<div class="rdc-item">
+<div class="rdc-tag-col"><span class="rdc-tag tag-presse">Presse</span></div>
+<div class="rdc-item-body"><p class="rdc-item-source"><a href="https://www.lamontagne.fr/paris-75000/loisirs/on-leve-le-voile-sur-rien-de-cache-livre-signe-anthony-feneuil_14941783/" target="_blank">La Montagne / Centre France · 28 mars 2026</a></p></div>
 </div>
 
 <div class="rdc-item">
 <div class="rdc-tag-col"><span class="rdc-tag tag-presse">Presse</span></div>
 <div class="rdc-item-body"><p class="rdc-item-source"><a href="https://www.fondationlaposte.org/florilettres/dernieres-parutions/dernieres-parutions-edition-mars-2026-par-elisabeth-miso-et" target="_blank">FloriLettres · Fondation La Poste · mars 2026</a></p></div>
+</div>
+
+<div class="rdc-item">
+<div class="rdc-tag-col"><span class="rdc-tag tag-presse">Presse</span></div>
+<div class="rdc-item-body"><p class="rdc-item-source"><a href="https://singulars.fr/10-conseils-de-lecture-de-singulars-et-de-my-fair-book-pour-mars-2026/" target="_blank">Singular's · mars 2026</a></p></div>
 </div>
 
 <div class="rdc-item">
