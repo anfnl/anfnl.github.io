@@ -76,28 +76,18 @@ author_profile: true
 </div>
 
 <div class="rdc-item">
-<div class="rdc-tag-col"><span class="rdc-tag tag-recension">Recension</span></div>
-<div class="rdc-item-body"><p class="rdc-item-source"> · Fondation La Poste · 2026</p></div>
+<div class="rdc-tag-col"><span class="rdc-tag tag-event">Salon</span></div>
+<div class="rdc-item-body"><p class="rdc-item-source">Le Livre à Metz · 10–11 avril 2026</p></div>
 </div>
 
 <div class="rdc-item">
-<div class="rdc-tag-col"><span class="rdc-tag tag-presse">Presse</span></div>
-<div class="rdc-item-body"><p class="rdc-item-source">La Grande Parade · repris par Centre France / <em>La Montagne</em> · 2026</p></div>
+<div class="rdc-tag-col"><span class="rdc-tag tag-event">Rencontre</span></div>
+<div class="rdc-item-body"><p class="rdc-item-source">Labor et Fides · Genève · 29 avril 2026 · 19h30</p></div>
 </div>
 
 <div class="rdc-item">
-<div class="rdc-tag-col"><span class="rdc-tag tag-recension">Recension</span></div>
-<div class="rdc-item-body"><p class="rdc-item-source">Regards protestants · 2026</p></div>
-</div>
-
-<div class="rdc-item">
-<div class="rdc-tag-col"><span class="rdc-tag tag-event">Événement</span></div>
-<div class="rdc-item-body"><p class="rdc-item-source">Salon du Livre de Metz · 10–11 avril 2026</p></div>
-</div>
-
-<div class="rdc-item">
-<div class="rdc-tag-col"><span class="rdc-tag tag-event">Événement</span></div>
-<div class="rdc-item-body"><p class="rdc-item-source">Labor et Fides · Genève · 2026</p></div>
+<div class="rdc-tag-col"><span class="rdc-tag tag-event">Rencontre</span></div>
+<div class="rdc-item-body"><p class="rdc-item-source">Librairie Le Valentin · Lausanne · 30 avril 2026 · 19h30</p></div>
 </div>
 
 </div>
