@@ -35,7 +35,7 @@ author_profile: true
 .tag-presse    { background: #e8f5ec; color: #3d7850; }
 .tag-event     { background: #f5f0e8; color: #7a6535; }
 .rdc-item-body { flex: 1; }
-.rdc-item-source { font-size: 0.9rem; color: #1a1a1a; letter-spacing: 0.03em; margin: 0 0 0.2rem 0; font-weight: 400; }
+.rdc-item-source { font-size: 0.9rem; color: #1a1a1a; text-decoration: none; letter-spacing: 0.03em; margin: 0 0 0.2rem 0; font-weight: 400; }
 .rdc-item-title { font-size: 0.9rem; line-height: 1.45; margin: 0; font-weight: 300; color: #888; }
 .rdc-item-title a { color: #888; font-size: 0.9rem; text-decoration: none; border-bottom: 1px solid #ddd; transition: border-color 0.2s; }
 .rdc-item-title a:hover { border-color: #888; }
@@ -69,22 +69,14 @@ author_profile: true
   <p class="rdc-section-title">Presse &amp; Médias</p>
 
  <div class="rdc-item">
-    <div class="rdc-tag-col"><span class="rdc-tag tag-presse">Presse</span></div>
-    <div class="rdc-item-body">
-      <p class="rdc-item-source">Témoignage chrétien · avril 2026</a></p>
-      <p class="rdc-item-title"><a href="https://www.temoignagechretien.fr/les-livres-du-printemps-5/" target="_blank">Le fil d'une vie</p>
-    </div>
-  </div>
+<div class="rdc-tag-col"><span class="rdc-tag tag-presse">Presse</span></div>
+<div class="rdc-item-body"><p class="rdc-item-source"><a href="https://www.temoignagechretien.fr/les-livres-du-printemps-5/" target="_blank"><em>Témoignage chrétien</em> · avril 2026</a></p></div>
+</div>
 
-
-
-  <div class="rdc-item">
-    <div class="rdc-tag-col"><span class="rdc-tag tag-radio">TV</span></div>
-    <div class="rdc-item-body">
-      <p class="rdc-item-source">Les Maternelles · France Télévision · 18 Mars 2026</p>
-      <p class="rdc-item-title"><a[href="https://youtu.be/ebDLgzfrg7c?si=w8WdJxdsUaN7AZtm" target="_blank">Rubrique "On se dit tout"</p>
-    </div>
-  </div>
+<div class="rdc-item">
+<div class="rdc-tag-col"><span class="rdc-tag tag-tv">TV</span></div>
+<div class="rdc-item-body"><p class="rdc-item-source"><a href="https://youtu.be/ebDLgzfrg7c?si=w8WdJxdsUaN7AZtm" target="_blank">Les Maternelles · France Télévision · 18 mars 2026</a></p></div>
+</div>
 
   <div class="rdc-item">
     <div class="rdc-tag-col"><span class="rdc-tag tag-recension">Recension</span></div>
