@@ -69,9 +69,9 @@ author_profile: true
   <p class="rdc-section-title">Presse &amp; Médias</p>
 
   <div class="rdc-item">
-    <div class="rdc-tag-col"><span class="rdc-tag tag-tv">TV</span></div>
+    <div class="rdc-tag-col"><span class="rdc-tag tag-tv">Presse</span></div>
     <div class="rdc-item-body">
-      <p class="rdc-item-source">Arte · <em>28 Minutes</em> · avril 2026</p>
+      <p class="rdc-item-source"><a href=https://www.temoignagechretien.fr/les-livres-du-printemps-5/" target="_blank"><em>Témoignage chrétien</em> · avril 2026</p>
       <p class="rdc-item-title">À paraître</p>
     </div>
   </div>
