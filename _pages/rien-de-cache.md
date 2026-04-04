@@ -27,7 +27,7 @@ author_profile: true
 
 /* Items flux */
 .rdc-item { display: flex; gap: 1.2rem; margin-bottom: 1.8rem; align-items: flex-start; }
-.rdc-tag-col { flex: 0 0 100px; padding-top: 0.15rem; text-align: right; }
+.rdc-tag-col { flex: 0 0 115px; padding-top: 0.15rem; text-align: right; }
 .rdc-tag { display: inline-block; font-size: 0.68rem; letter-spacing: 0.1em; text-transform: uppercase; padding: 0.18rem 0.5rem; border-radius: 2px; font-family: 'Source Serif 4', serif; }radius: 2px; font-family: 'Source Serif 4', serif; }
 .tag-recension { background: #f0ece4; color: #6b5d45; }
 .tag-radio     { background: #e8edf5; color: #3d5278; }
