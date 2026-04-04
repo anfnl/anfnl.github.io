@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Anthony Feneuil"
+title: "Philosopher and Theologian"
 author_profile: true
 redirect_from: 
   - /about/
