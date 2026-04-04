@@ -61,6 +61,7 @@ author_profile: true
         
         Mais il est bien connu que la vérité cache autant qu'elle montre."</p>
       <a class="rdc-buy" href="https://www.placedeslibraires.fr/livre/9782227503502-rien-de-cache-anthony-feneuil/" target="_blank">Commander</a>
+      <a class="rdc-buy" href="https://www.bayard-editions.com/livres/101041-rien-de-cache/" target="_blank">Page éditeur</a>
     </div>
   </div>
 
