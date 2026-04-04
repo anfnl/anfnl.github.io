@@ -18,7 +18,7 @@ redirect_from:
 <div data-lang="en" markdown="1">
 
 I am an Associate Professor at the University of Lorraine (France), where I teach systematic theology and contemporary philosophy.
-My research focuses on theological language, the epistemology of belief, and the relationships between contemporary theology and the social sciences. I completed my PhD in 2013 (on religious experience in Karl Barth and Henri Bergson) and obtained my habilitation in 2020. I am also interested in the construction of identity, which I explore through the philosophical and theological lenses of the personal identity problem, and through literary experimentation ([Rien de caché](feneuil.com/rien-de-cache), 2026).
+My research focuses on theological language, the epistemology of belief, and the relationships between contemporary theology and the social sciences. I completed my PhD in 2013 (on religious experience in Karl Barth and Henri Bergson) and obtained my habilitation in 2020. I am also interested in the construction of identity, which I explore through the philosophical and theological lenses of the personal identity problem, and through literary experimentation ([Rien de caché](rien-de-cache/), 2026).
 
 I am a founder and publishing director of the journal [*Théo*Rèmes](https://journals.openedition.org/theoremes/).
 
