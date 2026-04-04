@@ -68,7 +68,8 @@ author_profile: true
   <hr class="rdc-divider">
   <p class="rdc-section-title">Presse &amp; Médias</p>
 
-  <div class="rdc-tag-col"><span class="rdc-tag tag-tv">Presse</span></div>
+ <div class="rdc-item">
+    <div class="rdc-tag-col"><span class="rdc-tag tag-presse">Presse</span></div>
     <div class="rdc-item-body">
       <p class="rdc-item-source"><a href="https://www.temoignagechretien.fr/les-livres-du-printemps-5/" target="_blank"><em>Témoignage chrétien</em> · avril 2026</a></p>
       <p class="rdc-item-title">À paraître</p>
