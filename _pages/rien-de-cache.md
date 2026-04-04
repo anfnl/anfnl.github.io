@@ -30,10 +30,10 @@ author_profile: true
 .rdc-item { display: flex; gap: 1.2rem; margin-bottom: 1.6rem; align-items: center; }
 .rdc-tag-col { flex: 0 0 115px; text-align: right; }
 .rdc-tag { display: inline-block; font-size: 0.68rem; letter-spacing: 0.1em; text-transform: uppercase; padding: 0.18rem 0.5rem; border-radius: 2px; font-family: 'Source Serif 4', serif; }
-.tag-tv     { background: #e4e4e4; color: #3a3a3a; }
-.tag-radio  { background: #e6e2db; color: #4a4035; }
-.tag-presse { background: #dce3e8; color: #2d3f4e; }
-.tag-event  { background: #e8e4dd; color: #5a4f3f; }
+.tag-tv       { background: #dce8f0; color: #1a4a6b; }
+.tag-radio    { background: #ecddf0; color: #5a1a6b; }
+.tag-presse   { background: #ddf0e4; color: #1a5c35; }
+.tag-event    { background: #f5ecd7; color: #7a5a1a; }
 .rdc-item-body { flex: 1; }
 .rdc-item-source { font-size: 0.9rem; color: #1a1a1a; letter-spacing: 0.03em; margin: 0; font-weight: 400; }
 .rdc-item-source a { color: #1a1a1a; text-decoration: none; }
