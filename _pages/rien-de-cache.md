@@ -57,7 +57,9 @@ author_profile: true
       <p class="rdc-author">Anthony Feneuil</p>
       <h1 class="rdc-title">Rien de caché</h1>
       <p class="rdc-editor">Bayard, coll. <em>Littérature intérieure</em>, 2026</p>
-      <p class="rdc-desc">"Il m'a fallu presque trente ans pour découvrir que j'avais été abandonné. Trente ans pour apprendre ce que je savais déjà. Mais il est bien connu que la vérité cache autant qu'elle montre."</p>
+      <p class="rdc-desc">"Il m'a fallu presque trente ans pour découvrir que j'avais été abandonné. Trente ans pour apprendre ce que je savais déjà. 
+        
+        Mais il est bien connu que la vérité cache autant qu'elle montre."</p>
       <a class="rdc-buy" href="https://www.placedeslibraires.fr/livre/9782227503502-rien-de-cache-anthony-feneuil/" target="_blank">Commander</a>
     </div>
   </div>
