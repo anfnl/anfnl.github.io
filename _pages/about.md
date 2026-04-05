@@ -33,10 +33,18 @@ function toggleLang() {
   for (var i = 0; i < frEls.length; i++) { frEls[i].style.display = isEn ? 'none' : ''; }
   btn.textContent = isEn ? '🌐 FR' : '🌐 EN';
 }
+document.addEventListener('DOMContentLoaded', function() {
+  var btn = document.getElementById('lang-toggle');
+  btn.style.position = 'fixed';
+  btn.style.top = '70px';
+  btn.style.right = '20px';
+  btn.style.zIndex = '9998';
+  document.body.appendChild(btn);
+});
 </script>
 
 <div class="home-wrap">
-<div style="position: fixed; top: 70px; right: 20px; z-index: 9998;"><button id="lang-toggle" onclick="toggleLang()" class="home-lang-btn">🌐 EN</button></div>
+<button id="lang-toggle" onclick="toggleLang()" class="home-lang-btn">🌐 EN</button>
 <div class="home-tags">
 <span class="home-tag lang-fr">Croyances</span><span class="home-tag lang-fr">Philosophie & Théologie</span><span class="home-tag lang-fr">Identité</span><span class="home-tag lang-fr">Épistémologie des sciences des religions</span><span class="home-tag lang-en" style="display:none">Beliefs</span><span class="home-tag lang-en" style="display:none">Philosophy & Theology</span><span class="home-tag lang-en" style="display:none">Identity</span><span class="home-tag lang-en" style="display:none">Epistemology of Religious Studies</span>
 </div>
