@@ -43,14 +43,8 @@ header: false
 
 <div class="pub-wrap">
 
-<p class="pub-section-title">Monographies</p>
+<p class="pub-section-title">Monographs</p>
 
-<div class="pub-books">
-  <div class="pub-book">
-    <a href="https://www.placedeslibraires.fr/livre/9782227503502-rien-de-cache-anthony-feneuil/"><img src="/images/rien-de-cache.jpg" alt="Rien de caché"></a>
-    <div class="pub-book-title"><a href="/rien-de-cache/">Rien de caché</a></div>
-    <div class="pub-book-editor">Bayard, 2026 <span style="font-style:italic;color:#bbb">· récit</span></div>
-  </div>
   <div class="pub-book">
     <a href="https://www.laboretfides.com/product/un-lexique-theologique/"><img src="/images/images_livres/lexique.png" alt="Un lexique théologique"></a>
     <div class="pub-book-title"><a href="https://www.laboretfides.com/product/un-lexique-theologique/">Un lexique théologique</a></div>
@@ -199,5 +193,7 @@ header: false
 <div class="pub-entry"><div class="pub-year">2008</div><div class="pub-body"><a href="https://archive-ouverte.unige.ch/unige:5246">« Morale et religion : quelle unité pour <em>Les Deux sources</em> ? »</a>. In <em>Bergson et la religion</em>, dir. Waterlot, G. Paris: PUF, 355–377<span class="pub-translation">Morality and Religion: What Unity for The Two Sources?</span></div></div>
 
 <div class="pub-entry"><div class="pub-year">2008</div><div class="pub-body">« Édition critique de "L'intuition philosophique" de Henri Bergson ». In <em>La Pensée et le Mouvant</em>. Paris: PUF<span class="pub-translation">Critical Edition of Henri Bergson's 'Philosophical Intuition'</span></div></div>
+
+<p style="margin-top: 2.5rem; padding-top: 1.5rem; border-top: 1px solid #ddd; font-size: 0.85rem; color: #aaa; font-family: 'Source Serif 4', serif; font-weight: 300;">Voir aussi : <a href="/rien-de-cache/" style="color: #aaa; text-decoration: none; border-bottom: 1px solid #ddd;"><em>Rien de caché</em></a> (Bayard, 2026) — récit littéraire</p>
 
 </div>
