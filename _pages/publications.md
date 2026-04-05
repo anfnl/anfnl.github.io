@@ -15,7 +15,7 @@ header: false
 .pub-section-title { font-family: 'Playfair Display', serif; font-size: 0.78rem; letter-spacing: 0.18em; text-transform: uppercase; color: #888; margin: 3rem 0 1.8rem 0; font-weight: 400; border-top: 1px solid #ddd; padding-top: 1.8rem; }
 .pub-section-title:first-child { margin-top: 0; }
 
-/* Monographies */
+/* Monographs */
 .pub-books { display: flex; flex-wrap: wrap; gap: 1.8rem; margin-bottom: 1rem; }
 .pub-book { flex: 0 0 auto; width: 120px; text-align: center; }
 .pub-book img { width: 100%; display: block; box-shadow: 3px 4px 12px rgba(0,0,0,0.18); margin-bottom: 0.6rem; }
@@ -78,7 +78,7 @@ header: false
   </div>
 </div>
 
-<p class="pub-section-title">Direction d'ouvrages</p>
+<p class="pub-section-title">Edited Works</p>
 
 <div class="pub-entry"><div class="pub-year">2025</div><div class="pub-body"><a href="https://editions.univ-lorraine.fr/edul/catalog/book/b9782384511822"><em>Du beau, du bon, du vrai, du Pouivet. Mélanges pour Roger Pouivet</em></a>. Dir. avec Bouriau, Christophe. Nancy: EDUL<span class="pub-translation">On Beauty, Goodness, Truth, and Pouivet: Essays in Honor of Roger Pouivet</span></div></div>
 
@@ -106,7 +106,7 @@ header: false
 
 <div class="pub-entry"><div class="pub-year">2012</div><div class="pub-body"><a href="https://doi.org/10.4000/theoremes.259"><em>Les renouveaux analytiques de la philosophie de la religion en question</em></a>. Dir. avec Waterlot, Ghislain. <em>ThéoRèmes</em> 2(2012)<span class="pub-translation">The Analytic Renewals of the Philosophy of Religion in Question</span></div></div>
 
-<p class="pub-section-title">Articles</p>
+<p class="pub-section-title">Journal Articles</p>
 
 <div class="pub-entry"><div class="pub-year">2025</div><div class="pub-body"><a href="https://shs.cairn.info/revue-etudes-2025-1-page-71?lang=fr">« Jürgen Moltmann, théologien de l'avenir »</a>. <em>Études</em> (4322), 71–79<span class="pub-translation">Jürgen Moltmann, Theologian of the Future</span></div></div>
 
@@ -142,7 +142,7 @@ header: false
 
 <div class="pub-entry"><div class="pub-year">2010</div><div class="pub-body"><a href="https://doi.org/10.2143/RTL.41.4.2057474">« "Le mysticisme à l'état pur" (Bergson) : Images des ténèbres chez Thérèse de Lisieux »</a>. <em>Revue Théologique de Louvain</em> 41(4), 519–538<span class="pub-translation">'Mysticism in Its Pure State' (Bergson): Images of Darkness in Thérèse of Lisieux</span></div></div>
 
-<p class="pub-section-title">Chapitres</p>
+<p class="pub-section-title">Book Chapters</p>
 
 <div class="pub-entry"><div class="pub-year">2026</div><div class="pub-body">« Reverberations. Albert Piette's Anthropology of Separation ». Préface à Albert Piette, <em>Humans, Temporary Absolutes</em>. Milan: Mimesis International, 7–13</div></div>
 
