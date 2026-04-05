@@ -36,7 +36,7 @@ redirect_from:
 <div class="cv-wrap">
 <p class="cv-section-title">Current Positions</p>
 <div class="cv-entry"><div class="cv-year">2014 – present</div><div class="cv-body"><strong>Associate Professor (Maître de conférences HDR)</strong>, University of Lorraine</div></div>
-<div class="cv-entry"><div class="cv-year">2023 – 2028</div><div class="cv-body"><strong>Junior Member</strong>, Institut Universitaire de France (IUF)</div></div>
+<div class="cv-entry"><div class="cv-year">2025 – 2030</div><div class="cv-body"><strong>Junior Member</strong>, Institut Universitaire de France (IUF)</div></div>
 <div class="cv-entry"><div class="cv-year">2025 – present</div><div class="cv-body"><strong>Vice-Director</strong>, Research Center Écritures (ER3943)</div></div>
 <div class="cv-entry"><div class="cv-year">2024 – present</div><div class="cv-body"><strong>Member of the Executive Committee</strong>, ANR ReligiS</div></div>
 <div class="cv-entry"><div class="cv-year">2011 – present</div><div class="cv-body"><strong>Publishing Director and Editorial Board Member</strong>, <em>ThéoRèmes</em></div></div>
