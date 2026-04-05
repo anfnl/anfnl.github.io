@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: ""
-description: "Oral presentations and public engagement"
+description: "Oral presentations and public engagement by Anthony Feneuil, philosopher and theologian at the Université de Lorraine."
 permalink: /talks/
 author_profile: true
 ---
