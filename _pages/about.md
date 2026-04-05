@@ -1,47 +1,82 @@
 ---
 permalink: /
-title: "Philosopher and Theologian"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2em; margin-bottom: 2em; padding-bottom: 0.8em; border-bottom: 1px solid #ddd;">
-  <div>
-    <div data-lang="en" style="color: #888; font-size: 0.8em; letter-spacing: 0.07em;">Beliefs · Philosophy & Theology · Identity · Epistemology of Religious Studies</div>
-    <div data-lang="fr" style="color: #888; font-size: 0.8em; letter-spacing: 0.07em;">Croyances · Philosophie & Théologie · Identité · Épistémologie des sciences des religions</div>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;1,400&family=Source+Serif+4:ital,wght@0,300;0,400;1,300&display=swap" rel="stylesheet">
+
+<style>
+.home-wrap { font-family: 'Source Serif 4', Georgia, serif; color: #1a1a1a; max-width: 680px; }
+
+.home-tags { display: flex; flex-wrap: wrap; gap: 0.5rem; margin-bottom: 2rem; align-items: center; justify-content: space-between; padding-bottom: 1.4rem; border-bottom: 1px solid #ddd; }
+.home-taglist { display: flex; flex-wrap: wrap; gap: 0.45rem; }
+.home-tag { font-size: 0.72rem; letter-spacing: 0.06em; color: #999; font-family: 'Source Serif 4', serif; font-weight: 300; }
+.home-tag::after { content: "·"; margin-left: 0.45rem; color: #ddd; }
+.home-tag:last-child::after { content: ""; }
+.home-lang-btn { background: none; border: 1px solid #ccc; border-radius: 3px; padding: 0.15rem 0.6rem; cursor: pointer; font-size: 0.72rem; color: #888; font-family: 'Source Serif 4', serif; white-space: nowrap; transition: border-color 0.2s; }
+.home-lang-btn:hover { border-color: #888; }
+
+.home-body { font-size: 0.97rem; line-height: 1.8; font-weight: 300; color: #1a1a1a; }
+.home-body p { margin-bottom: 1.2rem; }
+.home-body a { color: #1a1a1a; text-decoration: none; border-bottom: 1px solid #ccc; transition: border-color 0.15s; }
+.home-body a:hover { border-color: #1a1a1a; }
+.home-body em { font-style: italic; }
+
+.home-logos { display: flex; justify-content: space-between; align-items: flex-end; margin-top: 3rem; padding-top: 1.8rem; border-top: 1px solid #ddd; }
+</style>
+
+<script>
+function toggleLang() {
+  const enEls = document.querySelectorAll('[data-lang="en"]');
+  const frEls = document.querySelectorAll('[data-lang="fr"]');
+  const btn = document.getElementById('lang-toggle');
+  const isFr = btn.textContent.includes('FR');
+  enEls.forEach(el => el.style.display = isFr ? 'none' : '');
+  frEls.forEach(el => el.style.display = isFr ? '' : 'none');
+  btn.textContent = isFr ? '🌐 EN' : '🌐 FR';
+}
+document.addEventListener('DOMContentLoaded', function() {
+  document.querySelectorAll('[data-lang="fr"]').forEach(el => el.style.display = 'none');
+});
+</script>
+
+<div class="home-wrap">
+
+<div class="home-tags">
+  <div class="home-taglist">
+    <span class="home-tag" data-lang="en">Beliefs</span>
+    <span class="home-tag" data-lang="en">Philosophy & Theology</span>
+    <span class="home-tag" data-lang="en">Identity</span>
+    <span class="home-tag" data-lang="en">Epistemology of Religious Studies</span>
+    <span class="home-tag" data-lang="fr" style="display:none">Croyances</span>
+    <span class="home-tag" data-lang="fr" style="display:none">Philosophie & Théologie</span>
+    <span class="home-tag" data-lang="fr" style="display:none">Identité</span>
+    <span class="home-tag" data-lang="fr" style="display:none">Épistémologie des sciences des religions</span>
   </div>
-  <button id="lang-toggle" onclick="toggleLang()" style="background: none; border: 1px solid #999; border-radius: 4px; padding: 2px 10px; cursor: pointer; font-size: 0.75em; color: #555; white-space: nowrap;">🌐 FR</button>
+  <button id="lang-toggle" onclick="toggleLang()" class="home-lang-btn">🌐 FR</button>
 </div>
 
-<div data-lang="en" markdown="1">
-
-I am an Associate Professor at the University of Lorraine (France), where I teach systematic theology and contemporary philosophy.
-My research focuses on theological language, the epistemology of belief, and the relationships between contemporary theology and the social sciences. I completed my PhD in 2013 (on religious experience in Karl Barth and Henri Bergson) and obtained my habilitation in 2020. I am also interested in the construction of identity, which I explore through the philosophical and theological lenses of the personal identity problem, and through literary experimentation ([Rien de caché](rien-de-cache/), 2026).
-
-I am a founder and publishing director of the journal [*Théo*Rèmes](https://journals.openedition.org/theoremes/).
-
-I am currently conducting research as an [IUF fellow](https://www.iufrance.fr/les-membres-de-liuf/membre/2850-anthony-feneuil.html) on the political consequences of the social sciences of belief.
-
-For more details, see my [CV](cv/) and [publications](publications/).
-
+<div class="home-body" data-lang="en">
+<p>I am an Associate Professor at the University of Lorraine (France), where I teach systematic theology and contemporary philosophy. My research focuses on theological language, the epistemology of belief, and the relationships between contemporary theology and the social sciences. I completed my PhD in 2013 (on religious experience in Karl Barth and Henri Bergson) and obtained my habilitation in 2020. I am also interested in the construction of identity, which I explore through the philosophical and theological lenses of the personal identity problem, and through literary experimentation (<a href="/rien-de-cache/"><em>Rien de caché</em></a>, 2026).</p>
+<p>I am a founder and publishing director of the journal <a href="https://journals.openedition.org/theoremes/"><em>Théo</em>Rèmes</a>.</p>
+<p>I am currently conducting research as an <a href="https://www.iufrance.fr/les-membres-de-liuf/membre/2850-anthony-feneuil.html">IUF fellow</a> on the political consequences of the social sciences of belief.</p>
+<p>For more details, see my <a href="/cv/">CV</a> and <a href="/publications/">publications</a>.</p>
 </div>
 
-<div data-lang="fr" markdown="1">
-
-Je suis maître de conférences à l'Université de Lorraine (France), où j'enseigne la théologie systématique et la philosophie contemporaine.
-Mes recherches portent sur le langage théologique, l'épistémologie de la croyance et les relations entre théologie contemporaine et sciences sociales. J'ai soutenu ma thèse en 2013 (sur l'expérience religieuse chez Karl Barth et Henri Bergson) et mon habilitation en 2020. Je m'intéresse également à la construction de l'identité, que j'explore à travers les prismes philosophique et théologique du problème de l'identité personnelle, et via l'expérimentation littéraire ([Rien de caché](https://feneuil.com/rien-de-cache), 2026).
-
-Je suis cofondateur et directeur de publication de la revue [*Théo*Rèmes](https://journals.openedition.org/theoremes/).
-
-Je travaille actuellement dans le cadre d'une [chaire de l'IUF](https://www.iufrance.fr/les-membres-de-liuf/membre/2850-anthony-feneuil.html) sur les enjeux politiques des sciences sociales de la croyance.
-
-Pour plus de détails, voir mon [CV](cv/) et mes [publications](publications/).
-
+<div class="home-body" data-lang="fr" style="display:none">
+<p>Je suis maître de conférences à l'Université de Lorraine (France), où j'enseigne la théologie systématique et la philosophie contemporaine. Mes recherches portent sur le langage théologique, l'épistémologie de la croyance et les relations entre théologie contemporaine et sciences sociales. J'ai soutenu ma thèse en 2013 (sur l'expérience religieuse chez Karl Barth et Henri Bergson) et mon habilitation en 2020. Je m'intéresse également à la construction de l'identité, que j'explore à travers les prismes philosophique et théologique du problème de l'identité personnelle, et via l'expérimentation littéraire (<a href="/rien-de-cache/"><em>Rien de caché</em></a>, 2026).</p>
+<p>Je suis cofondateur et directeur de publication de la revue <a href="https://journals.openedition.org/theoremes/"><em>Théo</em>Rèmes</a>.</p>
+<p>Je travaille actuellement dans le cadre d'une <a href="https://www.iufrance.fr/les-membres-de-liuf/membre/2850-anthony-feneuil.html">chaire de l'IUF</a> sur les enjeux politiques des sciences sociales de la croyance.</p>
+<p>Pour plus de détails, voir mon <a href="/cv/">CV</a> et mes <a href="/publications/">publications</a>.</p>
 </div>
 
-<div style="display: flex; justify-content: space-between; align-items: flex-end; margin-top: 60px;">
-  <a href="https://ecritures.univ-lorraine.fr/"><img src="/images/logoEcritransp.png" alt="Logo 1" style="height: 80px;"></a>
-  <a href="https://www.iufrance.fr/les-membres-de-liuf/membre/2850-anthony-feneuil.html"><img src="/images/LogoIUF.png" alt="Logo 2" style="height: 80px;"></a>
+<div class="home-logos">
+  <a href="https://ecritures.univ-lorraine.fr/"><img src="/images/logoEcritransp.png" alt="Écritures, Université de Lorraine" style="height: 72px;"></a>
+  <a href="https://www.iufrance.fr/les-membres-de-liuf/membre/2850-anthony-feneuil.html"><img src="/images/LogoIUF.png" alt="Institut Universitaire de France" style="height: 72px;"></a>
+</div>
+
 </div>
