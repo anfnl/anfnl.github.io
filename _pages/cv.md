@@ -47,7 +47,7 @@ redirect_from:
 </div>
 
 <div class="cv-entry">
-<div class="cv-year">2023 – 2028</div>
+<div class="cv-year">2025 – 2030</div>
 <div class="cv-body"><strong>Junior Member</strong>, Institut Universitaire de France (IUF)</div>
 </div>
 
