@@ -46,7 +46,7 @@ header: false
 <p class="pub-section-title">Monographs</p>
 
   <div class="pub-book">
-    <a href="https://www.laboretfides.com/product/un-lexique-theologique/"><img src="/images/images_livres/lexique.png" alt="Un lexique théologique"></a>
+    <a href="https://www.laboretfides.com/product/un-lexique-theologique/"><img src="/images/images_livres/lexique.png" alt="Lexique de théologie"></a>
     <div class="pub-book-title"><a href="https://www.laboretfides.com/product/un-lexique-theologique/">Un lexique théologique</a></div>
     <div class="pub-book-editor">Labor et Fides</div>
   </div>
