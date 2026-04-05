@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: ""
+description: "Publications of Anthony Feneuil in philosophy and theology, including books, journal articles, and book chapters."
 permalink: /publications/
 author_profile: true
 header: false
