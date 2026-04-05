@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: ""
+description: "Rien de caché (Bayard, 2026) — récit d'Anthony Feneuil sur sa naissance sous X et la recherche de ses origines, notamment biologiques"
 permalink: /rien-de-cache/
 author_profile: true
 ---
