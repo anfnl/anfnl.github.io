@@ -13,7 +13,7 @@ redirect_from:
 .cv-wrap { font-family: 'Source Serif 4', Georgia, serif; color: #1a1a1a; max-width: 720px; }
 .cv-section-title { font-family: 'Playfair Display', serif; font-size: 0.78rem; letter-spacing: 0.18em; text-transform: uppercase; color: #888; margin: 3rem 0 1.4rem 0; font-weight: 400; border-top: 1px solid #ddd; padding-top: 1.8rem; }
 .cv-section-title:first-of-type { margin-top: 0; border-top: none; padding-top: 0; }
-.cv-entry { display: flex; gap: 1.4rem; margin-bottom: 1.1rem; align-items: baseline; }
+.cv-entry { display: flex; gap: 1.4rem; margin-bottom: 0.9rem; align-items: baseline; }
 .cv-year { flex: 0 0 100px; font-size: 0.78rem; color: #aaa; font-weight: 300; letter-spacing: 0.03em; text-align: right; }
 .cv-body { flex: 1; font-size: 0.9rem; line-height: 1.65; font-weight: 300; color: #1a1a1a; }
 .cv-body strong { font-weight: 400; }
@@ -27,8 +27,8 @@ redirect_from:
 .cv-footer a { color: #aaa; text-decoration: none; border-bottom: 1px solid #ddd; }
 .cv-footer a:hover { border-color: #aaa; }
 @media (max-width: 500px) {
-  .cv-entry { flex-direction: column; gap: 0.2rem; }
-  .cv-year { text-align: left; }
+  .cv-year { flex: 0 0 70px; font-size: 0.72rem; }
+  .cv-entry { gap: 0.6rem; margin-bottom: 0.8rem; }
 }
 </style>
 
