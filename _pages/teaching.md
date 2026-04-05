@@ -1,10 +1,8 @@
 ---
-permalink: teaching/
+layout: archive
 title: ""
+permalink: /teaching/
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
 <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;1,400&family=Source+Serif+4:ital,wght@0,300;0,400;1,300&display=swap" rel="stylesheet">
