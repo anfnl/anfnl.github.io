@@ -12,7 +12,7 @@ redirect_from:
 <style>
 .home-wrap { font-family: 'Source Serif 4', Georgia, serif; color: #1a1a1a; max-width: 680px; }
 .home-lang-btn { background: none; border: 1px solid #ccc; border-radius: 3px; padding: 0.15rem 0.6rem; cursor: pointer; font-size: 0.72rem; color: #888; font-family: 'Source Serif 4', serif; white-space: nowrap; }
-.home-tags { display: flex; flex-wrap: wrap; gap: 0.45rem; margin-bottom: 2rem; padding-bottom: 1.4rem; border-bottom: 1px solid #ddd; }
+.home-tags { display: flex; flex-wrap: wrap; gap: 0.2rem; margin-bottom: 2rem; padding-bottom: 1.4rem; border-bottom: 1px solid #ddd; }
 .home-tag { font-size: 0.72rem; letter-spacing: 0.06em; color: #999; font-family: 'Source Serif 4', serif; font-weight: 300; }
 .home-tag::after { content: "·"; margin-left: 0.45rem; color: #ddd; }
 .home-tag:last-child::after { content: ""; }
