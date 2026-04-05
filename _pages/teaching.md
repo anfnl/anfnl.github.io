@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: ""
+description: "Teaching experience of Anthony Feneuil, Associate Professor in philosophy and theology at the Université de Lorraine."
 permalink: /teaching/
 author_profile: true
 ---
