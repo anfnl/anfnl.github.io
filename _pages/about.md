@@ -11,8 +11,9 @@ redirect_from:
 
 <style>
 .home-wrap { font-family: 'Source Serif 4', Georgia, serif; color: #1a1a1a; max-width: 680px; }
-.home-lang-btn { background: none; border: 1px solid #ccc; border-radius: 3px; padding: 0.15rem 0.6rem; cursor: pointer; font-size: 0.72rem; color: #888; font-family: 'Source Serif 4', serif; white-space: nowrap; flex-shrink: 0; margin-left: auto; }
-.home-tags { display: flex; flex-wrap: nowrap; gap: 0.2rem; margin-bottom: 2rem; padding-bottom: 1.4rem; border-bottom: 1px solid #ddd; align-items: center; overflow: hidden; }
+.home-lang-btn { background: none; border: 1px solid #ccc; border-radius: 3px; padding: 0.15rem 0.6rem; cursor: pointer; font-size: 0.72rem; color: #888; font-family: 'Source Serif 4', serif; white-space: nowrap; flex-shrink: 0; margin-left: 0.6rem; }
+.home-tags { display: flex; flex-wrap: nowrap; gap: 0; margin-bottom: 2rem; padding-bottom: 1.4rem; border-bottom: 1px solid #ddd; align-items: center; }
+.home-tags-inner { display: flex; flex-wrap: nowrap; overflow: hidden; gap: 0.2rem; min-width: 0; flex: 1; align-items: center; }
 .home-tag { font-size: 0.72rem; letter-spacing: 0.06em; color: #999; font-family: 'Source Serif 4', serif; font-weight: 300; white-space: nowrap; flex-shrink: 1; min-width: 0; overflow: hidden; text-overflow: ellipsis; }
 .home-tag::after { content: "·"; margin-left: 0.2rem; margin-right: 0.2rem; color: #ddd; }
 .home-tag:last-of-type::after { content: ""; }
@@ -37,7 +38,10 @@ function toggleLang() {
 
 <div class="home-wrap">
 <div class="home-tags">
-<span class="home-tag lang-fr">Croyances</span><span class="home-tag lang-fr">Philosophie & Théologie</span><span class="home-tag lang-fr">Identité</span><span class="home-tag lang-fr">Épistémologie des sciences des religions</span><span class="home-tag lang-en" style="display:none">Beliefs</span><span class="home-tag lang-en" style="display:none">Philosophy & Theology</span><span class="home-tag lang-en" style="display:none">Identity</span><span class="home-tag lang-en" style="display:none">Epistemology of Religious Studies</span><button id="lang-toggle" onclick="toggleLang()" class="home-lang-btn">🌐 EN</button>
+<div class="home-tags-inner">
+<span class="home-tag lang-fr">Croyances</span><span class="home-tag lang-fr">Philosophie & Théologie</span><span class="home-tag lang-fr">Identité</span><span class="home-tag lang-fr">Épistémologie des sciences des religions</span><span class="home-tag lang-en" style="display:none">Beliefs</span><span class="home-tag lang-en" style="display:none">Philosophy & Theology</span><span class="home-tag lang-en" style="display:none">Identity</span><span class="home-tag lang-en" style="display:none">Epistemology of Religious Studies</span>
+</div>
+<button id="lang-toggle" onclick="toggleLang()" class="home-lang-btn">🌐 EN</button>
 </div>
 <div class="home-body lang-fr">
 <p>Je suis maître de conférences à l'Université de Lorraine (France), où j'enseigne la théologie systématique et la philosophie contemporaine. Mes recherches portent sur le langage théologique, l'épistémologie de la croyance et les relations entre théologie contemporaine et sciences sociales. J'ai soutenu ma thèse en 2013 (sur l'expérience religieuse chez Karl Barth et Henri Bergson) et mon habilitation en 2020. Je m'intéresse également à la construction de l'identité, que j'explore à travers les prismes philosophique et théologique du problème de l'identité personnelle, et via l'expérimentation littéraire (<a href="/rien-de-cache/"><em>Rien de caché</em></a>, 2026).</p>
