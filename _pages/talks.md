@@ -155,6 +155,8 @@ author_profile: true
 
 <p class="talk-section-title">Public Engagement</p>
 
+<div class="talk-entry"><div class="talk-year">2025</div><div class="talk-body">« Cultuel/culturel, et si on en parlait ? »<span class="talk-note">Atelier, COJEP Metz, 22 sepptembre</span></div></div>
+
 <div class="talk-entry"><div class="talk-year">2025</div><div class="talk-body">« L'évidence de Dieu »<span class="talk-note">Centre théologique de Meylan, 7 February</span></div></div>
 
 <div class="talk-entry"><div class="talk-year">2024</div><div class="talk-body">« La communication des religions »<span class="talk-note">Cycle "Apéro-communes", CREM, University of Lorraine, 13 February</span></div></div>
