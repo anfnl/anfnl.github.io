@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: ""
+description: "Oral presentations and public engagement"
 permalink: /talks/
 author_profile: true
 ---
