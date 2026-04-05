@@ -1,129 +1,62 @@
 ---
-layout: archive
+permalink: /
 title: ""
-permalink: /teaching/
 author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
 <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;1,400&family=Source+Serif+4:ital,wght@0,300;0,400;1,300&display=swap" rel="stylesheet">
 
 <style>
-.teach-wrap { font-family: 'Source Serif 4', Georgia, serif; color: #1a1a1a; max-width: 720px; }
-
-.teach-section-title { font-family: 'Playfair Display', serif; font-size: 0.78rem; letter-spacing: 0.18em; text-transform: uppercase; color: #888; margin: 3rem 0 0.4rem 0; font-weight: 400; border-top: 1px solid #ddd; padding-top: 1.8rem; }
-.teach-section-title:first-of-type { margin-top: 0; border-top: none; padding-top: 0; }
-.teach-subsection { font-size: 0.85rem; color: #1a1a1a; font-weight: 600; font-style: normal; margin: 0 0 1.2rem 0; letter-spacing: 0.01em; font-family: 'Playfair Display', serif; }
-
-.teach-list { list-style: none; padding: 0; margin: 0; }
-.teach-list li { font-size: 0.9rem; font-weight: 300; line-height: 1.65; color: #1a1a1a; padding: 0.3rem 0; border-bottom: 1px solid #f0ede8; display: flex; align-items: baseline; gap: 0.8rem; }
-.teach-list li:last-child { border-bottom: none; }
-.teach-en { flex: 1; }
-.teach-fr { font-size: 0.82rem; color: #aaa; font-style: italic; flex: 0 0 auto; }
-.teach-note { font-size: 0.82rem; color: #888; font-style: italic; display: block; margin-top: 0.1rem; }
-
-.teach-ext-entry { margin-bottom: 1.6rem; }
-.teach-ext-title { font-size: 0.9rem; font-weight: 400; line-height: 1.65; color: #1a1a1a; }
-
-@media (max-width: 500px) {
-  .teach-list li { flex-direction: column; gap: 0.1rem; }
-  .teach-fr { text-align: left; }
-}
+.home-wrap { font-family: 'Source Serif 4', Georgia, serif; color: #1a1a1a; max-width: 680px; }
+.home-tags { display: flex; flex-wrap: wrap; gap: 0.5rem; margin-bottom: 2rem; align-items: center; justify-content: space-between; padding-bottom: 1.4rem; border-bottom: 1px solid #ddd; }
+.home-taglist { display: flex; flex-wrap: wrap; gap: 0.45rem; }
+.home-tag { font-size: 0.72rem; letter-spacing: 0.06em; color: #999; font-family: 'Source Serif 4', serif; font-weight: 300; }
+.home-tag::after { content: "·"; margin-left: 0.45rem; color: #ddd; }
+.home-tag:last-child::after { content: ""; }
+.home-lang-btn { background: none; border: 1px solid #ccc; border-radius: 3px; padding: 0.15rem 0.6rem; cursor: pointer; font-size: 0.72rem; color: #888; font-family: 'Source Serif 4', serif; white-space: nowrap; }
+.home-body { font-size: 0.97rem; line-height: 1.8; font-weight: 300; color: #1a1a1a; }
+.home-body p { margin-bottom: 1.2rem; }
+.home-body a { color: #1a1a1a; text-decoration: none; border-bottom: 1px solid #ccc; transition: border-color 0.15s; }
+.home-body a:hover { border-color: #1a1a1a; }
+.home-logos { display: flex; justify-content: space-between; align-items: flex-end; margin-top: 3rem; padding-top: 1.8rem; border-top: 1px solid #ddd; }
 </style>
 
-<div class="teach-wrap">
+<script>
+function toggleLang() {
+  var enEls = document.querySelectorAll('.lang-en');
+  var frEls = document.querySelectorAll('.lang-fr');
+  var btn = document.getElementById('lang-toggle');
+  var isEn = btn.textContent.indexOf('EN') !== -1;
+  for (var i = 0; i < enEls.length; i++) { enEls[i].style.display = isEn ? '' : 'none'; }
+  for (var i = 0; i < frEls.length; i++) { frEls[i].style.display = isEn ? 'none' : ''; }
+  btn.textContent = isEn ? '🌐 FR' : '🌐 EN';
+}
+</script>
 
-<p class="teach-section-title">Université de Lorraine</p>
-<p class="teach-subsection">Master of Theology</p>
-<ul class="teach-list">
-<li><span class="teach-en">Screen Arts</span><span class="teach-fr">Arts de l'écran</span></li>
-<li><span class="teach-en">Questions of Contemporary Theology</span><span class="teach-fr">Questions de théologie contemporaine</span></li>
-<li><span class="teach-en">French Contemporary Philosophy</span><span class="teach-fr">Philosophie française contemporaine</span></li>
-<li><span class="teach-en">Contemporary Theology</span><span class="teach-fr">Théologie contemporaine</span></li>
-<li><span class="teach-en">Violence and Religion: W. Cavanaugh and J. Moltmann<span class="teach-note">Joint Master's seminar with F. Chavel (Institut Protestant de Théologie)</span></span><span class="teach-fr">Violences et religion</span></li>
-<li><span class="teach-en">Ethics and Contemporary Theology</span><span class="teach-fr">Éthique et théologie contemporaine</span></li>
-<li><span class="teach-en">Theology and Philosophy</span><span class="teach-fr">Théologie et philosophie</span></li>
-<li><span class="teach-en">Philosophy of Religions</span><span class="teach-fr">Philosophie des religions</span></li>
-<li><span class="teach-en">History and Theology: Historiographical Issues</span><span class="teach-fr">Histoire et théologie : questions historiographiques</span></li>
-<li><span class="teach-en">Philosophy and Social Sciences</span><span class="teach-fr">Philosophie et sciences humaines</span></li>
-<li><span class="teach-en">World and Eschatology</span><span class="teach-fr">Monde et eschatologie</span></li>
-<li><span class="teach-en">Ethical and Political Determination</span><span class="teach-fr">Détermination éthique et politique</span></li>
-</ul>
-
-<p class="teach-subsection" style="margin-top: 1.8rem;">Bachelor of Theology — L3</p>
-<ul class="teach-list">
-<li><span class="teach-en">Theology of the Sacraments</span><span class="teach-fr">Théologie des sacrements</span></li>
-<li><span class="teach-en">Theology of Life</span><span class="teach-fr">Théologie de la vie</span></li>
-<li><span class="teach-en">Academic Methodology</span><span class="teach-fr">Méthodologie du travail universitaire</span></li>
-</ul>
-
-<p class="teach-subsection" style="margin-top: 1.8rem;">Bachelor of Theology — L2</p>
-<ul class="teach-list">
-<li><span class="teach-en">Soteriology</span><span class="teach-fr">Sotériologie</span></li>
-<li><span class="teach-en">God the Creator</span><span class="teach-fr">Dieu créateur</span></li>
-<li><span class="teach-en">Christian Sacraments</span><span class="teach-fr">Sacrements chrétiens</span></li>
-<li><span class="teach-en">Academic Methodology</span><span class="teach-fr">Méthodologie</span></li>
-</ul>
-
-<p class="teach-subsection" style="margin-top: 1.8rem;">Bachelor of Theology — L1</p>
-<ul class="teach-list">
-<li><span class="teach-en">Introduction to Theology</span><span class="teach-fr">Introduction à la théologie</span></li>
-<li><span class="teach-en">Christology</span><span class="teach-fr">Christologie</span></li>
-<li><span class="teach-en">Fundamental Theology</span><span class="teach-fr">Théologie fondamentale</span></li>
-<li><span class="teach-en">Academic Methodology</span><span class="teach-fr">Méthodologie</span></li>
-</ul>
-
-<p class="teach-subsection" style="margin-top: 1.8rem;">Other Departments — BA in Social and Human Sciences (L1 & L2)</p>
-<ul class="teach-list">
-<li><span class="teach-en">Introduction to Christian Thought</span><span class="teach-fr">Introduction à la pensée chrétienne</span></li>
-<li><span class="teach-en">Introduction to Theology</span><span class="teach-fr">Introduction à la théologie</span></li>
-<li><span class="teach-en">God in Cinema — L2 SHS</span><span class="teach-fr">Dieu au cinéma</span></li>
-</ul>
-
-<p class="teach-subsection" style="margin-top: 1.8rem;">Other Departments — BA in Humanities (L1)</p>
-<ul class="teach-list">
-<li><span class="teach-en">Introduction to the Philosophy of Religion</span><span class="teach-fr">Introduction à la philosophie de la religion</span></li>
-<li><span class="teach-en">Philosophical Sources of the Social Sciences</span><span class="teach-fr">Sources philosophiques des sciences sociales</span></li>
-</ul>
-
-<p class="teach-subsection" style="margin-top: 1.8rem;">University Diploma (DU) ReLiens — Religion, Secularism, Social Inclusion</p>
-<ul class="teach-list">
-<li><span class="teach-en">Introduction to Theology</span><span class="teach-fr">Introduction à la théologie</span></li>
-<li><span class="teach-en">Literalism and Criticism</span><span class="teach-fr">Littéralisme et critique</span></li>
-</ul>
-
-<p class="teach-section-title">International & External Teaching</p>
-
-<div class="teach-ext-entry">
-<div class="teach-ext-title"><strong>Erasmus+</strong> — Université Félix-Houphouêt-Boigny, Abidjan, Côte d'Ivoire</div>
-<ul class="teach-list" style="margin-top: 0.5rem;">
-<li><span class="teach-en">Doctoral Training in Philosophy</span><span class="teach-fr">Formation doctorale en philosophie — April 2018</span></li>
-</ul>
+<div class="home-wrap">
+<div class="home-tags">
+<div class="home-taglist">
+<span class="home-tag lang-fr">Croyances</span><span class="home-tag lang-fr">Philosophie & Théologie</span><span class="home-tag lang-fr">Identité</span><span class="home-tag lang-fr">Épistémologie des sciences des religions</span><span class="home-tag lang-en" style="display:none">Beliefs</span><span class="home-tag lang-en" style="display:none">Philosophy & Theology</span><span class="home-tag lang-en" style="display:none">Identity</span><span class="home-tag lang-en" style="display:none">Epistemology of Religious Studies</span>
 </div>
-
-<div class="teach-ext-entry">
-<div class="teach-ext-title"><strong>Cèdres Formations</strong>, Lausanne, Switzerland</div>
-<ul class="teach-list" style="margin-top: 0.5rem;">
-<li><span class="teach-en">Systematic Theology</span><span class="teach-fr">Théologie systématique — since 2018</span></li>
-</ul>
+<button id="lang-toggle" onclick="toggleLang()" class="home-lang-btn">🌐 EN</button>
 </div>
-
-<div class="teach-ext-entry">
-<div class="teach-ext-title"><strong>Université de Genève</strong>, Switzerland</div>
-<ul class="teach-list" style="margin-top: 0.5rem;">
-<li><span class="teach-en">The Ethics of Karl Barth — Distance Learning Bachelor, Ethics Certificate</span><span class="teach-fr">2015–2016</span></li>
-<li><span class="teach-en">Introduction to Fundamental Philosophical Concepts (Augustine, Descartes, Kant, Hegel) — Bachelor of Theology</span><span class="teach-fr">Autumn 2013</span></li>
-<li><span class="teach-en">The Ethics of Karl Barth: Understanding and Stakes, with F. Dermange — Master of Theology</span><span class="teach-fr">Spring 2014</span></li>
-<li><span class="teach-en">Interpretation of the Apostles' Creed, with H.-C. Askani — Distance Learning Bachelor</span><span class="teach-fr">2009–2010</span></li>
-<li><span class="teach-en">Methodology of Research in Theology, with G. Waterlot — Master of Theology</span><span class="teach-fr">2011–2012</span></li>
-<li><span class="teach-en">The God of the Philosophers, the God of the Believers, with G. Waterlot — Distance Learning Bachelor</span><span class="teach-fr">2008–2009</span></li>
-</ul>
+<div class="home-body lang-fr">
+<p>Je suis maître de conférences à l'Université de Lorraine (France), où j'enseigne la théologie systématique et la philosophie contemporaine. Mes recherches portent sur le langage théologique, l'épistémologie de la croyance et les relations entre théologie contemporaine et sciences sociales. J'ai soutenu ma thèse en 2013 (sur l'expérience religieuse chez Karl Barth et Henri Bergson) et mon habilitation en 2020. Je m'intéresse également à la construction de l'identité, que j'explore à travers les prismes philosophique et théologique du problème de l'identité personnelle, et via l'expérimentation littéraire (<a href="/rien-de-cache/"><em>Rien de caché</em></a>, 2026).</p>
+<p>Je suis cofondateur et directeur de publication de la revue <a href="https://journals.openedition.org/theoremes/"><em>Théo</em>Rèmes</a>.</p>
+<p>Je travaille actuellement dans le cadre d'une <a href="https://www.iufrance.fr/les-membres-de-liuf/membre/2850-anthony-feneuil.html">chaire de l'IUF</a> sur les enjeux politiques des sciences sociales de la croyance.</p>
+<p>Pour plus de détails, voir mon <a href="/cv/">CV</a> et mes <a href="/publications/">publications</a>.</p>
 </div>
-
-<div class="teach-ext-entry">
-<div class="teach-ext-title"><strong>IST Sophia-Antipolis</strong>, France</div>
-<ul class="teach-list" style="margin-top: 0.5rem;">
-<li><span class="teach-en">Theological Discourse</span><span class="teach-fr">Le discours théologique — 2016–2017</span></li>
-</ul>
+<div class="home-body lang-en" style="display:none">
+<p>I am an Associate Professor at the University of Lorraine (France), where I teach systematic theology and contemporary philosophy. My research focuses on theological language, the epistemology of belief, and the relationships between contemporary theology and the social sciences. I completed my PhD in 2013 (on religious experience in Karl Barth and Henri Bergson) and obtained my habilitation in 2020. I am also interested in the construction of identity, which I explore through the philosophical and theological lenses of the personal identity problem, and through literary experimentation (<a href="/rien-de-cache/"><em>Rien de caché</em></a>, 2026).</p>
+<p>I am a founder and publishing director of the journal <a href="https://journals.openedition.org/theoremes/"><em>Théo</em>Rèmes</a>.</p>
+<p>I am currently conducting research as an <a href="https://www.iufrance.fr/les-membres-de-liuf/membre/2850-anthony-feneuil.html">IUF fellow</a> on the political consequences of the social sciences of belief.</p>
+<p>For more details, see my <a href="/cv/">CV</a> and <a href="/publications/">publications</a>.</p>
 </div>
-
+<div class="home-logos">
+<a href="https://ecritures.univ-lorraine.fr/"><img src="/images/logoEcritransp.png" alt="Écritures, Université de Lorraine" style="height: 72px;"></a>
+<a href="https://www.iufrance.fr/les-membres-de-liuf/membre/2850-anthony-feneuil.html"><img src="/images/LogoIUF.png" alt="Institut Universitaire de France" style="height: 72px;"></a>
+</div>
 </div>
