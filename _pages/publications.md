@@ -18,7 +18,7 @@ header: false
 /* Monographs */
 .pub-books { display: flex; flex-wrap: wrap; gap: 1.8rem; margin-bottom: 1rem; }
 .pub-book { flex: 0 0 auto; width: 120px; text-align: center; }
-.pub-book img { width: 100%; display: block; box-shadow: 3px 4px 12px rgba(0,0,0,0.18); margin-bottom: 0.6rem; }
+.pub-book img { width: 100%; height: 170px; object-fit: cover; object-position: center top; display: block; box-shadow: 3px 4px 12px rgba(0,0,0,0.18); margin-bottom: 0.6rem; }
 .pub-book-title { font-size: 0.75rem; line-height: 1.4; color: #333; font-weight: 400; font-style: italic; }
 .pub-book-title a { color: #333; text-decoration: none; }
 .pub-book-title a:hover { text-decoration: underline; }
