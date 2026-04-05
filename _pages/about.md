@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: ""
-description: "description: "Personal webpage of Anthony Feneuil, Associate Professor in philosophy and theology at the Université de Lorraine and member of the Institut Universitaire de France."
+description: "Personal webpage of Anthony Feneuil, Associate Professor in philosophy and theology at the Université de Lorraine and member of the Institut Universitaire de France."
 author_profile: true
 redirect_from: 
   - /about/
