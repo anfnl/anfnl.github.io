@@ -14,10 +14,6 @@ redirect_from:
 .home-body p { margin-bottom: 1.2rem; }
 .home-body a { color: #1a1a1a; text-decoration: none; border-bottom: 1px solid #ccc; transition: border-color 0.15s; }
 .home-body a:hover { border-color: #1a1a1a; }
-@media (max-width: 600px) {
-  .home-tags-inner { flex-wrap: wrap !important; overflow: visible !important; }
-  .home-tags-inner span { white-space: normal !important; overflow: visible !important; text-overflow: unset !important; }
-}
 </style>
 
 <script>
@@ -30,11 +26,28 @@ function toggleLang() {
   for (var i = 0; i < frEls.length; i++) { frEls[i].style.display = isEn ? 'none' : ''; }
   btn.textContent = isEn ? '🌐 FR' : '🌐 EN';
 }
+
+function adjustTags() {
+  var inner = document.getElementById('home-tags-inner');
+  if (!inner) return;
+  var mobile = window.innerWidth <= 600;
+  inner.style.flexWrap = mobile ? 'wrap' : 'nowrap';
+  inner.style.overflow = mobile ? 'visible' : 'hidden';
+  var spans = inner.querySelectorAll('span');
+  for (var i = 0; i < spans.length; i++) {
+    spans[i].style.whiteSpace = mobile ? 'normal' : 'nowrap';
+    spans[i].style.overflow = mobile ? 'visible' : 'hidden';
+    spans[i].style.textOverflow = mobile ? 'unset' : 'ellipsis';
+  }
+}
+
+window.addEventListener('load', adjustTags);
+window.addEventListener('resize', adjustTags);
 </script>
 
 <div style="font-family: 'Source Serif 4', Georgia, serif; color: #1a1a1a; max-width: 680px;">
 <div style="display: flex; align-items: center; margin-bottom: 2rem; padding-bottom: 1.4rem; border-bottom: 1px solid #ddd;">
-<div class="home-tags-inner" style="flex: 1; min-width: 0; overflow: hidden; display: flex; flex-wrap: nowrap; gap: 0.2rem; align-items: center;">
+<div id="home-tags-inner" style="flex: 1; min-width: 0; overflow: hidden; display: flex; flex-wrap: nowrap; gap: 0.2rem; align-items: center;">
 <span class="lang-fr" style="font-size: 0.72rem; letter-spacing: 0.06em; color: #999; font-weight: 300; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; min-width: 0;">Croyances ·</span>
 <span class="lang-fr" style="font-size: 0.72rem; letter-spacing: 0.06em; color: #999; font-weight: 300; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; min-width: 0;">Philosophie & Théologie ·</span>
 <span class="lang-fr" style="font-size: 0.72rem; letter-spacing: 0.06em; color: #999; font-weight: 300; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; min-width: 0;">Identité ·</span>
