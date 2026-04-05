@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: ""
-description: "Rien de caché (Bayard, 2026) — récit d'Anthony Feneuil sur sa naissance sous X et la recherche de ses origines, notamment biologiques"
+description: "« La vérité cache autant qu'elle montre. » Rien de caché (Bayard, 2026) — récit d'Anthony Feneuil sur sa naissance sous X et sa recherche des origines."
 permalink: /rien-de-cache/
 author_profile: true
 ---
