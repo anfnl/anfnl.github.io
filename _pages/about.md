@@ -16,6 +16,8 @@ redirect_from:
 .home-tag { font-size: 0.72rem; letter-spacing: 0.06em; color: #999; font-family: 'Source Serif 4', serif; font-weight: 300; }
 .home-tag::after { content: "·"; margin-left: 0.45rem; color: #ddd; }
 .home-tag:last-child::after { content: ""; }
+.home-tag.lang-fr::after { margin-left: 0.25rem; }
+.home-tag.lang-fr { letter-spacing: 0.02em; }
 .home-body { font-size: 0.97rem; line-height: 1.8; font-weight: 300; color: #1a1a1a; }
 .home-body p { margin-bottom: 1.2rem; }
 .home-body a { color: #1a1a1a; text-decoration: none; border-bottom: 1px solid #ccc; transition: border-color 0.15s; }
