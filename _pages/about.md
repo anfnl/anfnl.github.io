@@ -10,23 +10,10 @@ redirect_from:
 <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;1,400&family=Source+Serif+4:ital,wght@0,300;0,400;1,300&display=swap" rel="stylesheet">
 
 <style>
-.home-wrap { font-family: 'Source Serif 4', Georgia, serif; color: #1a1a1a; max-width: 680px; }
-.home-lang-btn { background: none; border: 1px solid #ccc; border-radius: 3px; padding: 0.15rem 0.6rem; cursor: pointer; font-size: 0.72rem; color: #888; font-family: 'Source Serif 4', serif; white-space: nowrap; }
-.home-tags {
-  margin-bottom: 2rem;
-  padding-bottom: 1.4rem;
-  border-bottom: 1px solid #ddd;
-}
-.home-tags-top { display: flex; justify-content: flex-end; margin-bottom: 0.5rem; }
-.home-tags-inner { display: flex; flex-wrap: wrap; gap: 0.2rem; align-items: center; }
-.home-tag { font-size: 0.72rem; letter-spacing: 0.06em; color: #999; font-family: 'Source Serif 4', serif; font-weight: 300; white-space: nowrap; }
-.home-tag::after { content: "·"; margin-left: 0.2rem; margin-right: 0.2rem; color: #ddd; }
-.home-tag:last-of-type::after { content: ""; }
-.home-body { font-size: 0.97rem; line-height: 1.8; font-weight: 300; color: #1a1a1a; }
+.home-body { font-size: 0.97rem; line-height: 1.8; font-weight: 300; color: #1a1a1a; font-family: 'Source Serif 4', Georgia, serif; }
 .home-body p { margin-bottom: 1.2rem; }
 .home-body a { color: #1a1a1a; text-decoration: none; border-bottom: 1px solid #ccc; transition: border-color 0.15s; }
 .home-body a:hover { border-color: #1a1a1a; }
-.home-logos { display: flex; justify-content: space-between; align-items: flex-end; margin-top: 3rem; padding-top: 1.8rem; border-top: 1px solid #ddd; }
 </style>
 
 <script>
@@ -41,13 +28,18 @@ function toggleLang() {
 }
 </script>
 
-<div class="home-wrap">
-<div class="home-tags">
-<div class="home-tags-top">
-<button id="lang-toggle" onclick="toggleLang()" class="home-lang-btn">🌐 EN</button>
-</div>
-<div class="home-tags-inner">
-<span class="home-tag lang-fr">Croyances</span><span class="home-tag lang-fr">Philosophie & Théologie</span><span class="home-tag lang-fr">Identité</span><span class="home-tag lang-fr">Épistémologie des sciences des religions</span><span class="home-tag lang-en" style="display:none">Beliefs</span><span class="home-tag lang-en" style="display:none">Philosophy & Theology</span><span class="home-tag lang-en" style="display:none">Identity</span><span class="home-tag lang-en" style="display:none">Epistemology of Religious Studies</span>
+<div style="font-family: 'Source Serif 4', Georgia, serif; color: #1a1a1a; max-width: 680px;">
+<div style="position: relative; margin-bottom: 2rem; padding-bottom: 1.4rem; border-bottom: 1px solid #ddd; padding-top: 1.6rem;">
+<button id="lang-toggle" onclick="toggleLang()" style="position: absolute; top: 0; right: 0; background: none; border: 1px solid #ccc; border-radius: 3px; padding: 0.15rem 0.6rem; cursor: pointer; font-size: 0.72rem; color: #888; font-family: 'Source Serif 4', Georgia, serif; white-space: nowrap;">🌐 EN</button>
+<div style="display: flex; flex-wrap: wrap; gap: 0.2rem; align-items: center;">
+<span class="lang-fr" style="font-size: 0.72rem; letter-spacing: 0.06em; color: #999; font-weight: 300; white-space: nowrap;">Croyances ·</span>
+<span class="lang-fr" style="font-size: 0.72rem; letter-spacing: 0.06em; color: #999; font-weight: 300; white-space: nowrap;">Philosophie & Théologie ·</span>
+<span class="lang-fr" style="font-size: 0.72rem; letter-spacing: 0.06em; color: #999; font-weight: 300; white-space: nowrap;">Identité ·</span>
+<span class="lang-fr" style="font-size: 0.72rem; letter-spacing: 0.06em; color: #999; font-weight: 300; white-space: nowrap;">Épistémologie des sciences des religions</span>
+<span class="lang-en" style="display:none; font-size: 0.72rem; letter-spacing: 0.06em; color: #999; font-weight: 300; white-space: nowrap;">Beliefs ·</span>
+<span class="lang-en" style="display:none; font-size: 0.72rem; letter-spacing: 0.06em; color: #999; font-weight: 300; white-space: nowrap;">Philosophy & Theology ·</span>
+<span class="lang-en" style="display:none; font-size: 0.72rem; letter-spacing: 0.06em; color: #999; font-weight: 300; white-space: nowrap;">Identity ·</span>
+<span class="lang-en" style="display:none; font-size: 0.72rem; letter-spacing: 0.06em; color: #999; font-weight: 300; white-space: nowrap;">Epistemology of Religious Studies</span>
 </div>
 </div>
 <div class="home-body lang-fr">
@@ -62,7 +54,7 @@ function toggleLang() {
 <p>I am currently conducting research as an <a href="https://www.iufrance.fr/les-membres-de-liuf/membre/2850-anthony-feneuil.html">IUF fellow</a> on the political consequences of the social sciences of belief.</p>
 <p>For more details, see my <a href="/cv/">CV</a> and <a href="/publications/">publications</a>.</p>
 </div>
-<div class="home-logos">
+<div style="display: flex; justify-content: space-between; align-items: flex-end; margin-top: 3rem; padding-top: 1.8rem; border-top: 1px solid #ddd;">
 <a href="https://ecritures.univ-lorraine.fr/"><img src="/images/logoEcritransp.png" alt="Écritures, Université de Lorraine" style="height: 72px;"></a>
 <a href="https://www.iufrance.fr/les-membres-de-liuf/membre/2850-anthony-feneuil.html"><img src="/images/LogoIUF.png" alt="Institut Universitaire de France" style="height: 72px;"></a>
 </div>
