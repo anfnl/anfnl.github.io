@@ -1,6 +1,7 @@
 ---
 layout: archive
-title: ""
+title: "Curriculum vitae"
+description: "Curriculum vitae of Anthony Feneuil, Associate Professor in philosophy and theology at the Université de Lorraine"
 permalink: /cv/
 author_profile: true
 redirect_from:
