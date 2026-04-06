@@ -12,7 +12,7 @@ site_theme               : "dirt" # The available themes options are "default", 
 title                    : "Anthony Feneuil"
 title_separator          : "-"
 name                     : &name "Anthony Feneuil"
-description              : &description "Academic website of Anthony Feneuil, Associate Professor at the University of Lorraine. Research in systematic theology, epistemology of belief, and the theology–social sciences relationship. Publications in English and French."   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Academic website of Anthony Feneuil, Associate Professor in theology and philosophy at the University of Lorraine. Systematic theology, epistemology of belief, and the theology–social sciences relationship. Publications in English and French."   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://feneuil.com # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
