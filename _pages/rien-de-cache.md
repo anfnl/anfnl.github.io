@@ -93,7 +93,7 @@ author_profile: true
 
 <div class="rdc-item">
 <div class="rdc-tag-col"><span class="rdc-tag tag-presse">Presse</span></div>
-<div class="rdc-item-body"><p class="rdc-item-source"><a href="https://www.pagedeslibraires.fr/livre/rien-de-cache" target="_blank">Page des Librares · mars 2026</a></p></div>
+<div class="rdc-item-body"><p class="rdc-item-source"><a href="https://www.pagedeslibraires.fr/livre/rien-de-cache" target="_blank">Page des Libraires · mars 2026</a></p></div>
 </div>
 
 <div class="rdc-item">
