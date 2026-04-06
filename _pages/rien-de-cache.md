@@ -93,6 +93,11 @@ author_profile: true
 
 <div class="rdc-item">
 <div class="rdc-tag-col"><span class="rdc-tag tag-presse">Presse</span></div>
+<div class="rdc-item-body"><p class="rdc-item-source"><a href="https://www.pagedeslibraires.fr/livre/rien-de-cache" target="_blank">Page des Librares · mars 2026</a></p></div>
+</div>
+
+<div class="rdc-item">
+<div class="rdc-tag-col"><span class="rdc-tag tag-presse">Presse</span></div>
 <div class="rdc-item-body"><p class="rdc-item-source"><a href="https://singulars.fr/10-conseils-de-lecture-de-singulars-et-de-my-fair-book-pour-mars-2026/" target="_blank">Singular's · mars 2026</a></p></div>
 </div>
 
