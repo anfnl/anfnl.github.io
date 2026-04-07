@@ -30,6 +30,8 @@ author_profile: true
   .med-entry { flex-direction: column; gap: 0.2rem; }
   .med-year { text-align: left; }
 }
+
+  .page__content > hr { display: none; }
 </style>
 
 <div class="med-wrap">
