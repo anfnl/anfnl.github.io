@@ -1,6 +1,7 @@
 ---
-layout: archive
+layout: single
 title: ""
+description: "media and public interventions by Anthony Feneuil, theology and philosophy."
 permalink: /media/
 author_profile: true
 ---
