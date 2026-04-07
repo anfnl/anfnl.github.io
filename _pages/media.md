@@ -7,17 +7,12 @@ author_profile: true
 ---
 
 <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;1,400&family=Source+Serif+4:ital,wght@0,300;0,400;1,300&display=swap" rel="stylesheet">
-
 <style>
 .med-wrap { font-family: 'Source Serif 4', Georgia, serif; color: #1a1a1a; max-width: 720px; }
-
 .med-rdc { font-size: 0.9rem; font-weight: 300; color: #555; margin-bottom: 2.5rem; padding-bottom: 1.8rem; border-bottom: 1px solid #ddd; }
 .med-rdc a { color: #555; text-decoration: none; border-bottom: 1px solid #ddd; transition: border-color 0.15s; }
 .med-rdc a:hover { border-color: #555; }
-
-.med-section-title { font-family: 'Playfair Display', serif; font-size: 0.78rem; letter-spacing: 0.18em; text-transform: uppercase; color: #888; margin: 3rem 0 1.4rem 0; font-weight: 400; border-top: 1px solid #ddd; padding-top: 1.8rem; }
-.med-section-title:first-of-type { margin-top: 0; border-top: none; padding-top: 0; }
-
+.med-section-title { font-family: 'Playfair Display', serif; font-size: 0.78rem; letter-spacing: 0.18em; text-transform: uppercase; color: #888; margin: 3rem 0 1.4rem 0; font-weight: 400; }
 .med-entry { display: flex; gap: 1.4rem; margin-bottom: 1.1rem; align-items: baseline; }
 .med-year { flex: 0 0 44px; font-size: 0.78rem; color: #aaa; font-weight: 300; letter-spacing: 0.03em; text-align: right; }
 .med-body { flex: 1; font-size: 0.9rem; line-height: 1.65; font-weight: 300; color: #1a1a1a; }
@@ -25,13 +20,10 @@ author_profile: true
 .med-body a:hover { border-color: #1a1a1a; }
 .med-body em { font-style: italic; }
 .med-note { font-size: 0.82rem; color: #888; font-style: italic; display: block; margin-top: 0.1rem; }
-
 @media (max-width: 500px) {
   .med-entry { flex-direction: column; gap: 0.2rem; }
   .med-year { text-align: left; }
 }
-
-  .page__content > hr { display: none; }
 </style>
 
 <div class="med-wrap">
