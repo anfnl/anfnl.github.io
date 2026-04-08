@@ -1,16 +1,17 @@
+---
 permalink: /
-layout: null
+redirect_to: /fr/
 redirect_from:
-
-/about/
-/about.html
-
+  - /about/
+  - /about.html
+---
 
 <!DOCTYPE html>
 <html>
 <head>
 <meta charset="utf-8">
 <title>Anthony Feneuil</title>
+<style>body { margin: 0; }</style>
 <script>
   var lang = (navigator.language || navigator.userLanguage || 'en').toLowerCase();
   if (lang.startsWith('fr')) {
@@ -25,3 +26,4 @@ redirect_from:
 </head>
 <body></body>
 </html>
+ 
