@@ -1,5 +1,6 @@
 ---
 permalink: /
+layout: none
 redirect_to: /fr/
 redirect_from:
   - /about/
