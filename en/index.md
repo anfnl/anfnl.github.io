@@ -1,8 +1,12 @@
+---
 permalink: /en/
 title: ""
+layout: single
 description: "Academic website of Anthony Feneuil, Associate Professor in theology and philosophy at the University of Lorraine and member of the Institut Universitaire de France."
 author_profile: true
 lang: en
+---
+
 <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;1,400&family=Source+Serif+4:ital,wght@0,300;0,400;1,300&display=swap" rel="stylesheet">
 <style>
 .home-body { font-size: 0.97rem; line-height: 1.8; font-weight: 300; color: #1a1a1a; font-family: 'Source Serif 4', Georgia, serif; }
