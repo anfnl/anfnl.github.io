@@ -67,6 +67,11 @@ author_profile: true
 <p class="rdc-section-title">Presse &amp; Médias</p>
 
 <div class="rdc-item">
+<div class="rdc-tag-col"><span class="rdc-tag tag-tv">Vidéo</span></div>
+<div class="rdc-item-body"><p class="rdc-item-source"><a href="https://www.magicmaman.com/ne-sous-x-anthony-mere-biologique,3782267.asp" target="_blank">Magicmaman · Parcours · Avril 2026</a></p></div>
+</div>
+
+<div class="rdc-item">
 <div class="rdc-tag-col"><span class="rdc-tag tag-tv">TV</span></div>
 <div class="rdc-item-body"><p class="rdc-item-source"><a href="https://youtu.be/ebDLgzfrg7c?si=w8WdJxdsUaN7AZtm" target="_blank">Les Maternelles · France Télévision · 18 mars 2026</a></p></div>
 </div>
