@@ -26,20 +26,17 @@
 <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:wght@400;500&display=swap" rel="stylesheet">
 {% if page.permalink == '/publications/' or page.permalink == '/talks/' or page.permalink == '/teaching/' or page.permalink == '/media/' or page.permalink == '/cv/' %}
 <style>
-  .archive li,
-  .archive > p {
-    font-size: 0.85em !important;
-    line-height: 1.4 !important;
-    margin-bottom: 0.1em !important;
+@media (prefers-color-scheme: dark) {
+  html, body, .masthead, .page__footer, .sidebar, .page__content, .archive {
+    background-color: #fff !important;
+    color: #1a1a1a !important;
   }
-  .archive ul {
-    margin-bottom: 0.2em !important;
-  }
-  .archive h2 {
-    font-size: 1.3em !important;
-    margin-top: 0.8em !important;
-    margin-bottom: 0.2em !important;
-  }
+  a { color: #6b5b4e !important; }
+}
+
+#theme-toggle {
+  display: none !important;
+}
 </style>
 {% endif %}
 <!-- hreflang -->
