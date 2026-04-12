@@ -18,12 +18,12 @@
               <a href="{{ domain }}{{ link.url }}">{{ link.title }}</a>
             </li>
           {% endfor %}
-          {% if page.permalink == '/' or page.permalink == '/fr/' or page.permalink == '/en/' %}
+        {% if page.permalink == '/' or page.permalink == '/fr/' or page.permalink == '/en/' %}
           <li class="masthead__menu-item persist tail">
             {% if page.lang == 'fr' %}
-              <a href="https://feneuil.com/en/">🌐 EN</a>
+              <a href="https://feneuil.com/en/" style="font-size:0.75em; margin-left: 1rem;">🌐 EN</a>
             {% else %}
-              <a href="https://feneuil.com/fr/">🌐 FR</a>
+              <a href="https://feneuil.com/fr/" style="font-size:0.75em; margin-left: 1rem;">🌐 FR</a>
             {% endif %}
           </li>
           {% endif %}
