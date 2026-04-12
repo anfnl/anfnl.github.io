@@ -19,7 +19,6 @@ lang: fr
   <div style="flex: 1; font-size: 0.72rem; letter-spacing: 0.06em; color: #999; font-weight: 300;">
     Croyances · Philosophie &amp; Théologie · Identité · Épistémologie des sciences des religions
   </div>
-  <a href="/en/" style="flex-shrink: 0; margin-left: 0.8rem; background: none; border: 1px solid #ccc; border-radius: 3px; padding: 0.15rem 0.6rem; font-size: 0.65rem; color: #aaa; font-family: 'Source Serif 4', Georgia, serif; text-decoration: none;">🌐 EN</a>
 </div>
 <div class="home-body">
 <p>Je suis maître de conférences à l'Université de Lorraine (France), où j'enseigne la théologie systématique et la philosophie contemporaine. Mes recherches portent sur le langage théologique, l'épistémologie de la croyance et les relations entre théologie contemporaine et sciences sociales. J'ai soutenu ma thèse en 2013 (sur l'expérience religieuse chez Karl Barth et Henri Bergson) et mon habilitation en 2020. Je m'intéresse également à la construction de l'identité, que j'explore à travers les prismes philosophique et théologique du problème de l'identité personnelle, et via l'expérimentation littéraire (<a href="/rien-de-cache/"><em>Rien de caché</em></a>, 2026).</p>
