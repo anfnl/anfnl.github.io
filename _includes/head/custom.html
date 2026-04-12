@@ -12,9 +12,7 @@
 </script>
 {% include base_path %}
 <!-- start custom head snippets -->
-<!-- Support for Academicons -->
 <link rel="stylesheet" href="{{ base_path }}/assets/css/academicons.css"/>
-<!-- favicon -->
 <link rel="apple-touch-icon" sizes="180x180" href="{{ base_path }}/images/apple-touch-icon-180x180.png"/>
 <link rel="icon" type="image/svg+xml" href="{{ base_path }}/images/favicon.svg"/>
 <link rel="icon" type="image/png" href="{{ base_path }}/images/favicon-32x32.png" sizes="32x32"/>
@@ -22,9 +20,20 @@
 <link rel="manifest" href="{{ base_path }}/images/manifest.json"/>
 <link rel="icon" href="/images/favicon.ico"/>
 <meta name="theme-color" content="#ffffff"/>
-<!-- Google Fonts -->
+<meta name="color-scheme" content="light only">
 <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:wght@400;500&display=swap" rel="stylesheet">
 {% if page.permalink == '/publications/' or page.permalink == '/talks/' or page.permalink == '/teaching/' or page.permalink == '/media/' or page.permalink == '/cv/' %}
+<style>
+  .archive li, .archive > p { font-size: 0.85em !important; line-height: 1.4 !important; margin-bottom: 0.1em !important; }
+  .archive ul { margin-bottom: 0.2em !important; }
+  .archive h2 { font-size: 1.3em !important; margin-top: 0.8em !important; margin-bottom: 0.2em !important; }
+</style>
+{% endif %}
+{% if page.permalink == '/fr/' or page.permalink == '/en/' or page.permalink == '/' %}
+<style>
+  .page__inner-wrap > header { display: none !important; }
+</style>
+{% endif %}
 <style>
 @media (prefers-color-scheme: dark) {
   html, body, .masthead, .page__footer, .sidebar, .page__content, .archive {
@@ -33,13 +42,7 @@
   }
   a { color: #6b5b4e !important; }
 }
-
-#theme-toggle {
-  display: none !important;
-}
 </style>
-{% endif %}
-<!-- hreflang -->
 {% if page.lang == 'fr' %}
 <link rel="alternate" hreflang="fr" href="https://feneuil.com/fr/" />
 <link rel="alternate" hreflang="en" href="https://feneuil.com/en/" />
@@ -57,26 +60,4 @@
   "url": "https://feneuil.com"
 }
 </script>
-{% if page.permalink == '/fr/' or page.permalink == '/en/' %}
-<style>
-  .page__inner-wrap > header {
-    display: none !important;
-  }
-</style>
-{% endif %}
-
-<meta name="color-scheme" content="light only">
-<style>
-@media (prefers-color-scheme: dark) {
-  html, body, .masthead, .page__footer, .sidebar, .page__content, .archive {
-    background-color: #fff !important;
-    color: #1a1a1a !important;
-  }
-  a { color: #6b5b4e !important; }
-}
-
-.theme-toggle {
-  display: none !important;
-}
-</style>
 <!-- end custom head snippets -->
