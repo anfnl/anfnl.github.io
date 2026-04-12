@@ -19,7 +19,6 @@ lang: en
   <div style="flex: 1; font-size: 0.72rem; letter-spacing: 0.06em; color: #999; font-weight: 300;">
     Beliefs · Philosophy &amp; Theology · Identity · Epistemology of Religious Studies
   </div>
-  <a href="/fr/" style="flex-shrink: 0; margin-left: 0.8rem; background: none; border: 1px solid #ccc; border-radius: 3px; padding: 0.15rem 0.6rem; font-size: 0.65rem; color: #aaa; font-family: 'Source Serif 4', Georgia, serif; text-decoration: none;">🌐 FR</a>
 </div>
 <div class="home-body">
 <p>I am an Associate Professor at the University of Lorraine (France), where I teach systematic theology and contemporary philosophy. My research focuses on theological language, the epistemology of belief, and the relationships between contemporary theology and the social sciences. I completed my PhD in 2013 (on religious experience in Karl Barth and Henri Bergson) and obtained my habilitation in 2020. I am also interested in the construction of identity, which I explore through the philosophical and theological lenses of the personal identity problem, and through literary experimentation (<a href="/rien-de-cache/"><em>Rien de caché</em></a>, 2026).</p>
