@@ -67,6 +67,11 @@ author_profile: true
 <p class="rdc-section-title">Presse &amp; Médias</p>
 
 <div class="rdc-item">
+<div class="rdc-tag-col"><span class="rdc-tag tag-radio">Radio</span></div>
+<div class="rdc-item-body"><p class="rdc-item-source"><a href="https://auvio.rtbf.be/media/week-end-premiere-l-invite-de-charlotte-dekoker-3460192" target="_blank">Weekend Première · RTBF · 12 Avril 2026</a></p></div>
+</div>
+
+<div class="rdc-item">
 <div class="rdc-tag-col"><span class="rdc-tag tag-tv">Vidéo</span></div>
 <div class="rdc-item-body"><p class="rdc-item-source"><a href="https://www.magicmaman.com/ne-sous-x-anthony-mere-biologique,3782267.asp" target="_blank">Magicmaman · Parcours · Avril 2026</a></p></div>
 </div>
