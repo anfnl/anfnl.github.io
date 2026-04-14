@@ -1,6 +1,6 @@
 ---
 permalink: /fr/
-title: ""
+title: "Anthony Feneuil – philosophe et théologien | Université de Lorraine"
 layout: single
 description: "Site académique de Anthony Feneuil, maître de conférences en théologie et philosophie à l'Université de Lorraine et membre de l'Institut Universitaire de France."
 author_profile: true
