@@ -1,6 +1,6 @@
 ---
 permalink: /en/
-title: "Anthony Feneuil, About, CV and publications"
+title: "Anthony Feneuil – About, CV and publications"
 layout: single
 description: "Academic website of Anthony Feneuil, Associate Professor in theology and philosophy at the University of Lorraine and member of the Institut Universitaire de France."
 author_profile: true
