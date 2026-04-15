@@ -124,8 +124,8 @@ author_profile: true
 </div>
 
 <div class="rdc-item">
-<div class="rdc-tag-col"><span class="rdc-tag tag-event">Rencontre</span></div>
-<div class="rdc-item-body"><p class="rdc-item-source">Labor et Fides · Genève · 29 avril 2026 · 19h00</p></div>
+<div class="rdc-tag-col"><span class="rdc-tag tag-presse">Presse</span></div>
+<div class="rdc-item-body"><p class="rdc-item-source"><a href="https://www.laboretfides.com/event/anthony-feneuil-presente-rien-de-cache-chez-labor-et-fides-geneve/" target="_blank">Labor et Fides · Genève · 29 avril 2026 · 19h15</a></p></div>
 </div>
 
 
