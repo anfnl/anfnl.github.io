@@ -5,7 +5,9 @@ description: "Récit littéraire et philosophique d'Anthony Feneuil sur sa vie s
 permalink: /rien-de-cache/
 author_profile: true
 ---
-
+<style>
+.page__title { display: none; }
+</style>
 <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;1,400&family=Source+Serif+4:ital,wght@0,300;0,400;1,300&display=swap" rel="stylesheet">
 
 <style>
