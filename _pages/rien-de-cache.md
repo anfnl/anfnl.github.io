@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: ""
-description: "« La vérité cache autant qu'elle montre. » Rien de caché (Bayard, 2026) — récit d'Anthony Feneuil sur sa naissance sous X et sa recherche des origines."
+title: "Rien de caché – Bayard, Anthony Feneuil"
+description: "« Récit littéraire et philosophique d'Anthony Feneuil sur sa vie sous X et sa recherche des origines."
 permalink: /rien-de-cache/
 author_profile: true
 ---
@@ -98,12 +98,17 @@ author_profile: true
 
 <div class="rdc-item">
 <div class="rdc-tag-col"><span class="rdc-tag tag-presse">Presse</span></div>
+<div class="rdc-item-body"><p class="rdc-item-source"><a href="https://www.pagedeslibraires.fr/livre/rien-de-cache" target="_blank">Page des Libraires · mars 2026</a></p></div>
+</div>
+
+<div class="rdc-item">
+<div class="rdc-tag-col"><span class="rdc-tag tag-presse">Presse</span></div>
 <div class="rdc-item-body"><p class="rdc-item-source"><a href="https://www.fondationlaposte.org/florilettres/dernieres-parutions/dernieres-parutions-edition-mars-2026-par-elisabeth-miso-et" target="_blank">FloriLettres · Fondation La Poste · mars 2026</a></p></div>
 </div>
 
 <div class="rdc-item">
 <div class="rdc-tag-col"><span class="rdc-tag tag-presse">Presse</span></div>
-<div class="rdc-item-body"><p class="rdc-item-source"><a href="https://www.pagedeslibraires.fr/livre/rien-de-cache" target="_blank">Page des Libraires · mars 2026</a></p></div>
+<div class="rdc-item-body"><p class="rdc-item-source"><a href="https://wukali.com/2026/04/14/labandon-au-coeur-du-roman-danthony-feneuil/34570/" target="_blank">Wukali · avril 2026</a></p></div>
 </div>
 
 <div class="rdc-item">
