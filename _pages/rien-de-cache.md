@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Rien de caché – Bayard, Anthony Feneuil"
-description: "« Récit littéraire et philosophique d'Anthony Feneuil sur sa vie sous X et sa recherche des origines."
+title: "Rien de caché – Bayard / Labor et Fides, Anthony Feneuil"
+description: "Récit littéraire et philosophique d'Anthony Feneuil sur sa vie sous X et sa recherche des origines."
 permalink: /rien-de-cache/
 author_profile: true
 ---
@@ -54,7 +54,7 @@ author_profile: true
 <div class="rdc-meta">
 <p class="rdc-author">Anthony Feneuil</p>
 <h1 class="rdc-title">Rien de caché</h1>
-<p class="rdc-editor">Bayard, coll. <em>Littérature intérieure</em>, 2026</p>
+<p class="rdc-editor">Bayard / Labor et Fides, coll. <em>Littérature intérieure</em>, 2026</p>
 <p class="rdc-desc">&laquo;&nbsp;Il m'a fallu presque trente ans pour découvrir que j'avais été abandonné. Trente ans pour apprendre ce que je savais déjà. Mais il est bien connu que la vérité cache autant qu'elle montre.&nbsp;&raquo;</p>
 <div class="rdc-buttons">
 <a class="rdc-buy" href="https://www.placedeslibraires.fr/livre/9782227503502-rien-de-cache-anthony-feneuil/" target="_blank">Commander</a>
