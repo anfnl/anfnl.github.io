@@ -69,13 +69,13 @@ author_profile: true
 <p class="rdc-section-title">Presse &amp; Médias</p>
 
 <div class="rdc-item">
-<div class="rdc-tag-col"><span class="rdc-tag tag-radio">Radio</span></div>
-<div class="rdc-item-body"><p class="rdc-item-source"><a href="https://auvio.rtbf.be/media/week-end-premiere-l-invite-de-charlotte-dekoker-3460192" target="_blank">Weekend Première · RTBF · 12 Avril 2026</a></p></div>
+<div class="rdc-tag-col"><span class="rdc-tag tag-tv">TV</span></div>
+<div class="rdc-item-body"><p class="rdc-item-source"><a href="https://www.arte.tv/fr/videos/132922-001-A/ne-sous-x-il-part-a-la-recherche-de-sa-mere-biologique-et-la-retrouve/"_blank">28 minutes · Arte · 27 Avril 2026</a></p></div>
 </div>
 
 <div class="rdc-item">
-<div class="rdc-tag-col"><span class="rdc-tag tag-tv">Vidéo</span></div>
-<div class="rdc-item-body"><p class="rdc-item-source"><a href="https://www.magicmaman.com/ne-sous-x-anthony-mere-biologique,3782267.asp" target="_blank">Magicmaman · Parcours · Avril 2026</a></p></div>
+<div class="rdc-tag-col"><span class="rdc-tag tag-radio">Radio</span></div>
+<div class="rdc-item-body"><p class="rdc-item-source"><a href="https://auvio.rtbf.be/media/week-end-premiere-l-invite-de-charlotte-dekoker-3460192" target="_blank">Weekend Première · RTBF · 12 Avril 2026</a></p></div>
 </div>
 
 <div class="rdc-item">
@@ -84,8 +84,18 @@ author_profile: true
 </div>
 
 <div class="rdc-item">
+<div class="rdc-tag-col"><span class="rdc-tag tag-tv">Vidéo</span></div>
+<div class="rdc-item-body"><p class="rdc-item-source"><a href="https://www.magicmaman.com/ne-sous-x-anthony-mere-biologique,3782267.asp" target="_blank">Magicmaman · Parcours · Avril 2026</a></p></div>
+</div>
+
+<div class="rdc-item">
 <div class="rdc-tag-col"><span class="rdc-tag tag-presse">Presse</span></div>
 <div class="rdc-item-body"><p class="rdc-item-source"><a href="https://www.temoignagechretien.fr/les-livres-du-printemps-5/" target="_blank">Témoignage chrétien · avril 2026</a></p></div>
+</div>
+
+<div class="rdc-item">
+<div class="rdc-tag-col"><span class="rdc-tag tag-tv">TV</span></div>
+<div class="rdc-item-body"><p class="rdc-item-source"><a href="https://www.europe1.fr/emissions/et-si-on-en-parlait/et-si-on-en-parlait-ladoption-929264"_blank">Et si on en parlait · Europe 1 · 28 Avril 2026</a></p></div>
 </div>
 
 <div class="rdc-item">
