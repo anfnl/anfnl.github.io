@@ -70,7 +70,7 @@ author_profile: true
 
 <div class="rdc-item">
 <div class="rdc-tag-col"><span class="rdc-tag tag-tv">TV</span></div>
-<div class="rdc-item-body"><p class="rdc-item-source"><a href="https://www.arte.tv/fr/videos/132922-001-A/ne-sous-x-il-part-a-la-recherche-de-sa-mere-biologique-et-la-retrouve/" target="_blank">Weekend Première · RTBF · 12 Avril 2026</a></p></div>
+<div class="rdc-item-body"><p class="rdc-item-source"><a href="https://www.arte.tv/fr/videos/132922-001-A/ne-sous-x-il-part-a-la-recherche-de-sa-mere-biologique-et-la-retrouve/" target="_blank">28 minutes · Arte · 27 Avril 2026</a></p></div>
 </div>
 
 <div class="rdc-item">
