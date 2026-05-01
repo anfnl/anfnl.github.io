@@ -133,15 +133,4 @@ author_profile: true
 <div class="rdc-item-body"><p class="rdc-item-source"><a href="https://www.lagrandeparade.com/acrobates-de-la-plume/auto-biographie/7055-%C2%AB-rien-de-cach%C3%A9-%C2%BB-les-simagr%C3%A9es-de-la-naissance-sous-x.html" target="_blank">La Grande Parade · mars 2026</a></p></div>
 </div>
 
-<div class="rdc-item">
-<div class="rdc-tag-col"><span class="rdc-tag tag-event">Rencontre</span></div>
-<div class="rdc-item-body"><p class="rdc-item-source"><a href="https://www.laboretfides.com/event/anthony-feneuil-presente-rien-de-cache-chez-labor-et-fides-geneve/" target="_blank">Labor et Fides · Genève · 29 avril 2026 · 19h00</a></p></div>
-</div>
-
-
-<div class="rdc-item">
-<div class="rdc-tag-col"><span class="rdc-tag tag-event">Rencontre</span></div>
-<div class="rdc-item-body"><p class="rdc-item-source"><a href="https://www.laboretfides.com/event/anthony-feneuil-presente-rien-de-cache-librairie-valentin-lausanne/" target="_blank">Librairie Le Valentin · Lausanne · 30 avril 2026 · 19h00</a></p></div>
-</div>
-
 </div>
