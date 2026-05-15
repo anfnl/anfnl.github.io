@@ -105,6 +105,11 @@ author_profile: true
 
 <div class="rdc-item">
 <div class="rdc-tag-col"><span class="rdc-tag tag-presse">Presse</span></div>
+<div class="rdc-item-body"><p class="rdc-item-source"><a href="https://www.baz-art.org/2026/05/rien-de-cache.html" target="_blank">Baz-Art · Mai 2026</a></p></div>
+</div>
+
+<div class="rdc-item">
+<div class="rdc-tag-col"><span class="rdc-tag tag-presse">Presse</span></div>
 <div class="rdc-item-body"><p class="rdc-item-source"><a href="https://www.lamontagne.fr/paris-75000/loisirs/on-leve-le-voile-sur-rien-de-cache-livre-signe-anthony-feneuil_14941783/" target="_blank">La Montagne / Centre France · 28 mars 2026</a></p></div>
 </div>
 
