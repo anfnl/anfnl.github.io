@@ -74,6 +74,16 @@ author_profile: true
 </div>
 
 <div class="rdc-item">
+<div class="rdc-tag-col"><span class="rdc-tag tag-presse">Presse</span></div>
+<div class="rdc-item-body"><p class="rdc-item-source"><a Elle · 21 mai 2026</a></p></div>
+</div>
+
+<div class="rdc-item">
+<div class="rdc-tag-col"><span class="rdc-tag tag-presse">Presse</span></div>
+<div class="rdc-item-body"><p class="rdc-item-source"><a Le Pèlerin · 21 mai 2026</a></p></div>
+</div>
+
+<div class="rdc-item">
 <div class="rdc-tag-col"><span class="rdc-tag tag-radio">Radio</span></div>
 <div class="rdc-item-body"><p class="rdc-item-source"><a href="https://auvio.rtbf.be/media/week-end-premiere-l-invite-de-charlotte-dekoker-3460192" target="_blank">Weekend Première · RTBF · 12 Avril 2026</a></p></div>
 </div>
