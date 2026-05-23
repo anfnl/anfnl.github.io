@@ -79,8 +79,8 @@ author_profile: true
 </div>
 
 <div class="rdc-item">
-<div class="rdc-tag-col"><span class="rdc-tag tag-presse">Presse</span></div>
-<div class="rdc-item-body"><p class="rdc-item-source"><a Le Pèlerin · 21 mai 2026</a></p></div>
+<div class="rdc-tag-col"><span class="rdc-tag tag-presse">"_blank"> Presse</span></div>
+<div class="rdc-item-body"><p class="rdc-item-source"><a "_blank"> Le Pèlerin · 21 mai 2026</a></p></div>
 </div>
 
 <div class="rdc-item">
