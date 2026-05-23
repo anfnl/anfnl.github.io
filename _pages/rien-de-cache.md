@@ -75,12 +75,12 @@ author_profile: true
 
 <div class="rdc-item">
 <div class="rdc-tag-col"><span class="rdc-tag tag-presse">Presse</span></div>
-<div class="rdc-item-body"><p class="rdc-item-source"><a href=""_blank"> Elle · 21 mai 2026</a></p></div>
+<div class="rdc-item-body"><p class="rdc-item-source"><a href="" target="_blank">Elle · 21 mai 2026</a></p></div>
 </div>
 
 <div class="rdc-item">
 <div class="rdc-tag-col"><span class="rdc-tag tag-presse">Presse</span></div>
-<div class="rdc-item-body"><p class="rdc-item-source"><a href=""_blank"> Le Pèlerin · 21 mai 2026</a></p></div>
+<div class="rdc-item-body"><p class="rdc-item-source"><a href="" target="_blank">Le Pèlerin · 21 mai 2026</a></p></div>
 </div>
 
 <div class="rdc-item">
