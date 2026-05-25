@@ -80,7 +80,7 @@ author_profile: true
 
 <div class="rdc-item">
 <div class="rdc-tag-col"><span class="rdc-tag tag-presse">Presse</span></div>
-<div class="rdc-item-body"><p class="rdc-item-source"><a href="" target="_blank">Le Pèlerin · N° 7486 · 21 mai 2026</a></p></div>
+<div class="rdc-item-body"><p class="rdc-item-source"><a href="https://www.lepelerin.com/culture/litterature/notre-selection-de-6-livres-a-ne-pas-manquer-15191" target="_blank">Le Pèlerin · N° 7486 · 21 mai 2026</a></p></div>
 </div>
 
 <div class="rdc-item">
