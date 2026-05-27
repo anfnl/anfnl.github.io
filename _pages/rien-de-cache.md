@@ -69,6 +69,11 @@ author_profile: true
 <p class="rdc-section-title">Presse &amp; Médias</p>
 
 <div class="rdc-item">
+<div class="rdc-tag-col"><span class="rdc-tag tag-radio">Radio</span></div>
+<div class="rdc-item-body"><p class="rdc-item-source"><a href="https://www.radiofrance.fr/franceculture/podcasts/le-book-club/ne-sous-x-ecrire-la-quete-de-soi-avec-anthony-feneuil-7839770" target="_blank">Le Book Club · France Culture · 27 mai 2026</a></p></div>
+</div>
+
+<div class="rdc-item">
 <div class="rdc-tag-col"><span class="rdc-tag tag-tv">TV</span></div>
 <div class="rdc-item-body"><p class="rdc-item-source"><a href="https://www.arte.tv/fr/videos/132922-001-A/ne-sous-x-il-part-a-la-recherche-de-sa-mere-biologique-et-la-retrouve/" target="_blank">28 minutes · Arte · 27 Avril 2026</a></p></div>
 </div>
