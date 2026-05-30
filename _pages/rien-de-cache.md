@@ -79,6 +79,11 @@ author_profile: true
 </div>
 
 <div class="rdc-item">
+<div class="rdc-tag-col"><span class="rdc-tag tag-tv">TV</span></div>
+<div class="rdc-item-body"><p class="rdc-item-source"><a href="https://youtu.be/UuN1iGZnw2w?si=SejQQbPmNDIBQwNA" target="_blank">Un cœur qui écoute · KTO · 29 mai 2026</a></p></div>
+</div>
+
+<div class="rdc-item">
 <div class="rdc-tag-col"><span class="rdc-tag tag-presse">Presse</span></div>
 <div class="rdc-item-body"><p class="rdc-item-source"><a href="" target="_blank">Elle · N° 4196 · 21 mai 2026</a></p></div>
 </div>
