@@ -66,6 +66,56 @@ author_profile: true
 </div>
 
 <hr class="rdc-divider">
+
+<hr class="rdc-divider">
+<p class="rdc-section-title">À voir &amp; écouter</p>
+
+<style>
+.rdc-media-item { margin-bottom: 2.4rem; }
+.rdc-media-label { font-size: 0.78rem; letter-spacing: 0.12em; text-transform: uppercase; color: #888; margin: 0 0 0.6rem 0; font-family: 'Source Serif 4', serif; }
+.rdc-media-label strong { color: #1a1a1a; font-weight: 400; }
+.rdc-video-wrap { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; }
+.rdc-video-wrap iframe { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+.rdc-audio-wrap iframe { width: 100%; display: block; }
+</style>
+
+<div class="rdc-media-item">
+<p class="rdc-media-label"><span class="rdc-tag tag-tv">TV</span> &nbsp;<strong>28 minutes · Arte · 27 avril 2026</strong></p>
+<div class="rdc-video-wrap">
+<iframe title="Né sous X, il part à la recherche de sa mère biologique… et la retrouve !" allowfullscreen="true" style="border:none;" src="https://www.arte.tv/embeds/fr/132922-001-A?autoplay=false&mute=0"></iframe>
+</div>
+</div>
+
+<div class="rdc-media-item">
+<p class="rdc-media-label"><span class="rdc-tag tag-radio">Radio</span> &nbsp;<strong>Le Book Club · France Culture · 27 mai 2026</strong></p>
+<div class="rdc-audio-wrap">
+<iframe src="https://embed.radiofrance.fr/franceculture/diffusion/f766931e-d48c-477d-b9c7-5bbb5f6b316d" width="100%" height="144" frameborder="0" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="rdc-media-item">
+<p class="rdc-media-label"><span class="rdc-tag tag-tv">TV</span> &nbsp;<strong>Les Maternelles · France Télévisions · 18 mars 2026</strong></p>
+<div class="rdc-video-wrap">
+<iframe src="https://www.youtube.com/embed/ebDLgzfrg7c?si=5w1S1KpAkSpqTmC5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="rdc-media-item">
+<p class="rdc-media-label"><span class="rdc-tag tag-radio">Radio</span> &nbsp;<strong>Weekend Première · RTBF · 12 avril 2026</strong></p>
+<div class="rdc-video-wrap">
+<iframe allowfullscreen="true" allow="encrypted-media" scrolling="no" frameborder="0" src="https://auvio.rtbf.be/embed/generic/content/media/3460192"></iframe>
+</div>
+</div>
+Quelques notes :
+
+J'ai mis autoplay=false sur Arte pour éviter que ça parte tout seul à l'ouverture de la page
+Les vidéos sont en ratio 16:9 responsive via .rdc-video-wrap
+Le podcast France Culture garde sa hauteur native (144px) — c'est un player audio, pas une vidéo
+L'ordre : Arte en premier (le plus impactant), puis France Culture, Les Maternelles, RTBF
+
+Tu veux que je t'envoie le fichier complet mis à jour ?
+
+
 <p class="rdc-section-title">Presse &amp; Médias</p>
 
 <div class="rdc-item">
