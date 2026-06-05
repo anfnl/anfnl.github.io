@@ -105,21 +105,18 @@ author_profile: true
 </div>
 
 <div class="rdc-media-item">
+<p class="rdc-media-label"><span class="rdc-tag tag-tv">TV</span> &nbsp;<strong>Un cœur qui écoute · KTO · 29 mai 2026</strong></p>
+<div class="rdc-video-wrap">
+<iframe src="https://www.youtube.com/embed/UuN1iGZnw2w?si=RRYuZ2XVt5ZpPzCB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="rdc-media-item">
 <p class="rdc-media-label"><span class="rdc-tag tag-radio">Radio</span> &nbsp;<strong><a href="https://www.europe1.fr/emissions/et-si-on-en-parlait/et-si-on-en-parlait-ladoption-929264" target="_blank" style="color:#1a1a1a;">Et si on en parlait · Europe 1 · 28 avril 2026</a></strong></p>
 </div>
 
 <hr class="rdc-divider">
 <p class="rdc-section-title">Presse</p>
-
-<div class="rdc-item">
-<div class="rdc-tag-col"><span class="rdc-tag tag-tv">TV</span></div>
-<div class="rdc-item-body"><p class="rdc-item-source"><a href="https://youtu.be/UuN1iGZnw2w?si=SejQQbPmNDIBQwNA" target="_blank">Un cœur qui écoute · KTO · 29 mai 2026</a></p></div>
-</div>
-
-<div class="rdc-item">
-<div class="rdc-tag-col"><span class="rdc-tag tag-tv">Vidéo</span></div>
-<div class="rdc-item-body"><p class="rdc-item-source"><a href="https://www.magicmaman.com/ne-sous-x-anthony-mere-biologique,3782267.asp" target="_blank">Magicmaman · Parcours · Avril 2026</a></p></div>
-</div>
 
 <div class="rdc-item">
 <div class="rdc-tag-col"><span class="rdc-tag tag-presse">Presse</span></div>
@@ -134,6 +131,11 @@ author_profile: true
 <div class="rdc-item">
 <div class="rdc-tag-col"><span class="rdc-tag tag-presse">Presse</span></div>
 <div class="rdc-item-body"><p class="rdc-item-source"><a href="https://www.temoignagechretien.fr/les-livres-du-printemps-5/" target="_blank">Témoignage chrétien · avril 2026</a></p></div>
+</div>
+
+<div class="rdc-item">
+<div class="rdc-tag-col"><span class="rdc-tag tag-tv">Vidéo</span></div>
+<div class="rdc-item-body"><p class="rdc-item-source"><a href="https://www.magicmaman.com/ne-sous-x-anthony-mere-biologique,3782267.asp" target="_blank">Magicmaman · Parcours · Avril 2026</a></p></div>
 </div>
 
 <div class="rdc-item">
