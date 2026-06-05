@@ -106,15 +106,6 @@ author_profile: true
 <iframe allowfullscreen="true" allow="encrypted-media" scrolling="no" frameborder="0" src="https://auvio.rtbf.be/embed/generic/content/media/3460192"></iframe>
 </div>
 </div>
-Quelques notes :
-
-J'ai mis autoplay=false sur Arte pour éviter que ça parte tout seul à l'ouverture de la page
-Les vidéos sont en ratio 16:9 responsive via .rdc-video-wrap
-Le podcast France Culture garde sa hauteur native (144px) — c'est un player audio, pas une vidéo
-L'ordre : Arte en premier (le plus impactant), puis France Culture, Les Maternelles, RTBF
-
-Tu veux que je t'envoie le fichier complet mis à jour ?
-
 
 <p class="rdc-section-title">Presse &amp; Médias</p>
 
