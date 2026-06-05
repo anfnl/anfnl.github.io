@@ -29,7 +29,15 @@ author_profile: true
 .rdc-divider { border: none; border-top: 1px solid #ccc; margin: 2.2rem 0 2rem 0; }
 .rdc-section-title { font-family: 'Playfair Display', serif; font-size: 0.78rem; letter-spacing: 0.18em; text-transform: uppercase; color: #888; margin: 0 0 1.8rem 0; font-weight: 400; }
 
-/* Items flux */
+/* Médias embarqués */
+.rdc-media-item { margin-bottom: 2.4rem; }
+.rdc-media-label { font-size: 0.78rem; letter-spacing: 0.12em; text-transform: uppercase; color: #888; margin: 0 0 0.6rem 0; font-family: 'Source Serif 4', serif; }
+.rdc-media-label strong { color: #1a1a1a; font-weight: 400; }
+.rdc-video-wrap { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; }
+.rdc-video-wrap iframe { position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none; }
+.rdc-audio-wrap iframe { width: 100%; display: block; }
+
+/* Items liste */
 .rdc-item { display: flex; gap: 1.2rem; margin-bottom: 1.6rem; align-items: center; }
 .rdc-tag-col { flex: 0 0 115px; text-align: right; }
 .rdc-tag { display: inline-block; font-size: 0.68rem; letter-spacing: 0.1em; text-transform: uppercase; padding: 0.18rem 0.5rem; border-radius: 2px; font-family: 'Source Serif 4', serif; }
@@ -66,23 +74,12 @@ author_profile: true
 </div>
 
 <hr class="rdc-divider">
-
-<hr class="rdc-divider">
 <p class="rdc-section-title">À voir &amp; écouter</p>
-
-<style>
-.rdc-media-item { margin-bottom: 2.4rem; }
-.rdc-media-label { font-size: 0.78rem; letter-spacing: 0.12em; text-transform: uppercase; color: #888; margin: 0 0 0.6rem 0; font-family: 'Source Serif 4', serif; }
-.rdc-media-label strong { color: #1a1a1a; font-weight: 400; }
-.rdc-video-wrap { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; }
-.rdc-video-wrap iframe { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
-.rdc-audio-wrap iframe { width: 100%; display: block; }
-</style>
 
 <div class="rdc-media-item">
 <p class="rdc-media-label"><span class="rdc-tag tag-tv">TV</span> &nbsp;<strong>28 minutes · Arte · 27 avril 2026</strong></p>
 <div class="rdc-video-wrap">
-<iframe title="Né sous X, il part à la recherche de sa mère biologique… et la retrouve !" allowfullscreen="true" style="border:none;" src="https://www.arte.tv/embeds/fr/132922-001-A?autoplay=false&mute=0"></iframe>
+<iframe title="Né sous X, il part à la recherche de sa mère biologique… et la retrouve !" allowfullscreen="true" src="https://www.arte.tv/embeds/fr/132922-001-A?autoplay=false&mute=0"></iframe>
 </div>
 </div>
 
@@ -107,21 +104,21 @@ author_profile: true
 </div>
 </div>
 
-<p class="rdc-section-title">Presse &amp; Médias</p>
-
-<div class="rdc-item">
-<div class="rdc-tag-col"><span class="rdc-tag tag-radio">Radio</span></div>
-<div class="rdc-item-body"><p class="rdc-item-source"><a href="https://www.radiofrance.fr/franceculture/podcasts/le-book-club/ne-sous-x-ecrire-la-quete-de-soi-avec-anthony-feneuil-7839770" target="_blank">Le Book Club · France Culture · 27 mai 2026</a></p></div>
+<div class="rdc-media-item">
+<p class="rdc-media-label"><span class="rdc-tag tag-radio">Radio</span> &nbsp;<strong><a href="https://www.europe1.fr/emissions/et-si-on-en-parlait/et-si-on-en-parlait-ladoption-929264" target="_blank" style="color:#1a1a1a;">Et si on en parlait · Europe 1 · 28 avril 2026</a></strong></p>
 </div>
 
-<div class="rdc-item">
-<div class="rdc-tag-col"><span class="rdc-tag tag-tv">TV</span></div>
-<div class="rdc-item-body"><p class="rdc-item-source"><a href="https://www.arte.tv/fr/videos/132922-001-A/ne-sous-x-il-part-a-la-recherche-de-sa-mere-biologique-et-la-retrouve/" target="_blank">28 minutes · Arte · 27 Avril 2026</a></p></div>
-</div>
+<hr class="rdc-divider">
+<p class="rdc-section-title">Presse</p>
 
 <div class="rdc-item">
 <div class="rdc-tag-col"><span class="rdc-tag tag-tv">TV</span></div>
 <div class="rdc-item-body"><p class="rdc-item-source"><a href="https://youtu.be/UuN1iGZnw2w?si=SejQQbPmNDIBQwNA" target="_blank">Un cœur qui écoute · KTO · 29 mai 2026</a></p></div>
+</div>
+
+<div class="rdc-item">
+<div class="rdc-tag-col"><span class="rdc-tag tag-tv">Vidéo</span></div>
+<div class="rdc-item-body"><p class="rdc-item-source"><a href="https://www.magicmaman.com/ne-sous-x-anthony-mere-biologique,3782267.asp" target="_blank">Magicmaman · Parcours · Avril 2026</a></p></div>
 </div>
 
 <div class="rdc-item">
@@ -135,28 +132,8 @@ author_profile: true
 </div>
 
 <div class="rdc-item">
-<div class="rdc-tag-col"><span class="rdc-tag tag-radio">Radio</span></div>
-<div class="rdc-item-body"><p class="rdc-item-source"><a href="https://auvio.rtbf.be/media/week-end-premiere-l-invite-de-charlotte-dekoker-3460192" target="_blank">Weekend Première · RTBF · 12 Avril 2026</a></p></div>
-</div>
-
-<div class="rdc-item">
-<div class="rdc-tag-col"><span class="rdc-tag tag-tv">TV</span></div>
-<div class="rdc-item-body"><p class="rdc-item-source"><a href="https://youtu.be/ebDLgzfrg7c?si=w8WdJxdsUaN7AZtm" target="_blank">Les Maternelles · France Télévision · 18 mars 2026</a></p></div>
-</div>
-
-<div class="rdc-item">
-<div class="rdc-tag-col"><span class="rdc-tag tag-tv">Vidéo</span></div>
-<div class="rdc-item-body"><p class="rdc-item-source"><a href="https://www.magicmaman.com/ne-sous-x-anthony-mere-biologique,3782267.asp" target="_blank">Magicmaman · Parcours · Avril 2026</a></p></div>
-</div>
-
-<div class="rdc-item">
 <div class="rdc-tag-col"><span class="rdc-tag tag-presse">Presse</span></div>
 <div class="rdc-item-body"><p class="rdc-item-source"><a href="https://www.temoignagechretien.fr/les-livres-du-printemps-5/" target="_blank">Témoignage chrétien · avril 2026</a></p></div>
-</div>
-
-<div class="rdc-item">
-<div class="rdc-tag-col"><span class="rdc-tag tag-radio">Radio</span></div>
-<div class="rdc-item-body"><p class="rdc-item-source"><a href="https://www.europe1.fr/emissions/et-si-on-en-parlait/et-si-on-en-parlait-ladoption-929264" target="_blank">Et si on en parlait · Europe 1 · 28 Avril 2026</a></p></div>
 </div>
 
 <div class="rdc-item">
