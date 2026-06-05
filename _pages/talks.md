@@ -32,6 +32,12 @@ author_profile: true
 
 <p class="talk-section-title">Conference Presentations & Invited Talks</p>
 
+<div class="talk-entry"><div class="talk-year">2026</div><div class="talk-body">« Le temps de la résurrection »<span class="talk-note">Conference "La résurrection : espérer en judaïsme, christanisme et islam", Université de Lorraine, May 26</span></div></div>
+
+<div class="talk-entry"><div class="talk-year">2026</div><div class="talk-body">« Religious Minorities and Political Communities »<span class="talk-note">Common Ground or Walled Gardens ? MIRCOM International Conference 2026, Cambridge University, May 20</span></div></div>
+
+<div class="talk-entry"><div class="talk-year">2026</div><div class="talk-body">« Two Kinds of Apophaticism »<span class="talk-note">Helsinky Analytic Theology Workshop, Helsinky University, February 12</span></div></div>
+
 <div class="talk-entry"><div class="talk-year">2026</div><div class="talk-body"><a href="https://mrsh.hypotheses.org/12162">« Intuition, émotion et intelligence chez Bergson »</a><span class="talk-note">Seminar "De l'affect au concept", Université de Caen, 14 January</span></div></div>
 
 <div class="talk-entry"><div class="talk-year">2025</div><div class="talk-body">« Credo, mais pas trop »<span class="talk-note">Workshop "Credo: sens et portée des confessions de foi", University of Lorraine & Diocese of Metz, 15 November</span></div></div>
