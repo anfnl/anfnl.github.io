@@ -141,7 +141,7 @@ header: false
 
 <div class="pub-entry"><div class="pub-year">2026</div><div class="pub-body"><a href="https://www.editionsepisteme.org/produit/60/9782889157099/experience-et-verite-s">« Démocratie et (post-)vérité : le dilemme de Hans Kelsen »</a>. In <em>Expérience et vérité</em>, dir. Salzman, F. et Waterlot, G. Lausanne: Épistémè, 229-243<span class="pub-translation">Democracy and (Post-)Truth: Hans Kelsen's Dilemma</span></div></div>
 
-<div class="pub-entry"><div class="pub-year">2026</div><div class="pub-body"><a href="https://pur-editions.fr/product/10616/athenes-et-jerusalem-face-a-la-naissance-de-la-philosophie">« Philosophie, croyance, démocratie »</a>. In <em>Athènes et Jérusalem face à la naissance de la philosophie</em>, dir. Grosos, P., Riquier, C. et Roux, S. Rennes: PUR, 95-115<span class="pub-translation">Philosophy, Belief, Democracy</span></div></div>
+<div class="pub-entry"><div class="pub-year">2026</div><div class="pub-body"><a href="https://doi.org/10.4000/16fe0">« Philosophie, croyance, démocratie »</a>. In <em>Athènes et Jérusalem face à la naissance de la philosophie</em>, dir. Grosos, P., Riquier, C. et Roux, S. Rennes: PUR, 95-115<span class="pub-translation">Philosophy, Belief, Democracy</span></div></div>
 
 <div class="pub-entry"><div class="pub-year">2026</div><div class="pub-body">« Reverberations. Albert Piette's Anthropology of Separation ». Préface à Albert Piette, <em>Humans, Temporary Absolutes</em>. Milan: Mimesis International, 7–13</div></div>
 
