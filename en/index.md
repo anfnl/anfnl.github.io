@@ -6,13 +6,20 @@ description: "Academic website of Anthony Feneuil, Associate Professor in theolo
 author_profile: true
 lang: en
 ---
-
 <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;1,400&family=Source+Serif+4:ital,wght@0,300;0,400;1,300&display=swap" rel="stylesheet">
 <style>
 .home-body { font-size: 0.97rem; line-height: 1.8; font-weight: 300; color: #1a1a1a; font-family: 'Source Serif 4', Georgia, serif; }
 .home-body p { margin-bottom: 1.2rem; }
 .home-body a { color: #1a1a1a; text-decoration: none; border-bottom: 1px solid #ccc; transition: border-color 0.15s; }
 .home-body a:hover { border-color: #1a1a1a; }
+.next-events { font-family: 'Source Serif 4', Georgia, serif; margin-top: 2.4rem; }
+.next-events h2 { font-family: 'Playfair Display', Georgia, serif; font-weight: 600; font-size: 1.05rem; letter-spacing: 0.02em; margin-bottom: 1rem; color: #1a1a1a; }
+.next-events ul { list-style: none; margin: 0; padding: 0; }
+.next-events li { padding: 0.7rem 0; border-bottom: 1px solid #eee; font-size: 0.92rem; line-height: 1.6; }
+.next-events li:last-child { border-bottom: none; }
+.next-events .event-date { display: inline-block; min-width: 110px; color: #999; font-size: 0.78rem; letter-spacing: 0.04em; vertical-align: top; }
+.next-events .event-desc a { color: #1a1a1a; text-decoration: none; border-bottom: 1px solid #ccc; }
+.next-events .event-desc a:hover { border-color: #1a1a1a; }
 </style>
 <div style="font-family: 'Source Serif 4', Georgia, serif; color: #1a1a1a; max-width: 680px;">
 <div style="display: flex; align-items: center; margin-bottom: 2rem; padding-bottom: 1.4rem; border-bottom: 1px solid #ddd;">
@@ -30,4 +37,13 @@ lang: en
   <a href="https://ecritures.univ-lorraine.fr/"><img src="/images/logoEcritransp.png" alt="Écritures, Université de Lorraine" style="height: 72px;"></a>
   <a href="https://www.iufrance.fr/les-membres-de-liuf/membre/2850-anthony-feneuil.html"><img src="/images/LogoIUF.png" alt="Institut Universitaire de France" style="height: 72px;"></a>
 </div>
+
+<div class="next-events">
+  <h2>Next Events</h2>
+  <ul>
+    <li><span class="event-date">Sept. 2026</span><span class="event-desc">Colloquium <a href="#">"Laïcité et droit local"</a>, Metz</span></li>
+    <li><span class="event-date">Sept. 2026</span><span class="event-desc">SFPR Congress, <em>"Religions, spiritualités et écologie"</em>, Metz</span></li>
+  </ul>
+</div>
+
 </div>
