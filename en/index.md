@@ -20,6 +20,7 @@ lang: en
 .next-events .event-date { display: inline-block; min-width: 110px; color: #999; font-size: 0.78rem; letter-spacing: 0.04em; vertical-align: top; }
 .next-events .event-desc a { color: #1a1a1a; text-decoration: none; border-bottom: 1px solid #ccc; }
 .next-events .event-desc a:hover { border-color: #1a1a1a; }
+.event-location { display: block; font-size: 0.78rem; color: #999; margin-top: 0.15rem; }
 </style>
 <div style="font-family: 'Source Serif 4', Georgia, serif; color: #1a1a1a; max-width: 680px;">
 <div style="display: flex; align-items: center; margin-bottom: 2rem; padding-bottom: 1.4rem; border-bottom: 1px solid #ddd;">
@@ -37,5 +38,7 @@ lang: en
   <a href="https://ecritures.univ-lorraine.fr/"><img src="/images/logoEcritransp.png" alt="Écritures, Université de Lorraine" style="height: 72px;"></a>
   <a href="https://www.iufrance.fr/les-membres-de-liuf/membre/2850-anthony-feneuil.html"><img src="/images/LogoIUF.png" alt="Institut Universitaire de France" style="height: 72px;"></a>
 </div>
+
+{% include next-events.html %}
 
 </div>
