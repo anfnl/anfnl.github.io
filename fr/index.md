@@ -12,7 +12,7 @@ lang: fr
 .home-body p { margin-bottom: 1.2rem; }
 .home-body a { color: #1a1a1a; text-decoration: none; border-bottom: 1px solid #ccc; transition: border-color 0.15s; }
 .home-body a:hover { border-color: #1a1a1a; }
-.next-events { font-family: 'Source Serif 4', Georgia, serif; margin-top: 3.6rem; }
+.next-events { font-family: 'Source Serif 4', Georgia, serif; margin-top: 2.4rem; }
 .next-events h2 { font-family: 'Playfair Display', Georgia, serif; font-weight: 600; font-size: 1.05rem; letter-spacing: 0.02em; margin-bottom: 1rem; color: #1a1a1a; }
 .next-events ul { list-style: none; margin: 0; padding: 0; }
 .next-events li { display: flex; align-items: center; gap: 1.2rem; padding: 0.9rem 0; border-bottom: 1px solid #eee; font-size: 0.92rem; line-height: 1.6; }
@@ -35,11 +35,12 @@ lang: fr
 <p>Je travaille actuellement dans le cadre d'une <a href="https://www.iufrance.fr/les-membres-de-liuf/membre/2850-anthony-feneuil.html">chaire de l'IUF</a> sur les enjeux politiques des sciences sociales de la croyance.</p>
 <p>Pour plus de détails, voir mon <a href="/cv/">CV</a> et mes <a href="/publications/">publications</a>.</p>
 </div>
+
+{% include next-events.html %}
+
 <div style="display: flex; justify-content: space-between; align-items: flex-end; margin-top: 3rem; padding-top: 1.8rem; border-top: 1px solid #ddd;">
   <a href="https://ecritures.univ-lorraine.fr/"><img src="/images/logoEcritransp.png" alt="Écritures, Université de Lorraine" style="height: 72px;"></a>
   <a href="https://www.iufrance.fr/les-membres-de-liuf/membre/2850-anthony-feneuil.html"><img src="/images/LogoIUF.png" alt="Institut Universitaire de France" style="height: 72px;"></a>
 </div>
-
-{% include next-events.html %}
 
 </div>
