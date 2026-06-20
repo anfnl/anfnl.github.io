@@ -15,12 +15,13 @@ lang: fr
 .next-events { font-family: 'Source Serif 4', Georgia, serif; margin-top: 2.4rem; }
 .next-events h2 { font-family: 'Playfair Display', Georgia, serif; font-weight: 600; font-size: 1.05rem; letter-spacing: 0.02em; margin-bottom: 1rem; color: #1a1a1a; }
 .next-events ul { list-style: none; margin: 0; padding: 0; }
-.next-events li { padding: 0.7rem 0; border-bottom: 1px solid #eee; font-size: 0.92rem; line-height: 1.6; }
+.next-events li { display: flex; align-items: center; gap: 1.2rem; padding: 0.9rem 0; border-bottom: 1px solid #eee; font-size: 0.92rem; line-height: 1.6; }
 .next-events li:last-child { border-bottom: none; }
-.next-events .event-date { display: inline-block; min-width: 110px; color: #999; font-size: 0.78rem; letter-spacing: 0.04em; vertical-align: top; }
+.next-events .event-date { flex: 0 0 100px; flex-shrink: 0; color: #999; font-size: 0.78rem; letter-spacing: 0.04em; }
+.next-events .event-desc { flex: 1; min-width: 0; }
 .next-events .event-desc a { color: #1a1a1a; text-decoration: none; border-bottom: 1px solid #ccc; }
 .next-events .event-desc a:hover { border-color: #1a1a1a; }
-.event-location { display: block; font-size: 0.78rem; color: #999; margin-top: 0.15rem; }
+.event-location { display: block; font-size: 0.78rem; color: #999; margin-top: 0.3rem; }
 </style>
 <div style="font-family: 'Source Serif 4', Georgia, serif; color: #1a1a1a; max-width: 680px;">
 <div style="display: flex; align-items: center; margin-bottom: 2rem; padding-bottom: 1.4rem; border-bottom: 1px solid #ddd;">
