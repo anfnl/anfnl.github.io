@@ -38,12 +38,4 @@ lang: en
   <a href="https://www.iufrance.fr/les-membres-de-liuf/membre/2850-anthony-feneuil.html"><img src="/images/LogoIUF.png" alt="Institut Universitaire de France" style="height: 72px;"></a>
 </div>
 
-<div class="next-events">
-  <h2>Next Events</h2>
-  <ul>
-    <li><span class="event-date">Sept. 2026</span><span class="event-desc">Colloquium <a href="#">"Laïcité et droit local"</a>, Metz</span></li>
-    <li><span class="event-date">Sept. 2026</span><span class="event-desc">SFPR Congress, <em>"Religions, spiritualités et écologie"</em>, Metz</span></li>
-  </ul>
-</div>
-
 </div>
