@@ -120,6 +120,11 @@ author_profile: true
 
 <div class="rdc-item">
 <div class="rdc-tag-col"><span class="rdc-tag tag-presse">Presse</span></div>
+<div class="rdc-item-body"><p class="rdc-item-source"><a href="https://www.revue-etudes.com/critiques-de-livres/rien-de-cache-de-anthony-feneuil/28845" target="_blank">Études · N° 4339 · Juillet 2026</a></p></div>
+</div>
+
+<div class="rdc-item">
+<div class="rdc-tag-col"><span class="rdc-tag tag-presse">Presse</span></div>
 <div class="rdc-item-body"><p class="rdc-item-source"><a href="" target="_blank">Elle · N° 4196 · 21 mai 2026</a></p></div>
 </div>
 
