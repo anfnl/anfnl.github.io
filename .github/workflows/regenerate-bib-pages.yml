@@ -29,11 +29,13 @@ jobs:
           cp output/publications.html _pages/publications.md
           cp output/talks.html _pages/talks.md
           cp output/media.html _pages/media.md
+          mkdir -p _includes
+          cp output/recent-pubs.html _includes/recent-pubs.html
 
       - name: Committer les pages si elles ont changé
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add _pages/publications.md _pages/talks.md _pages/media.md
+          git add _pages/publications.md _pages/talks.md _pages/media.md _includes/recent-pubs.html
           git diff --cached --quiet || git commit -m "Régénération auto des pages publications/talks/media depuis own-bib.bib"
           git push
