@@ -96,6 +96,6 @@ author_profile: true
 
 <div class="med-entry"><div class="med-year">2013</div><div class="med-body">« Et si c’était l’incroyance qui parle le mieux du christianisme ? »<span class="med-note">Interview donnée pour <em>Le Courrier</em> (Genève) le 29 juin 2013</span></div></div>
 
-<div class="med-entry"><div class="med-year">2012</div><div class="med-body">« Participations au mensuel La Vie Protestante (2013-2014) »<span class="med-note">‘L’érotisme est la figure de la foi qui déplace les montagnes’ (février 2013) ‘On ne peut pas évacuer les spiritualités. Interview avec Luc Ferry’ (mars 2014) Éditorial : ‘Le christianisme, une richesse pour les incroyants ...et même pour les croyants !’ (mars 2014) ‘Charles Péguy : l’éternité de Dieu pour le présent’ (juillet 2014) ‘Être enfant : un défi chrétien’ (septembre 2014) ‘Protestantisme nord-américain : quelques grandes figures féminines’ (octobre 2014) Chronique d'éthique et de politique chaque mois de septembre 2013 à août 2014.</span></div></div>
+<div class="med-entry"><div class="med-year">2012</div><div class="med-body">« La Vie Protestante »<span class="med-note">Nombreux articles et chroniques de 2012 à 2014</span></div></div>
 
 </div>
