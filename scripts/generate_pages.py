@@ -408,11 +408,8 @@ def main():
     for e in recent:
         f = e["fields"]
         year = extract_year(f.get("year"))
-        title_fr = title_html(f)
-        title_en = latex_to_html(f.get("engtransl", "")) or title_fr
         url = link_for(f)
-        label = ('{% if page.lang == "fr" %}' + title_fr
-                 + '{% else %}' + title_en + '{% endif %}')
+        label = title_html(f)  # titre original uniquement, pas de traduction
         if url:
             label = f'<a href="{html.escape(url, quote=True)}">{label}</a>'
         hh = h(e)
