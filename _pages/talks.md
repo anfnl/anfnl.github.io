@@ -32,158 +32,166 @@ author_profile: true
 
 <div class="talk-wrap">
 
-<p class="talk-section-title">Conference Presentations & Invited Talks</p>
+<p class="talk-section-title">Conference Presentations &amp; Invited Talks</p>
 
-<div class="talk-entry"><div class="talk-year">2026</div><div class="talk-body">« Le temps de la résurrection »<span class="talk-note">Conference "La résurrection : espérer en judaïsme, christianisme et islam", Université de Lorraine, May 26</span></div></div>
+<div class="talk-entry"><div class="talk-year">2026</div><div class="talk-body">« Faith as Credence: What Could It Mean? »<span class="talk-note">Panel "Crossing the Gap Between Faith and Faithlessness: Philosophical Models of Belief and Their Anthropological plausibility", European Academy of Religion 2026, Rome, June 30</span></div></div>
 
-<div class="talk-entry"><div class="talk-year">2026</div><div class="talk-body">« Religious Minorities and Political Communities »<span class="talk-note">"Common Ground or Walled Gardens?" MIRCOM International Conference 2026, Cambridge University, May 20</span></div></div>
+<div class="talk-entry"><div class="talk-year">2026</div><div class="talk-body">« Le temps de la résurrection »<span class="talk-note">Conference "La résurrection : espérer en judaïsme, christianisme et islam", Université de Lorraine, May 26</span></div></div>
 
-<div class="talk-entry"><div class="talk-year">2026</div><div class="talk-body">« Two Kinds of Apophaticism »<span class="talk-note">Helsinki Analytic Theology Workshop, Helsinki University, February 12</span></div></div>
+<div class="talk-entry"><div class="talk-year">2026</div><div class="talk-body">« Religious Minorities and Political Communities » — round table<span class="talk-note">Common Ground or Walled Gardens ? MIRCOM International Conference 2026, Cambridge University, May 20</span></div></div>
 
-<div class="talk-entry"><div class="talk-year">2026</div><div class="talk-body"><a href="https://mrsh.hypotheses.org/12162">« Intuition, émotion et intelligence chez Bergson »</a><span class="talk-note">Seminar "De l'affect au concept", Université de Caen, January 14</span></div></div>
+<div class="talk-entry"><div class="talk-year">2026</div><div class="talk-body">« Two Kinds of Apophaticism »<span class="talk-note">Helsinki Analytic Theology Workshop, Helsinki University, February 12</span></div></div>
 
-<div class="talk-entry"><div class="talk-year">2025</div><div class="talk-body">« Credo, mais pas trop »<span class="talk-note">Workshop "Credo : sens et portée des confessions de foi", University of Lorraine & Diocese of Metz, November 15</span></div></div>
+<div class="talk-entry"><div class="talk-year">2026</div><div class="talk-body"><a href="https://mrsh.hypotheses.org/12162">« Intuition, émotion et intelligence chez Bergson »</a><span class="talk-note">Seminar "De l'affect au concept", Université de Caen, January 14</span></div></div>
 
-<div class="talk-entry"><div class="talk-year">2025</div><div class="talk-body">« La tradition moderniste »<span class="talk-note">Symposium "Le modernisme après la crise", University of Lorraine, June 5–6</span></div></div>
+<div class="talk-entry"><div class="talk-year">2025</div><div class="talk-body">« Credo, mais pas trop »<span class="talk-note">Workshop "Credo: sens et portée des confessions de foi", University of Lorraine and Diocese of Metz, November 15</span></div></div>
 
-<div class="talk-entry"><div class="talk-year">2025</div><div class="talk-body">« Les incertitudes de la tradition »<span class="talk-note">Symposium "Herméneutique et tradition", Université catholique de Lille, April 24</span></div></div>
+<div class="talk-entry"><div class="talk-year">2025</div><div class="talk-body">« La tradition moderniste »<span class="talk-note">Symposium "Le modernisme après la crise", University of Lorraine, June 5-6</span></div></div>
 
-<div class="talk-entry"><div class="talk-year">2024</div><div class="talk-body">« La possibilité du pluralisme religieux »<span class="talk-note">Seminar "Pluralité, pluralisme, syncrétisme, dilettantisme", University of Strasbourg, October 10</span></div></div>
+<div class="talk-entry"><div class="talk-year">2025</div><div class="talk-body">« Les incertitudes de la tradition »<span class="talk-note">Symposium "Herméneutique et tradition", Université catholique de Lille, April 24</span></div></div>
 
-<div class="talk-entry"><div class="talk-year">2024</div><div class="talk-body">« Le problème de l'universalité de la croyance »<span class="talk-note">Congress of the French Society for the Philosophy of Religion, University Cheikh Anta Diop, Dakar, September 5–8</span></div></div>
+<div class="talk-entry"><div class="talk-year">2024</div><div class="talk-body">« La possibilité du pluralisme religieux »<span class="talk-note">Seminar 'Pluralité, pluralisme, syncrétisme, dilettantisme : de la non exclusivité religieuse', University of Strasbourg, October 10</span></div></div>
 
-<div class="talk-entry"><div class="talk-year">2024</div><div class="talk-body">« La théologie et les autres disciplines » — round table<span class="talk-note">Symposium "L'alliance des savoirs", Catholic Institute of Toulouse, May 21–22</span></div></div>
+<div class="talk-entry"><div class="talk-year">2024</div><div class="talk-body">« Le problème de l'universalité de la croyance »<span class="talk-note">University Cheikh Anta Diop, Dakar, Senegal, Congress of the French Society for the Philosophy of Religion, September 5-8</span></div></div>
 
-<div class="talk-entry"><div class="talk-year">2024</div><div class="talk-body">« Faith »<span class="talk-note">Workshop "Truth and its Aspects", University of Lorraine, March 6–7</span></div></div>
+<div class="talk-entry"><div class="talk-year">2024</div><div class="talk-body">« La théologie et les autres disciplines »<span class="talk-note">Symposium ‘L'alliance des savoirs’, Catholic Institute of Toulouse, May 21-22, participation to a round table</span></div></div>
 
-<div class="talk-entry"><div class="talk-year">2023</div><div class="talk-body">« Philosophie, croyance et démocratie »<span class="talk-note">Symposium "Athènes et Jérusalem devant la naissance de la philosophie", Catholic Institute of Paris, December 7–8</span></div></div>
+<div class="talk-entry"><div class="talk-year">2024</div><div class="talk-body">« Faith in the Unknown Truth »<span class="talk-note">Workshop ‘Truth and its Aspects’, University of Lorraine, March 6-7</span></div></div>
 
-<div class="talk-entry"><div class="talk-year">2023</div><div class="talk-body">« (Post-)vérité et démocratie »<span class="talk-note">Symposium "Expérience et vérité", University of Geneva, September 4–6</span></div></div>
+<div class="talk-entry"><div class="talk-year">2023</div><div class="talk-body">« Philosophie, croyance et démocratie »<span class="talk-note">Symposium ‘Athènes et Jérusalem devant la naissance de la philosophie’, Catholic Institute of Paris, December 7-8</span></div></div>
 
-<div class="talk-entry"><div class="talk-year">2023</div><div class="talk-body">« Personhood and Guilt-Transfer: a (Too) Strong Lockean Model »<span class="talk-note">HEAT – Helsinki Analytic Theology Workshop, University of Helsinki, February 15–17</span></div></div>
+<div class="talk-entry"><div class="talk-year">2023</div><div class="talk-body">« (Post-)Vérité et démocratie »<span class="talk-note">Symposium ‘Expérience et vérité’, University of Geneva, September 4-6</span></div></div>
 
-<div class="talk-entry"><div class="talk-year">2023</div><div class="talk-body">« Peut-on faire une histoire chrétienne ? L'histoire péguiste, la guerre et la vérité »<span class="talk-note">Symposium "Péguy and the Dialogues of History", Paris IV, February 10–11</span></div></div>
+<div class="talk-entry"><div class="talk-year">2023</div><div class="talk-body">« Personhood and Guilt-Transfer : a (Too) Strong Lockean Model »<span class="talk-note">HEAT - Helsinki Analytic Theology Workshop, University of Helsinki, February 15-17</span></div></div>
 
-<div class="talk-entry"><div class="talk-year">2022</div><div class="talk-body">« Le cinéma, spectacle de la vie éternelle ? »<span class="talk-note">Congress of the French Society for the Philosophy of Religion, University of Geneva, September 1–3</span></div></div>
+<div class="talk-entry"><div class="talk-year">2023</div><div class="talk-body">« Peut-on faire une histoire chrétienne ? L’histoire péguiste, la guerre et la vérité »<span class="talk-note">Symposium ‘Péguy and the Dialogues of History’, Paris IV, February 10-11</span></div></div>
 
-<div class="talk-entry"><div class="talk-year">2022</div><div class="talk-body">« Vladimir Lossky as a French Personalist »<span class="talk-note">European Academy of Religion, Bologna, June 23</span></div></div>
+<div class="talk-entry"><div class="talk-year">2022</div><div class="talk-body">« Le cinéma, spectacle de la vie éternelle ? »<span class="talk-note">University of Geneva, Congress of the French Society for the Philosophy of Religion, September 1-3</span></div></div>
 
-<div class="talk-entry"><div class="talk-year">2022</div><div class="talk-body">« Some Insights on the Current Religious Climate in Russia »<span class="talk-note">Doctoral Seminar in Systematic Theology, University of Helsinki, April 28</span></div></div>
+<div class="talk-entry"><div class="talk-year">2022</div><div class="talk-body">« Vladimir Lossky as a French Personalist »<span class="talk-note">Bologna, European Academy of Religion, Panel Russia and Europe in the late 19th – the first half of the 20th centuries: intellectual and religious dialogue through concepts, representations, and personalities, June 23</span></div></div>
 
-<div class="talk-entry"><div class="talk-year">2022</div><div class="talk-body">« How to Leave One's Duty: Limits of Bad Faith » [online]<span class="talk-note">Round Table on the Concept of Officium, PSTGU, Moscow, April 13</span></div></div>
+<div class="talk-entry"><div class="talk-year">2022</div><div class="talk-body">« Some Insights on the Current Religious Climate in Russia »<span class="talk-note">Doctoral Seminar in Systematic Theology, University of Helsinki, April 28</span></div></div>
 
-<div class="talk-entry"><div class="talk-year">2021</div><div class="talk-body">Presentation of <em>L'individu impossible</em><span class="talk-note">Seminar "States, Religions, Societies", CEFR (Moscow), October 25</span></div></div>
+<div class="talk-entry"><div class="talk-year">2022</div><div class="talk-body">« How to Leave One’s Duty: Limits of Bad Faith »<span class="talk-note">Round Table on the Concept of Officium, PSTGU, Moscow, April 13 [online]</span></div></div>
 
-<div class="talk-entry"><div class="talk-year">2021</div><div class="talk-body">« Le protestantisme et les ambiguïtés de l'ascétisme à l'époque d'André Gide »<span class="talk-note">Study Day "André Gide et l'idée d'ascétisme", University of Lorraine, June 24</span></div></div>
+<div class="talk-entry"><div class="talk-year">2021</div><div class="talk-body">« Présentation de <em>L’individu impossible</em> »<span class="talk-note">Seminar ‘States, Religions, Societies’ of the CEFR (Moscow), October 25</span></div></div>
 
-<div class="talk-entry"><div class="talk-year">2021</div><div class="talk-body">« Dieu doit-il nous préserver de la solidarité originelle ? »<span class="talk-note">Study Day "Le don de Dieu", Catholic University of Louvain, May 6 — <a href="https://youtu.be/PJ8p0unp-Zk?si=xrDVp2pZ-cNhl2qU" class="talk-video-link">▶ video</a></span></div></div>
+<div class="talk-entry"><div class="talk-year">2021</div><div class="talk-body">« Le protestantisme et les ambiguïtés de l’ascétisme à l’époque d’André Gide »<span class="talk-note">journée d'étude 'André Gide et l'idée d'ascétisme', University of Lorraine, June 24</span></div></div>
 
-<div class="talk-entry"><div class="talk-year">2019</div><div class="talk-body">« Radical Transformation or Self-Delusion? Ambiguities of the Eucharist as Counter-Politics »<span class="talk-note">Leuven Encounters in Systematic Theology, KU Leuven, October 23–26</span></div></div>
+<div class="talk-entry"><div class="talk-year">2021</div><div class="talk-body">« Dieu doit-il nous préserver de la solidarité originelle ? Questions à partir de Rm 5, 12 et de l’exégèse de Locke »<span class="talk-note">journée d'étude 'Le don de Dieu' of the Research Group Writing and Theology of the RSCS Institute, Catholic University of Louvain, May 6 — <a href="https://youtu.be/PJ8p0unp-Zk?si=xrDVp2pZ-cNhl2qU" class="talk-video-link">▶ video</a></span></div></div>
 
-<div class="talk-entry"><div class="talk-year">2019</div><div class="talk-body">« The Intensity Curve of Theistic Beliefs »<span class="talk-note">Symposium "Inquiries in Religious Epistemology", University of Lorraine, June 18–20</span></div></div>
+<div class="talk-entry"><div class="talk-year">2019</div><div class="talk-body">« Radical Transformation or Self-Delusion? Ambiguities of the Eucharist as Counter-Politics »<span class="talk-note">Leuven Encounters in Systematic Theology, KU Leuven, October 23-26</span></div></div>
 
-<div class="talk-entry"><div class="talk-year">2019</div><div class="talk-body">« Le rôle théologique des historiens de Jésus-Christ »<span class="talk-note">Study Day "Jésus, historique", University of Lorraine, June 14</span></div></div>
+<div class="talk-entry"><div class="talk-year">2019</div><div class="talk-body">« The Intensity Curve of Theistic Beliefs »<span class="talk-note">Symposium ‘Inquiries in Religious Epistemology’, Nancy, University of Lorraine, June 18-20</span></div></div>
 
-<div class="talk-entry"><div class="talk-year">2019</div><div class="talk-body">« Barth et la fin de la théologie »<span class="talk-note">Symposium "Karl Barth's The Epistle to the Romans 100 Years Later", University of Geneva, June 4–6</span></div></div>
+<div class="talk-entry"><div class="talk-year">2019</div><div class="talk-body">« Le rôle théologique des historiens de Jésus-Christ »<span class="talk-note">journée d'étude ‘Jésus, historique’, University of Lorraine, June 14</span></div></div>
 
-<div class="talk-entry"><div class="talk-year">2019</div><div class="talk-body">« Le plus certain en soi : doute et croyance religieuse »<span class="talk-note">Symposium "Croyances", ICP and EPHE, Paris, May 16–17</span></div></div>
+<div class="talk-entry"><div class="talk-year">2019</div><div class="talk-body">« Barth et la fin de la théologie »<span class="talk-note">Symposium ‘Karl Barth's The Epistle to the Romans 100 Years Later: retrospect and prospects’, University of Geneva, June 4-6</span></div></div>
 
-<div class="talk-entry"><div class="talk-year">2019</div><div class="talk-body">« Church Dogmatics Without a Church »<span class="talk-note">European Academy of Religion, Bologna, March 4 — <a href="https://youtu.be/1JE8Em9MyMw?si=qhhlQd52sQVJi_lD" class="talk-video-link">▶ video</a></span></div></div>
+<div class="talk-entry"><div class="talk-year">2019</div><div class="talk-body">« Le plus certain en soi : doute et croyance religieuse »<span class="talk-note">Symposium 'Croyances', ICP and EPHE, May 16-17</span></div></div>
 
-<div class="talk-entry"><div class="talk-year">2018</div><div class="talk-body">« "De l'impossible sinon j'étouffe" : sur un paradoxe de l'identité personnelle, à partir de Kierkegaard »<span class="talk-note">Symposium "Le paradoxe de la finitude", University of Lorraine and Paris 1, May 2–3</span></div></div>
+<div class="talk-entry"><div class="talk-year">2019</div><div class="talk-body">« Church Dogmatics without a Church? »<span class="talk-note">European Academy of Religion, Bologna, March 4 — <a href="https://youtu.be/1JE8Em9MyMw?si=qhhlQd52sQVJi_lD" class="talk-video-link">▶ video</a></span></div></div>
 
-<div class="talk-entry"><div class="talk-year">2018</div><div class="talk-body">« Usages du réalisme critique »<span class="talk-note">Study Day "Naturalism and Critical Realism", University of Lorraine, April 12</span></div></div>
+<div class="talk-entry"><div class="talk-year">2018</div><div class="talk-body">« ‘De l’impossible sinon j’étouffe ‘: sur un paradoxe de l’identité personnelle, à partir de Kierkegaard »<span class="talk-note">Symposium ‘Le paradoxe de la finitude’, University of Lorraine and Paris 1, May 2-3</span></div></div>
 
-<div class="talk-entry"><div class="talk-year">2018</div><div class="talk-body">« Le blasphème : puissance et dérision »<span class="talk-note">Study Day "Blasphème : le retour d'une question juridique oubliée", ICP, April 10</span></div></div>
+<div class="talk-entry"><div class="talk-year">2018</div><div class="talk-body">« Usages du réalisme critique »<span class="talk-note">journée d'étude 'Naturalism and Critical Realism', University of Lorraine, April 12</span></div></div>
 
-<div class="talk-entry"><div class="talk-year">2018</div><div class="talk-body">« "Comme s'il était plus facile et plus possible, devant Dieu, de se taire que de parler" »<span class="talk-note">Study Day "La voix et le silence dans les arts", University of Lorraine, March 9</span></div></div>
+<div class="talk-entry"><div class="talk-year">2018</div><div class="talk-body">« Le blasphème : puissance et dérision »<span class="talk-note">journée d'étude 'Blasphème : le retour d'une question juridique oubliée', ICP, Faculty of Canon Law, April 10</span></div></div>
 
-<div class="talk-entry"><div class="talk-year">2017</div><div class="talk-body">« Corpus aeternitatis »<span class="talk-note">Symposium "L'expérience de l'éternité", University of Liège, May 18–19</span></div></div>
+<div class="talk-entry"><div class="talk-year">2018</div><div class="talk-body">« ‘Comme s’il était plus facile et plus possible, devant Dieu (...) de se taire que de parler’ »<span class="talk-note">journée d'étude ‘La voix et le silence dans les arts’, University of Lorraine, March 9</span></div></div>
 
-<div class="talk-entry"><div class="talk-year">2017</div><div class="talk-body">« L'individu impossible : métaphysique, cinéma, théologie »<span class="talk-note">Seminar on Ontology MéThéor, University of Liège, March 3</span></div></div>
+<div class="talk-entry"><div class="talk-year">2017</div><div class="talk-body">« Séance de séminaire sur l’expérience religieuse »<span class="talk-note">ICP, Dubarle Chair (Vincent Holzer), December 14</span></div></div>
 
-<div class="talk-entry"><div class="talk-year">2017</div><div class="talk-body">« Possible, virtuel, réel : le nécessitarisme bergsonien »<span class="talk-note">Seminar on Ontology MéThéor, University of Liège, March 3</span></div></div>
+<div class="talk-entry"><div class="talk-year">2017</div><div class="talk-body">« Corpus aeternitatis »<span class="talk-note">Symposium ‘L'expérience de l'éternité’, University of Liège, May 18-19</span></div></div>
 
-<div class="talk-entry"><div class="talk-year">2017</div><div class="talk-body">« La revue ThéoRèmes : histoire, perspectives, défis »<span class="talk-note">Annual Symposium of the Swiss Academy of Humanities and Social Sciences, Bern, January 19</span></div></div>
+<div class="talk-entry"><div class="talk-year">2017</div><div class="talk-body">« L’individu impossible : métaphysique, cinéma, théologie »<span class="talk-note">Seminar on Ontology MéThéor (UR Traverses), University of Liège, March 3</span></div></div>
 
-<div class="talk-entry"><div class="talk-year">2016</div><div class="talk-body">« Les limites de la théologie »<span class="talk-note">Symposium "Sciences des religions, théologie et université", Université Laval, Quebec, December 13</span></div></div>
+<div class="talk-entry"><div class="talk-year">2017</div><div class="talk-body">« Possible, virtuel, réel : le nécessitarisme bergsonien »<span class="talk-note">Seminar on Ontology MéThéor (UR Traverses), University of Liège, March 3</span></div></div>
 
-<div class="talk-entry"><div class="talk-year">2016</div><div class="talk-body">« Le réalisme transcendantal »<span class="talk-note">Symposium "Le transcendantal en question", University of Lorraine, November 16–18</span></div></div>
+<div class="talk-entry"><div class="talk-year">2017</div><div class="talk-body">« La revue ThéoRèmes : histoire, perspectives, défis »<span class="talk-note">Annual Symposium of the Swiss Academy of Humanities and Social Sciences, Bern, January 19</span></div></div>
 
-<div class="talk-entry"><div class="talk-year">2016</div><div class="talk-body">« Ambiguïté de la paresse chez Henri Bergson »<span class="talk-note">Symposium "La paresse : vice ou vertu ?", Université Laval, Quebec, October 13–14</span></div></div>
+<div class="talk-entry"><div class="talk-year">2016</div><div class="talk-body">« Les limites de la théologie »<span class="talk-note">Symposium ‘Sciences des religions, théologie et université’, Université Laval, Quebec (CA), December 13</span></div></div>
 
-<div class="talk-entry"><div class="talk-year">2016</div><div class="talk-body">« La raison sans limite »<span class="talk-note">Symposium "Religion et Rationalité", University of Lorraine, September 1–3</span></div></div>
+<div class="talk-entry"><div class="talk-year">2016</div><div class="talk-body">« Le réalisme transcendantal »<span class="talk-note">Symposium 'Le transcendantal en question', University of Lorraine, November 16-18</span></div></div>
 
-<div class="talk-entry"><div class="talk-year">2016</div><div class="talk-body">« Les limites de la raison théologique »<span class="talk-note">GRRT Seminar, Catholic University of Louvain, May 19</span></div></div>
+<div class="talk-entry"><div class="talk-year">2016</div><div class="talk-body">« ‘Nous prisons par-dessus tout l'effort. Comment quelques-uns ont-ils pu s'y tromper ?’ Ambiguïté de la paresse chez Henri Bergson et Charles Péguy »<span class="talk-note">Symposium ‘La paresse : vice ou vertu ?’, Université Laval, Quebec (CA), October 13-14</span></div></div>
 
-<div class="talk-entry"><div class="talk-year">2016</div><div class="talk-body">« Comment Dieu nous préserve du péché originel (Locke) »<span class="talk-note">Symposium "Au bord de l'abîme, Dieu et le mal", ICP, Paris, May 10</span></div></div>
+<div class="talk-entry"><div class="talk-year">2016</div><div class="talk-body">« La raison sans limite »<span class="talk-note">Symposium 'Religion et Rationalité', University of Lorraine, September 1-3</span></div></div>
 
-<div class="talk-entry"><div class="talk-year">2016</div><div class="talk-body">« Mystique, dogme et critique »<span class="talk-note">International Symposium "L'université face à la mystique", University of Geneva, April 27–29</span></div></div>
+<div class="talk-entry"><div class="talk-year">2016</div><div class="talk-body">« Les limites de la raison théologique »<span class="talk-note">Lecture in the GRRT Seminar (Catholic University of Louvain), May 19</span></div></div>
 
-<div class="talk-entry"><div class="talk-year">2015</div><div class="talk-body">« Après l'apocalypse. Remarques sur l'eschatologie au passé »<span class="talk-note">Symposium "Game Over: Good or Bad News? Questioning Eschatology", University of Geneva, October 22–24</span></div></div>
+<div class="talk-entry"><div class="talk-year">2016</div><div class="talk-body">« Comment Dieu nous préserve du péché originel (Locke) »<span class="talk-note">Symposium ‘Au bord de l'abîme, Dieu et le mal’, Paris, ICP, May 10</span></div></div>
 
-<div class="talk-entry"><div class="talk-year">2015</div><div class="talk-body">« Le fait de l'expérience religieuse chez Karl Barth »<span class="talk-note">Workshop on Religious Experience, University of Lorraine, April 29</span></div></div>
+<div class="talk-entry"><div class="talk-year">2016</div><div class="talk-body">« Mystique, dogme et critique »<span class="talk-note">International Symposium ‘L'université face à la mystique : un siècle de controverses ?’, University of Geneva, April 27-29</span></div></div>
 
-<div class="talk-entry"><div class="talk-year">2015</div><div class="talk-body">« Deification »<span class="talk-note">International Symposium "Theosis/Deification", KU Leuven, January 29–31</span></div></div>
+<div class="talk-entry"><div class="talk-year">2015</div><div class="talk-body">« Le mal et l’ironie »<span class="talk-note">Round Table at the Catholic University of Louvain on the Awarding of the Prix Cardinal Mercier to P. Grosos, October 29</span></div></div>
 
-<div class="talk-entry"><div class="talk-year">2014</div><div class="talk-body">« Personne, personnage, individu : l'ambition du cinéma d'Éric Rohmer »<span class="talk-note">Symposium "L'identité personnelle : que suis-je ?", University of Geneva, December 5</span></div></div>
+<div class="talk-entry"><div class="talk-year">2015</div><div class="talk-body">« Après l’apocalypse. Remarques sur l’eschatologie au passé »<span class="talk-note">Symposium ‘Game Over: Good or Bad News? Questioning Eschatology’, University of Geneva, October 22-24</span></div></div>
 
-<div class="talk-entry"><div class="talk-year">2014</div><div class="talk-body">« Bergson and Mysticism: Towards a Great Outdoors? »<span class="talk-note">Symposium "Mystical Theology and Continental Philosophy", Liverpool Hope University, July 11–13</span></div></div>
+<div class="talk-entry"><div class="talk-year">2015</div><div class="talk-body">« Le fait de l'expérience religieuse chez K. Barth »<span class="talk-note">Workshop on Religious Experience, UL Metz, April 29</span></div></div>
 
-<div class="talk-entry"><div class="talk-year">2014</div><div class="talk-body">« L'intuition est-elle un "rudiment d'intelligence" ? »<span class="talk-note">Jean Piaget Archives Seminar, Geneva, March 18</span></div></div>
+<div class="talk-entry"><div class="talk-year">2015</div><div class="talk-body">« Deification and Personal Identity »<span class="talk-note">International Symposium 'Theosis/Deification: Christian Doctrines of Deification East and West', KU Leuven, January 29-31</span></div></div>
 
-<div class="talk-entry"><div class="talk-year">2013</div><div class="talk-body">« Karl Barth, théoricien des sciences des religions ? »<span class="talk-note">Symposium "Le fait religieux interrogé par les chercheurs", Montpellier, October 17–19</span></div></div>
+<div class="talk-entry"><div class="talk-year">2014</div><div class="talk-body">« Personne, personnage, individu : l’ambition du cinéma d’Éric Rohmer »<span class="talk-note">Symposium 'L'identité personnelle : que suis-je ?', University of Geneva, December 5</span></div></div>
 
-<div class="talk-entry"><div class="talk-year">2013</div><div class="talk-body">« Les ambiguïtés du refus de l'apologétique »<span class="talk-note">Symposium "The Wisdom and Folly of God", University of Geneva, May 23–25</span></div></div>
+<div class="talk-entry"><div class="talk-year">2014</div><div class="talk-body">« Bergson and Mysticism : Towards a Great Outdoors? »<span class="talk-note">Symposium 'Mystical Theology and Continental Philosophy', Liverpool Hope University, July 11-13</span></div></div>
 
-<div class="talk-entry"><div class="talk-year">2012</div><div class="talk-body">« L'imitation entre christologie et anthropologie »<span class="talk-note">Symposium "Imiter Dieu", University of Geneva, May 30 – June 1</span></div></div>
+<div class="talk-entry"><div class="talk-year">2014</div><div class="talk-body">« L’intuition est-elle un ‘rudiment d’intelligence ‘? Quelques effets de la paresse intellectuelle d'après HenriBergson »<span class="talk-note">Lecture at the Jean Piaget Archives Seminar, Geneva, March 18</span></div></div>
 
-<div class="talk-entry"><div class="talk-year">2011</div><div class="talk-body">« De l'immédiatement donné au "détour de la mystique" »<span class="talk-note">Symposium "Bergson : 'Le dernier grand nom de l'intelligence européenne'", Paris, June 7</span></div></div>
+<div class="talk-entry"><div class="talk-year">2013</div><div class="talk-body">« Karl Barth, théoricien des sciences des religions ? »<span class="talk-note">Symposium ‘Le fait religieux interrogé par les chercheurs. Constructions disciplinaires’, Montpellier (CEIFR), October 17-19</span></div></div>
 
-<div class="talk-entry"><div class="talk-year">2011</div><div class="talk-body">« La théorie de la personne comme émotion : une nouveauté des <em>Deux Sources</em> »<span class="talk-note">Symposium "Sensibilité et émotion chez Henri Bergson", University of Geneva, May 18–20</span></div></div>
+<div class="talk-entry"><div class="talk-year">2013</div><div class="talk-body">« Les ambiguïtés du refus de l’apologétique »<span class="talk-note">Symposium 'The Wisdom and Folly of God. Around 1 Corinthians, 1-2', University of Geneva, May 23-25</span></div></div>
 
-<div class="talk-entry"><div class="talk-year">2011</div><div class="talk-body">« Réflexions sur la question des mystiques comme figures historiques dans <em>Les Deux Sources</em> »<span class="talk-note">Symposium "Bergson: History, War, and Peace", Bernkastel-Kues Academy, April 15–17</span></div></div>
+<div class="talk-entry"><div class="talk-year">2012</div><div class="talk-body">« L’imitation entre christologie et anthropologie »<span class="talk-note">Symposium 'Imiter Dieu : approches théologiques, philosophiques et historiques', University of Geneva, May 30 - June 1</span></div></div>
 
-<div class="talk-entry"><div class="talk-year">2011</div><div class="talk-body">« Tout discours philosophique sur Dieu ne sera-t-il qu'une mauvaise théologie ? »<span class="talk-note">Symposium "Dieu en tant que Dieu", Catholic Institute of Paris, January 17–19</span></div></div>
+<div class="talk-entry"><div class="talk-year">2011</div><div class="talk-body">« De l’immédiatement donné au ‘détour de la mystique’ »<span class="talk-note">Symposium under the Patronage of the Académie française ‘Bergson: “Le dernier grand nom de l'intelligence européenne”’, Paris, June 7</span></div></div>
 
-<div class="talk-entry"><div class="talk-year">2010</div><div class="talk-body">« Schleiermacher pour Barth : un problème éthique »<span class="talk-note">Symposium "L'éthique de Schleiermacher et sa réception", University of Geneva, November 5–6</span></div></div>
+<div class="talk-entry"><div class="talk-year">2011</div><div class="talk-body">« La théorie de la personne comme émotion : une nouveauté des \texitDeux Sources ? »<span class="talk-note">Symposium ‘Sensibilité et émotion chez Henri Bergson’, University of Geneva, May 18-20</span></div></div>
 
-<div class="talk-entry"><div class="talk-year">2009</div><div class="talk-body">« A Philosophical Knowledge of God? Natural Theology and Philosophy of Religion in Bergson »<span class="talk-note">Congress of the EASR, Messina, September 14–17</span></div></div>
+<div class="talk-entry"><div class="talk-year">2011</div><div class="talk-body">« Réflexions sur la question des mystiques comme figures historiques dans \texitLes Deux Sources ? »<span class="talk-note">Symposium 'Bergson: History, War, and Peace', Bernkastel-Kues Academy (Germany), April 15-17</span></div></div>
 
-<div class="talk-entry"><div class="talk-year">2009</div><div class="talk-body">« Théologie naturelle et philosophie de la religion chez Bergson »<span class="talk-note">Workshop for Young Researchers in Philosophy of Religion, ICP, Paris, April 30</span></div></div>
+<div class="talk-entry"><div class="talk-year">2011</div><div class="talk-body">« Tout discours philosophique sur Dieu ne sera-t-il qu’une mauvaise théologie ? Philosophie, théologie et théosophie chez Karl Barth en 1929 »<span class="talk-note">Symposium 'Dieu en tant que Dieu', Catholic Institute of Paris, January 17-19</span></div></div>
 
-<div class="talk-entry"><div class="talk-year">2008</div><div class="talk-body">« Deux penseurs face aux sciences historiques du Christ : Bergson et Péguy »<span class="talk-note">Seminar "Sciences et religion", ENS LSH, Lyon, December 13</span></div></div>
+<div class="talk-entry"><div class="talk-year">2010</div><div class="talk-body">« Schleiermacher pour Barth : un problème éthique »<span class="talk-note">Symposium ‘L'éthique de Schleiermacher et sa réception’, University of Geneva, November 5-6</span></div></div>
 
-<div class="talk-entry"><div class="talk-year">2008</div><div class="talk-body">« "Le Mysticisme à l'état pur" : images des ténèbres chez Thérèse »<span class="talk-note">Study Day "Fonction, statut, portée de l'imaginaire dans l'expérience mystique", CERPHI, June 5</span></div></div>
+<div class="talk-entry"><div class="talk-year">2009</div><div class="talk-body">« Amour et connaissance : Grégoire de Nysse commentateur du Cantique des cantiques »<span class="talk-note">November 12, Master's Specialization Workshop ‘Érotisme païen, éroptisme biblique : <em>Le Banquet</em> et ‘Le cantique des cantiques’, University of Geneva</span></div></div>
 
-<div class="talk-entry"><div class="talk-year">2008</div><div class="talk-body">« Thérèse de Lisieux : Nouvelle Jeanne d'Arc ou "Sainte des poilus" ? »<span class="talk-note">Symposium "Les guerres du 20e siècle et la mystique", Collège International de Philosophie, May 22–24</span></div></div>
+<div class="talk-entry"><div class="talk-year">2009</div><div class="talk-body">« A Philosophical Knowledge of God? Natural Theology and Philosophy of Religion in Bergson »<span class="talk-note">Congress of the EASR (European Association for the Study of Religion), Messina (Italy), September 14-17</span></div></div>
 
-<div class="talk-entry"><div class="talk-year">2007</div><div class="talk-body">« Le Dieu de <em>L'Évolution créatrice</em> est-il un Dieu des philosophes ? »<span class="talk-note">Closing Symposium of the Bergson Centenary Year, ENS & Collège de France, November 22–23</span></div></div>
+<div class="talk-entry"><div class="talk-year">2009</div><div class="talk-body">« Théologie naturelle et philosophie de la religion chez Bergson »<span class="talk-note">Workshop for Young Researchers in Philosophy of Religion, Catholic Institute of Paris, April 30</span></div></div>
 
-<div class="talk-entry"><div class="talk-year">2006</div><div class="talk-body">« Morale et religion : quelle unité pour <em>Les Deux Sources</em> ? »<span class="talk-note">Symposium "Bergson et la Religion", University of Geneva, November 30 – December 1</span></div></div>
+<div class="talk-entry"><div class="talk-year">2008</div><div class="talk-body">« Deux penseurs face aux sciences historiques du Christ : Bergson et Péguy »<span class="talk-note">Seminar 'Sciences et religion : terrain de conflits ?', ENS LSH, Lyon, EPAER, December 13</span></div></div>
+
+<div class="talk-entry"><div class="talk-year">2008</div><div class="talk-body">« ‘Le Mysticisme à l’état pur’ : Images des ténèbres chez Thérèse de Lisieux »<span class="talk-note">Workshop ‘Fonction, statut, portée de l'imaginaire dans l'expérience mystique’, CERPHI, IRSE, June 5</span></div></div>
+
+<div class="talk-entry"><div class="talk-year">2008</div><div class="talk-body">« Thérèse de Lisieux : Nouvelle Jeanne d’Arc ou ‘Sainte des poilus’? »<span class="talk-note">Symposium ‘Les guerres du 20e siècle et la mystique’, Collège International de Philosophie, CERPHI, IRSE, CIEPFC, May 22-24</span></div></div>
+
+<div class="talk-entry"><div class="talk-year">2008</div><div class="talk-body">« Thérèse de Lisieux et l’enfance spirituelle : de l’exemple à l’image »<span class="talk-note">Seminar 'Mystique et figures mystiques', IRSE, January 19</span></div></div>
+
+<div class="talk-entry"><div class="talk-year">2007</div><div class="talk-body">« Le Dieu de \textiL’Évolution créatrice est-il un Dieu des philosophes ? »<span class="talk-note">Colloque de clôture de l'année Bergson, ENS, Collège de France, November 22-23</span></div></div>
+
+<div class="talk-entry"><div class="talk-year">2006</div><div class="talk-body">« Morale et religion : quelle unité pour \texitLes Deux Sources ? »<span class="talk-note">Symposium ‘Bergson et la Religion’, University of Geneva, November 30 - December 1</span></div></div>
 
 <p class="talk-section-title">Public Engagement</p>
 
-<div class="talk-entry"><div class="talk-year">2025</div><div class="talk-body">« Cultuel/culturel, et si on en parlait ? »<span class="talk-note">Workshop, COJEP Metz, September 22</span></div></div>
+<div class="talk-entry"><div class="talk-year">2025</div><div class="talk-body">« Cultuel/culturel, et si on en parlait ? »<span class="talk-note">COJEP Metz, 22 septembre 2025</span></div></div>
 
-<div class="talk-entry"><div class="talk-year">2025</div><div class="talk-body">« L'évidence de Dieu »<span class="talk-note">Centre théologique de Meylan, February 7</span></div></div>
+<div class="talk-entry"><div class="talk-year">2025</div><div class="talk-body">« L'évidence de Dieu »<span class="talk-note">Centre théologique de Meylan, 7 février 2025</span></div></div>
 
-<div class="talk-entry"><div class="talk-year">2024</div><div class="talk-body">« La communication des religions »<span class="talk-note">Lecture series "Apéro-communes", CREM, University of Lorraine, February 13</span></div></div>
+<div class="talk-entry"><div class="talk-year">2024</div><div class="talk-body">« La communication des religions »<span class="talk-note">Conférence dans le cadre du cycle "Apéro-communes" du CREM (Université de Lorraine), 13 février 2024</span></div></div>
 
-<div class="talk-entry"><div class="talk-year">2019</div><div class="talk-body">« Liberté et religion »<span class="talk-note">Espace Saint Jean, Nancy, January 14</span></div></div>
+<div class="talk-entry"><div class="talk-year">2019</div><div class="talk-body">« Liberté et religion »<span class="talk-note">Conférence à l'Espace Saint Jean (Nancy) le 14 janvier 2019</span></div></div>
 
-<div class="talk-entry"><div class="talk-year">2018</div><div class="talk-body">« Quel avenir pour le dialogue interculturel et interreligieux ? »<span class="talk-note">Panel discussion, République en tête(s)</span></div></div>
+<div class="talk-entry"><div class="talk-year">2018</div><div class="talk-body">« Quel avenir pour le dialogue interculturel et interreligieux ? »<span class="talk-note">Table ronde organisée par <em>République en tête(s)</em>, Villers-lès-Nancy, 21 novembre 2018</span></div></div>
 
-<div class="talk-entry"><div class="talk-year">2018</div><div class="talk-body">« Le transhumanisme de Henri Bergson »<span class="talk-note">Metz, November 20</span></div></div>
+<div class="talk-entry"><div class="talk-year">2018</div><div class="talk-body">« ‘Culbuter tous les obstacles [...] même peut-être la mort” : le transhumanisme de Henri Bergson »<span class="talk-note">Metz, 20 novembre 2018</span></div></div>
 
-<div class="talk-entry"><div class="talk-year">2017</div><div class="talk-body">« Espérances, utopies, messianismes : comment les distinguer ? »<span class="talk-note">Espace culturel protestant, Reims, September 18</span></div></div>
+<div class="talk-entry"><div class="talk-year">2017</div><div class="talk-body">« Espérances, utopies, messianismes : comment les distinguer ? »<span class="talk-note">Conférence à l'Espace culturel protestant (Reims), 18 septembre 2017</span></div></div>
 
-<div class="talk-entry"><div class="talk-year">2015</div><div class="talk-body">« Du militantisme à l'extrémisme, comment s'opère la transition ? »<span class="talk-note">Public discussion, University of Lorraine, Nancy, March 12</span></div></div>
+<div class="talk-entry"><div class="talk-year">2015</div><div class="talk-body">« Du militantisme à l’extrémisme, comment s’opère la transition ? »<span class="talk-note">Café-psycho (UL Nancy) le 12 mars 2015</span></div></div>
 
-<div class="talk-entry"><div class="talk-year">2014</div><div class="talk-body">« Un bon pape est pire qu'un mauvais » — debate on Pope Francis<span class="talk-note">Organized by "Cité-senior", Geneva — published in <em>Le Courrier</em></span></div></div>
+<div class="talk-entry"><div class="talk-year">2014</div><div class="talk-body">« Un bon pape est pire qu’un mauvais »<span class="talk-note">Débat sur le Pape François organisé par 'Cité-senior', publié dans <em>Le Courrier</em> (Genève) du 6 mai 2014</span></div></div>
 
-<div class="talk-entry"><div class="talk-year">2013</div><div class="talk-body">« Le Pendule de Foucault : une parabole de l'expérience religieuse ? »<span class="talk-note">Salons Dufour, Geneva, June 17</span></div></div>
-
-</div>
+<div class="talk-entry"><div class="talk-year">2013</div><div class="talk-body">« Le Pendule de Foucault : une parabole de l’expérience religieuse ? »<span class="talk-note">Salons Dufour, Genève, 17 juin 2013</span></div></div>
 
 </div>
