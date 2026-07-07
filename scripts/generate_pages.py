@@ -400,24 +400,41 @@ def main():
     (out / "media.html").write_text(media_html, encoding="utf-8")
 
     # --- Encart "publications récentes" pour la page d'accueil ---
+    # Même structure HTML que le bloc next-events (classes event-date, etc.)
     RECENT_N = 4
     recent = sorted(edited + articles + chapters,
                     key=lambda e: (-extract_year(e["fields"].get("year")), e["order"]))[:RECENT_N]
     items = []
     for e in recent:
         f = e["fields"]
+        year = extract_year(f.get("year"))
+        title_fr = title_html(f)
+        title_en = latex_to_html(f.get("engtransl", "")) or title_fr
+        url = link_for(f)
+        label = ('{% if page.lang == "fr" %}' + title_fr
+                 + '{% else %}' + title_en + '{% endif %}')
+        if url:
+            label = f'<a href="{html.escape(url, quote=True)}">{label}</a>'
         hh = h(e)
         if hh == "acl":
-            body = fmt_article(e)
+            venue = f"<em>{latex_to_html(f.get('journal',''))}</em>"
         elif hh == "cos":
-            body = fmt_chapter(e)
+            venue = f"in <em>{latex_to_html(f.get('booktitle',''))}</em>"
         else:
-            body = fmt_edited_work(e)
-        items.append(body.replace('pub-entry', 'recent-pub-entry')
-                         .replace('pub-year', 'recent-pub-year')
-                         .replace('pub-body', 'recent-pub-body')
-                         .replace('pub-translation', 'recent-pub-translation'))
-    recent_html = RECENT_CSS + "\n" + "\n\n".join(items) + "\n"
+            venue = latex_to_html(f.get("publisher", "") or f.get("series", ""))
+        items.append(
+            '    <li>\n'
+            f'      <span class="event-date">{year}</span>\n'
+            '      <span class="event-desc">\n'
+            f'        {label}\n'
+            f'        <span class="event-location">{venue}</span>\n'
+            '      </span>\n'
+            '    </li>')
+    recent_html = (
+        '<div class="next-events recent-pubs">\n'
+        '  <h2>{% if page.lang == "fr" %}Publications récentes'
+        '{% else %}Recent Publications{% endif %}</h2>\n'
+        '  <ul>\n' + "\n".join(items) + "\n  </ul>\n</div>\n")
     (out / "recent-pubs.html").write_text(recent_html, encoding="utf-8")
 
     print(f"Edited Works: {len(edited)} | Articles: {len(articles)} | "
