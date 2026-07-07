@@ -399,6 +399,27 @@ def main():
     )
     (out / "media.html").write_text(media_html, encoding="utf-8")
 
+    # --- Encart "publications récentes" pour la page d'accueil ---
+    RECENT_N = 4
+    recent = sorted(edited + articles + chapters,
+                    key=lambda e: (-extract_year(e["fields"].get("year")), e["order"]))[:RECENT_N]
+    items = []
+    for e in recent:
+        f = e["fields"]
+        hh = h(e)
+        if hh == "acl":
+            body = fmt_article(e)
+        elif hh == "cos":
+            body = fmt_chapter(e)
+        else:
+            body = fmt_edited_work(e)
+        items.append(body.replace('pub-entry', 'recent-pub-entry')
+                         .replace('pub-year', 'recent-pub-year')
+                         .replace('pub-body', 'recent-pub-body')
+                         .replace('pub-translation', 'recent-pub-translation'))
+    recent_html = RECENT_CSS + "\n" + "\n\n".join(items) + "\n"
+    (out / "recent-pubs.html").write_text(recent_html, encoding="utf-8")
+
     print(f"Edited Works: {len(edited)} | Articles: {len(articles)} | "
           f"Chapters: {len(chapters)} | Talks: {len(talks)} | Public: {len(public)} | "
           f"Media: {len(radio)} radio+TV, {len(press)} presse")
@@ -531,6 +552,20 @@ author_profile: true
 <p class="talk-section-title">Conference Presentations &amp; Invited Talks</p>
 
 """
+
+RECENT_CSS = """<style>
+.recent-pub-entry { display: flex; gap: 1.4rem; margin-bottom: 1.1rem; align-items: baseline; font-family: 'Source Serif 4', Georgia, serif; max-width: 720px; }
+.recent-pub-year { flex: 0 0 44px; font-size: 0.78rem; color: #aaa; font-weight: 300; letter-spacing: 0.03em; text-align: right; }
+.recent-pub-body { flex: 1; font-size: 0.9rem; line-height: 1.65; font-weight: 300; color: #1a1a1a; }
+.recent-pub-body a { color: #1a1a1a; text-decoration: none; border-bottom: 1px solid #ccc; transition: border-color 0.15s; }
+.recent-pub-body a:hover { border-color: #1a1a1a; }
+.recent-pub-body em { font-style: italic; }
+.recent-pub-translation { font-size: 0.82rem; color: #888; font-style: italic; display: block; margin-top: 0.1rem; }
+@media (max-width: 500px) {
+  .recent-pub-entry { flex-direction: column; gap: 0.2rem; }
+  .recent-pub-year { text-align: left; }
+}
+</style>"""
 
 MED_HEADER = """---
 layout: single
