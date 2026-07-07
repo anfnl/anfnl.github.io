@@ -26,9 +26,9 @@ jobs:
       - name: Générer les pages
         run: |
           python3 scripts/generate_pages.py own-bib.bib
-          cp output/publications.html _pages/publications.html
-          cp output/talks.html _pages/talks.html
-          cp output/media.html _pages/media.html
+          cp output/publications.html _pages/publications.md
+          cp output/talks.html _pages/talks.md
+          cp output/media.html _pages/media.md
 
       - name: Committer les pages si elles ont changé
         run: |
