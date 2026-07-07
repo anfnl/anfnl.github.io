@@ -141,7 +141,7 @@ header: false
 
 <p class="pub-section-title">Book Chapters</p>
 
-<div class="pub-entry"><div class="pub-year">2026</div><div class="pub-body">« Reverberations. Albert Piette's Anthropology of Separation ». In <em>Humans, Temporary Absolutes</em>, dir. Piette, A. Milan: Mimesis, 7–13</div></div>
+<div class="pub-entry"><div class="pub-year">2026</div><div class="pub-body"><a href="https://mimesisinternational.com/humans-temporary-absolutes-existential-self-experiments-and-a-new-programme-for-anthropology/">« Reverberations. Albert Piette's Anthropology of Separation [foreword] »</a>. In <em>Humans, Temporary Absolutes</em>, dir. Piette, A. Milan: Mimesis, 7–13</div></div>
 
 <div class="pub-entry"><div class="pub-year">2026</div><div class="pub-body"><a href="https://www.editionsepisteme.org/produit/60/9782889157099/experience-et-verite-s">« Démocratie et (post-)vérité : le dilemme de Hans Kelsen »</a>. In <em>Expérience et vérité</em>, dir. Salzman, F. et Waterlot, G. Lausanne: Épistémè, 229–243<span class="pub-translation">Democracy and (Post-)Truth: The Dilemma of Hans Kelsen</span></div></div>
 
