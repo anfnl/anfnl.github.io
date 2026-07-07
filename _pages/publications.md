@@ -143,7 +143,7 @@ header: false
 
 <div class="pub-entry"><div class="pub-year">2026</div><div class="pub-body">« Reverberations. Albert Piette's Anthropology of Separation ». In <em>Humans, Temporary Absolutes</em>, dir. Piette, A. Milan: Mimesis, 7–13</div></div>
 
-<div class="pub-entry"><div class="pub-year">2026</div><div class="pub-body"><a href="https://doi.org/10.4000/16fe0">« Philosophie, croyance, démocratie »</a>. In <em>Athène et Jérusalem face à la naissance de la philosophie</em>, dir. Grosos, P., Riquier, C. et Roux, S. Rennes: PUR, 95–105<span class="pub-translation">Philosophy, Belief, Democracy</span></div></div>
+<div class="pub-entry"><div class="pub-year">2026</div><div class="pub-body"><a href="https://doi.org/10.4000/16fe0">« Philosophie, croyance, démocratie »</a>. In <em>Athènes et Jérusalem face à la naissance de la philosophie</em>, dir. Grosos, P., Riquier, C. et Roux, S. Rennes: PUR, 95–105<span class="pub-translation">Philosophy, Belief, Democracy</span></div></div>
 
 <div class="pub-entry"><div class="pub-year">2025</div><div class="pub-body"><a href="https://pul.uclouvain.be/book/?GCOI=29303100706490">« Préserve nous de la solidarité originelle... ? L’identité personnelle, la solidarité humaine et la mort, à partir du commentaire de Rm 5, 12 par John Locke »</a>. In <em>À partir de la grâce. Recherches théologiques</em>, dir. Brouwer, L. de et Valinho Gomes, P. Louvain-La-Neuve: PU Louvain, 85–97<span class="pub-translation">Preserve Us from the Original Solidarity... ? Personal Identity, Human Solidarity and Death, from John Locke's Commentary on Rom 5, 12</span></div></div>
 
