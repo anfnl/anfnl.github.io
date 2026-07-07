@@ -143,11 +143,11 @@ header: false
 
 <div class="pub-entry"><div class="pub-year">2026</div><div class="pub-body">« Reverberations. Albert Piette's Anthropology of Separation ». In <em>Humans, Temporary Absolutes</em>, dir. Piette, A. Milan: Mimesis, 7–13</div></div>
 
+<div class="pub-entry"><div class="pub-year">2026</div><div class="pub-body"><a href="https://www.editionsepisteme.org/produit/60/9782889157099/experience-et-verite-s">« Démocratie et (post-)vérité : le dilemme de Hans Kelsen »</a>. In <em>Expérience et vérité</em>, dir. Salzman, F. et Waterlot, G. Lausanne: Épistémè, 229–243<span class="pub-translation">Democracy and (Post-)Truth: The Dilemma of Hans Kelsen</span></div></div>
+
 <div class="pub-entry"><div class="pub-year">2026</div><div class="pub-body"><a href="https://doi.org/10.4000/16fe0">« Philosophie, croyance, démocratie »</a>. In <em>Athènes et Jérusalem face à la naissance de la philosophie</em>, dir. Grosos, P., Riquier, C. et Roux, S. Rennes: PUR, 95–105<span class="pub-translation">Philosophy, Belief, Democracy</span></div></div>
 
 <div class="pub-entry"><div class="pub-year">2025</div><div class="pub-body"><a href="https://pul.uclouvain.be/book/?GCOI=29303100706490">« Préserve nous de la solidarité originelle... ? L’identité personnelle, la solidarité humaine et la mort, à partir du commentaire de Rm 5, 12 par John Locke »</a>. In <em>À partir de la grâce. Recherches théologiques</em>, dir. Brouwer, L. de et Valinho Gomes, P. Louvain-La-Neuve: PU Louvain, 85–97<span class="pub-translation">Preserve Us from the Original Solidarity... ? Personal Identity, Human Solidarity and Death, from John Locke's Commentary on Rom 5, 12</span></div></div>
-
-<div class="pub-entry"><div class="pub-year">2025</div><div class="pub-body"><a href="https://www.editionsepisteme.org/produit/60/9782889157099/experience-et-verite-s">« Démocratie et (post-)vérité : le dilemme de Hans Kelsen »</a>. In <em>Expérience et vérité</em>, dir. Salzman, F. et Waterlot, G. Lausanne: Épistémè, 229–243<span class="pub-translation">Democracy and (Post-)Truth: The Dilemma of Hans Kelsen</span></div></div>
 
 <div class="pub-entry"><div class="pub-year">2025</div><div class="pub-body"><a href="https://doi.org/10.62688/edul/b9782384512140/09">« Le péché originel est-il plausible ? »</a>. In <em>Le mal en question</em>, dir. Bouriau, C., Husson, L. et Meessen, Y. Nancy: EDUL, 107–117<span class="pub-translation">[In press] Is Original Sin Plausible?</span></div></div>
 
