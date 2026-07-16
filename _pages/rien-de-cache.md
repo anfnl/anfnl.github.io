@@ -98,6 +98,13 @@ author_profile: true
 </div>
 
 <div class="rdc-media-item">
+<p class="rdc-media-label"><span class="rdc-tag tag-tv">TV</span> &nbsp;<strong>Né sous X · La Croix · Juillet 2026</strong></p>
+<div class="rdc-video-wrap">
+<iframe src="https://youtu.be/xrhyn23qwu8?si=uWPH-NuuKZ4U5taY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="rdc-media-item">
 <p class="rdc-media-label"><span class="rdc-tag tag-radio">Radio</span> &nbsp;<strong>Weekend Première · RTBF · 12 avril 2026</strong></p>
 <div class="rdc-video-wrap">
 <iframe allowfullscreen="true" allow="encrypted-media" scrolling="no" frameborder="0" src="https://auvio.rtbf.be/embed/generic/content/media/3460192"></iframe>
