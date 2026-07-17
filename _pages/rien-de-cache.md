@@ -98,7 +98,7 @@ author_profile: true
 </div>
 
 <div class="rdc-media-item">
-<p class="rdc-media-label"><span class="rdc-tag tag-tv">VIDEO</span> &nbsp;<strong>Né sous X · La Croix · Juillet 2026</strong></p>
+<p class="rdc-media-label"><span class="rdc-tag tag-tv">VIDEO</span> &nbsp;<strong>La Croix · Juillet 2026</strong></p>
 <div class="rdc-video-wrap">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xrhyn23qwu8?si=uWPH-NuuKZ4U5taY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
