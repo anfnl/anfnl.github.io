@@ -1,3 +1,22 @@
+<style>
+  @media (max-width: 600px) {
+    #book-card {
+      width: 130px !important;
+      padding: 10px !important;
+      bottom: 12px !important;
+      right: 12px !important;
+      font-size: 11px !important;
+    }
+    #book-card img {
+      margin-bottom: 6px !important;
+    }
+    #book-card .bc-commander {
+      padding: 5px !important;
+      margin-top: 8px !important;
+    }
+  }
+</style>
+
 <div id="book-card" style="
   position: fixed;
   bottom: 24px;
@@ -36,7 +55,7 @@
   <a href="/rien-de-cache/" style="color: #1a1a1a; text-decoration: none;"><strong><em>Rien de caché</em></strong></a><br>
   <span style="color: #777; font-size: 12px;">Bayard, coll. <em>Littérature intérieure</em></span>
   <a href="https://www.fnac.com/a22499002/Anthony-Feneuil-Rien-de-cache/" 
-     target="_blank" style="
+     target="_blank" class="bc-commander" style="
     display: block;
     margin-top: 12px;
     text-align: center;
@@ -48,7 +67,6 @@
     font-size: 12px;
   ">Commander</a>
 </div>
-
 <script>
 if (window.location.pathname === '/rien-de-cache/') {
   document.getElementById('book-card').style.display = 'none';
