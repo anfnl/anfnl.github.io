@@ -444,50 +444,35 @@ def main():
 # ----------------------------------------------------------------------------
 
 PUB_HEADER = """---
-layout: archive
-title: ""
+layout: refonte
+title: "Anthony Feneuil — Publications"
 description: "Publications of Anthony Feneuil in philosophy and theology, including books, journal articles, and book chapters."
 permalink: /publications/
-author_profile: true
-header: false
+lang: en
 ---
 
-<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;1,400&family=Source+Serif+4:ital,wght@0,300;0,400;1,300&display=swap" rel="stylesheet">
-
 <style>
-.pub-wrap { font-family: 'Source Serif 4', Georgia, serif; color: #1a1a1a; max-width: 720px; }
-
-/* Titre de section */
-.pub-section-title { font-family: 'Playfair Display', serif; font-size: 0.78rem; letter-spacing: 0.18em; text-transform: uppercase; color: #888; margin: 3rem 0 1.8rem 0; font-weight: 400; border-top: 1px solid #ddd; padding-top: 1.8rem; }
-.pub-section-title:first-child { margin-top: 0; }
-
-/* Monographs */
-.pub-books { display: flex; flex-wrap: wrap; gap: 1.8rem; margin-bottom: 1rem; }
-.pub-book { flex: 0 0 auto; width: 120px; text-align: center; }
-.pub-book img { width: 100%; display: block; box-shadow: 3px 4px 12px rgba(0,0,0,0.18); margin-bottom: 0.6rem; }
-.pub-book-title { font-size: 0.75rem; line-height: 1.4; color: #333; font-weight: 400; font-style: italic; }
-.pub-book-title a { color: #333; text-decoration: none; }
-.pub-book-title a:hover { text-decoration: underline; }
-.pub-book-editor { font-size: 0.7rem; color: #999; margin-top: 0.2rem; font-style: normal; }
-
-/* Entrées */
-.pub-entry { display: flex; gap: 1.4rem; margin-bottom: 1.2rem; align-items: baseline; }
-.pub-year { flex: 0 0 44px; font-size: 0.78rem; color: #aaa; font-weight: 300; letter-spacing: 0.03em; text-align: right; padding-top: 0.05rem; }
-.pub-body { flex: 1; font-size: 0.9rem; line-height: 1.65; font-weight: 300; color: #1a1a1a; }
-.pub-body a { color: #1a1a1a; text-decoration: none; border-bottom: 1px solid #ccc; transition: border-color 0.15s; }
-.pub-body a:hover { border-color: #1a1a1a; }
-.pub-body em { font-style: italic; }
-.pub-translation { font-size: 0.82rem; color: #888; font-style: italic; display: block; margin-top: 0.1rem; }
-
-@media (max-width: 500px) {
-  .pub-entry { flex-direction: column; gap: 0.2rem; }
-  .pub-year { text-align: left; }
-  .pub-books { gap: 1rem; }
-  .pub-book { width: 90px; }
-}
+.pub-wrap{max-width:760px}
+.pub-section-title{font-family:var(--disp);font-weight:700;font-size:1.15rem;color:var(--ink);margin:2.4rem 0 .5rem;padding-top:1.4rem;border-top:1px solid var(--line)}
+.pub-section-title:first-child{margin-top:.4rem;border-top:none;padding-top:0}
+.pub-entry{display:grid;grid-template-columns:1fr;gap:.15rem;padding:1rem 0;border-bottom:1px solid var(--line)}
+.pub-year{font-weight:700;font-size:.72rem;letter-spacing:.1em;color:var(--pop);text-transform:uppercase}
+.pub-body{font-size:1.02rem;line-height:1.4;color:var(--ink)}
+.pub-body a{border-bottom:1.5px solid var(--line);transition:.15s}
+.pub-body a:hover{border-color:var(--pop);color:var(--pop)}
+.pub-body em{font-style:italic}
+.pub-translation{display:block;margin-top:.25rem;color:var(--soft);font-size:.9rem;font-style:italic}
+.pub-books{display:flex;flex-wrap:wrap;gap:1.4rem;margin:.6rem 0 1rem}
+.pub-book{width:110px;text-align:center}
+.pub-book img{width:100%;box-shadow:0 10px 22px -10px rgba(0,0,0,.4);margin-bottom:.5rem}
+.pub-book-title{font-size:.78rem;line-height:1.35;font-style:italic;color:var(--ink)}
+.pub-book-title a{color:var(--ink)}
+.pub-book-editor{font-size:.7rem;color:var(--soft);margin-top:.15rem}
+@media(min-width:720px){.pub-entry{grid-template-columns:auto 1fr;gap:.2rem 1.6rem;align-items:baseline}.pub-year{padding-top:.15rem}}
 </style>
 
 <div class="pub-wrap">
+<div class="pagehead"><div class="eyebrow">Research</div><h2>Publications</h2></div>
 
 <p class="pub-section-title">Monographs</p>
   <div class="pub-books">
@@ -524,92 +509,68 @@ header: false
 
 PUB_FOOTER = """
 
-<p style="margin-top: 2.5rem; padding-top: 1.5rem; border-top: 1px solid #ddd; font-size: 0.85rem; color: #aaa; font-family: 'Source Serif 4', serif; font-weight: 300;">Voir aussi : <a href="/rien-de-cache/" style="color: #aaa; text-decoration: none; border-bottom: 1px solid #ddd;"><em>Rien de caché</em></a> (Bayard, 2026) — récit littéraire</p>
+<p style="margin-top:2.4rem;padding-top:1.5rem;border-top:1px solid var(--line);font-size:.9rem;color:var(--soft)">Voir aussi : <a href="/rien-de-cache/" style="color:var(--pop);border-bottom:1px solid var(--line)"><em>Rien de caché</em></a> (Bayard, 2026) — récit littéraire</p>
 
 </div>
 """
 
 TALK_HEADER = """---
-layout: archive
-title: ""
+layout: refonte
+title: "Anthony Feneuil — Talks"
 description: "Oral presentations and public engagement by Anthony Feneuil, philosopher and theologian at the Université de Lorraine."
 permalink: /talks/
-author_profile: true
+lang: en
 ---
 
-<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;1,400&family=Source+Serif+4:ital,wght@0,300;0,400;1,300&display=swap" rel="stylesheet">
-
 <style>
-.talk-wrap { font-family: 'Source Serif 4', Georgia, serif; color: #1a1a1a; max-width: 720px; }
-
-.talk-section-title { font-family: 'Playfair Display', serif; font-size: 0.78rem; letter-spacing: 0.18em; text-transform: uppercase; color: #888; margin: 3rem 0 1.4rem 0; font-weight: 400; border-top: 1px solid #ddd; padding-top: 1.8rem; }
-.talk-section-title:first-of-type { margin-top: 0; border-top: none; padding-top: 0; }
-
-.talk-entry { display: flex; gap: 1.4rem; margin-bottom: 1.1rem; align-items: baseline; }
-.talk-year { flex: 0 0 44px; font-size: 0.78rem; color: #aaa; font-weight: 300; letter-spacing: 0.03em; text-align: right; }
-.talk-body { flex: 1; font-size: 0.9rem; line-height: 1.65; font-weight: 300; color: #1a1a1a; }
-.talk-body a { color: #1a1a1a; text-decoration: none; border-bottom: 1px solid #ccc; transition: border-color 0.15s; }
-.talk-body a:hover { border-color: #1a1a1a; }
-.talk-body em { font-style: italic; }
-.talk-note { font-size: 0.82rem; color: #888; font-style: italic; display: block; margin-top: 0.1rem; }
-.talk-video-link { font-size: 0.78rem; color: #aaa; font-style: normal; margin-left: 0.4rem; border-bottom: 1px dotted #ccc; }
-.talk-video-link:hover { color: #1a1a1a; border-color: #1a1a1a; }
-
-@media (max-width: 500px) {
-  .talk-entry { flex-direction: column; gap: 0.2rem; }
-  .talk-year { text-align: left; }
-}
+.talk-wrap{max-width:760px}
+.talk-section-title{font-family:var(--disp);font-weight:700;font-size:1.15rem;color:var(--ink);margin:2.4rem 0 .5rem;padding-top:1.4rem;border-top:1px solid var(--line)}
+.talk-section-title:first-of-type{margin-top:.4rem;border-top:none;padding-top:0}
+.talk-entry{display:grid;grid-template-columns:1fr;gap:.15rem;padding:1rem 0;border-bottom:1px solid var(--line)}
+.talk-year{font-weight:700;font-size:.72rem;letter-spacing:.1em;color:var(--pop);text-transform:uppercase}
+.talk-body{font-size:1.02rem;line-height:1.4;color:var(--ink)}
+.talk-body a{border-bottom:1.5px solid var(--line);transition:.15s}
+.talk-body a:hover{border-color:var(--pop);color:var(--pop)}
+.talk-body em{font-style:italic}
+.talk-note{display:block;margin-top:.25rem;color:var(--soft);font-size:.9rem;font-style:italic}
+.talk-video-link{font-style:normal;color:var(--pop);margin-left:.4rem;border-bottom:1px solid var(--line)}
+.talk-video-link:hover{border-color:var(--pop)}
+@media(min-width:720px){.talk-entry{grid-template-columns:auto 1fr;gap:.2rem 1.6rem;align-items:baseline}.talk-year{padding-top:.15rem}}
 </style>
 
 <div class="talk-wrap">
+<div class="pagehead"><div class="eyebrow">Presentations</div><h2>Talks</h2></div>
 
 <p class="talk-section-title">Conference Presentations &amp; Invited Talks</p>
 
 """
 
-RECENT_CSS = """<style>
-.recent-pub-entry { display: flex; gap: 1.4rem; margin-bottom: 1.1rem; align-items: baseline; font-family: 'Source Serif 4', Georgia, serif; max-width: 720px; }
-.recent-pub-year { flex: 0 0 44px; font-size: 0.78rem; color: #aaa; font-weight: 300; letter-spacing: 0.03em; text-align: right; }
-.recent-pub-body { flex: 1; font-size: 0.9rem; line-height: 1.65; font-weight: 300; color: #1a1a1a; }
-.recent-pub-body a { color: #1a1a1a; text-decoration: none; border-bottom: 1px solid #ccc; transition: border-color 0.15s; }
-.recent-pub-body a:hover { border-color: #1a1a1a; }
-.recent-pub-body em { font-style: italic; }
-.recent-pub-translation { font-size: 0.82rem; color: #888; font-style: italic; display: block; margin-top: 0.1rem; }
-@media (max-width: 500px) {
-  .recent-pub-entry { flex-direction: column; gap: 0.2rem; }
-  .recent-pub-year { text-align: left; }
-}
-</style>"""
-
 MED_HEADER = """---
-layout: single
-title: ""
+layout: refonte
+title: "Anthony Feneuil — Media"
 description: "media and public interventions by Anthony Feneuil, theology and philosophy."
 permalink: /media/
-author_profile: true
+lang: en
 ---
 
-<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;1,400&family=Source+Serif+4:ital,wght@0,300;0,400;1,300&display=swap" rel="stylesheet">
 <style>
-.med-wrap { font-family: 'Source Serif 4', Georgia, serif; color: #1a1a1a; max-width: 720px; }
-.med-rdc { font-size: 0.9rem; font-weight: 300; color: #555; margin-bottom: 2.5rem; padding-bottom: 1.8rem; border-bottom: 1px solid #ddd; }
-.med-rdc a { color: #555; text-decoration: none; border-bottom: 1px solid #ddd; transition: border-color 0.15s; }
-.med-rdc a:hover { border-color: #555; }
-.med-section-title { font-family: 'Playfair Display', serif; font-size: 0.78rem; letter-spacing: 0.18em; text-transform: uppercase; color: #888; margin: 3rem 0 1.4rem 0; font-weight: 400; }
-.med-entry { display: flex; gap: 1.4rem; margin-bottom: 1.1rem; align-items: baseline; }
-.med-year { flex: 0 0 44px; font-size: 0.78rem; color: #aaa; font-weight: 300; letter-spacing: 0.03em; text-align: right; }
-.med-body { flex: 1; font-size: 0.9rem; line-height: 1.65; font-weight: 300; color: #1a1a1a; }
-.med-body a { color: #1a1a1a; text-decoration: none; border-bottom: 1px solid #ccc; transition: border-color 0.15s; }
-.med-body a:hover { border-color: #1a1a1a; }
-.med-body em { font-style: italic; }
-.med-note { font-size: 0.82rem; color: #888; font-style: italic; display: block; margin-top: 0.1rem; }
-@media (max-width: 500px) {
-  .med-entry { flex-direction: column; gap: 0.2rem; }
-  .med-year { text-align: left; }
-}
+.med-wrap{max-width:760px}
+.med-rdc{color:var(--soft);font-size:1rem;margin-bottom:1.4rem;padding-bottom:1.2rem;border-bottom:1px solid var(--line)}
+.med-rdc a{color:var(--pop);border-bottom:1px solid var(--line)}
+.med-section-title{font-family:var(--disp);font-weight:700;font-size:1.15rem;color:var(--ink);margin:2.4rem 0 .5rem;padding-top:1.4rem;border-top:1px solid var(--line)}
+.med-section-title:first-of-type{margin-top:.4rem;border-top:none;padding-top:0}
+.med-entry{display:grid;grid-template-columns:1fr;gap:.15rem;padding:1rem 0;border-bottom:1px solid var(--line)}
+.med-year{font-weight:700;font-size:.72rem;letter-spacing:.1em;color:var(--pop);text-transform:uppercase}
+.med-body{font-size:1.02rem;line-height:1.4;color:var(--ink)}
+.med-body a{border-bottom:1.5px solid var(--line);transition:.15s}
+.med-body a:hover{border-color:var(--pop);color:var(--pop)}
+.med-body em{font-style:italic}
+.med-note{display:block;margin-top:.25rem;color:var(--soft);font-size:.9rem;font-style:italic}
+@media(min-width:720px){.med-entry{grid-template-columns:auto 1fr;gap:.2rem 1.6rem;align-items:baseline}.med-year{padding-top:.15rem}}
 </style>
 
 <div class="med-wrap">
+<div class="pagehead"><div class="eyebrow">Rien de caché</div><h2>Media</h2></div>
 
 <p class="med-rdc">Presse et médias autour de <a href="/rien-de-cache/"><em>Rien de caché</em></a> (Bayard, 2026) — <a href="/rien-de-cache/">voir la page dédiée</a></p>
 
