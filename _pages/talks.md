@@ -1,36 +1,29 @@
 ---
-layout: archive
-title: ""
+layout: refonte
+title: "Anthony Feneuil — Talks"
 description: "Oral presentations and public engagement by Anthony Feneuil, philosopher and theologian at the Université de Lorraine."
 permalink: /talks/
-author_profile: true
+lang: en
 ---
 
-<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;1,400&family=Source+Serif+4:ital,wght@0,300;0,400;1,300&display=swap" rel="stylesheet">
-
 <style>
-.talk-wrap { font-family: 'Source Serif 4', Georgia, serif; color: #1a1a1a; max-width: 720px; }
-
-.talk-section-title { font-family: 'Playfair Display', serif; font-size: 0.78rem; letter-spacing: 0.18em; text-transform: uppercase; color: #888; margin: 3rem 0 1.4rem 0; font-weight: 400; border-top: 1px solid #ddd; padding-top: 1.8rem; }
-.talk-section-title:first-of-type { margin-top: 0; border-top: none; padding-top: 0; }
-
-.talk-entry { display: flex; gap: 1.4rem; margin-bottom: 1.1rem; align-items: baseline; }
-.talk-year { flex: 0 0 44px; font-size: 0.78rem; color: #aaa; font-weight: 300; letter-spacing: 0.03em; text-align: right; }
-.talk-body { flex: 1; font-size: 0.9rem; line-height: 1.65; font-weight: 300; color: #1a1a1a; }
-.talk-body a { color: #1a1a1a; text-decoration: none; border-bottom: 1px solid #ccc; transition: border-color 0.15s; }
-.talk-body a:hover { border-color: #1a1a1a; }
-.talk-body em { font-style: italic; }
-.talk-note { font-size: 0.82rem; color: #888; font-style: italic; display: block; margin-top: 0.1rem; }
-.talk-video-link { font-size: 0.78rem; color: #aaa; font-style: normal; margin-left: 0.4rem; border-bottom: 1px dotted #ccc; }
-.talk-video-link:hover { color: #1a1a1a; border-color: #1a1a1a; }
-
-@media (max-width: 500px) {
-  .talk-entry { flex-direction: column; gap: 0.2rem; }
-  .talk-year { text-align: left; }
-}
+.talk-wrap{max-width:760px}
+.talk-section-title{font-family:var(--disp);font-weight:700;font-size:1.15rem;color:var(--ink);margin:2.4rem 0 .5rem;padding-top:1.4rem;border-top:1px solid var(--line)}
+.talk-section-title:first-of-type{margin-top:.4rem;border-top:none;padding-top:0}
+.talk-entry{display:grid;grid-template-columns:1fr;gap:.15rem;padding:1rem 0;border-bottom:1px solid var(--line)}
+.talk-year{font-weight:700;font-size:.72rem;letter-spacing:.1em;color:var(--pop);text-transform:uppercase}
+.talk-body{font-size:1.02rem;line-height:1.4;color:var(--ink)}
+.talk-body a{border-bottom:1.5px solid var(--line);transition:.15s}
+.talk-body a:hover{border-color:var(--pop);color:var(--pop)}
+.talk-body em{font-style:italic}
+.talk-note{display:block;margin-top:.25rem;color:var(--soft);font-size:.9rem;font-style:italic}
+.talk-video-link{font-style:normal;color:var(--pop);margin-left:.4rem;border-bottom:1px solid var(--line)}
+.talk-video-link:hover{border-color:var(--pop)}
+@media(min-width:720px){.talk-entry{grid-template-columns:auto 1fr;gap:.2rem 1.6rem;align-items:baseline}.talk-year{padding-top:.15rem}}
 </style>
 
 <div class="talk-wrap">
+<div class="pagehead"><div class="eyebrow">Presentations</div><h2>Talks</h2></div>
 
 <p class="talk-section-title">Conference Presentations &amp; Invited Talks</p>
 

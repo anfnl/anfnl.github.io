@@ -1,32 +1,29 @@
 ---
-layout: single
-title: ""
+layout: refonte
+title: "Anthony Feneuil — Media"
 description: "media and public interventions by Anthony Feneuil, theology and philosophy."
 permalink: /media/
-author_profile: true
+lang: en
 ---
 
-<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;1,400&family=Source+Serif+4:ital,wght@0,300;0,400;1,300&display=swap" rel="stylesheet">
 <style>
-.med-wrap { font-family: 'Source Serif 4', Georgia, serif; color: #1a1a1a; max-width: 720px; }
-.med-rdc { font-size: 0.9rem; font-weight: 300; color: #555; margin-bottom: 2.5rem; padding-bottom: 1.8rem; border-bottom: 1px solid #ddd; }
-.med-rdc a { color: #555; text-decoration: none; border-bottom: 1px solid #ddd; transition: border-color 0.15s; }
-.med-rdc a:hover { border-color: #555; }
-.med-section-title { font-family: 'Playfair Display', serif; font-size: 0.78rem; letter-spacing: 0.18em; text-transform: uppercase; color: #888; margin: 3rem 0 1.4rem 0; font-weight: 400; }
-.med-entry { display: flex; gap: 1.4rem; margin-bottom: 1.1rem; align-items: baseline; }
-.med-year { flex: 0 0 44px; font-size: 0.78rem; color: #aaa; font-weight: 300; letter-spacing: 0.03em; text-align: right; }
-.med-body { flex: 1; font-size: 0.9rem; line-height: 1.65; font-weight: 300; color: #1a1a1a; }
-.med-body a { color: #1a1a1a; text-decoration: none; border-bottom: 1px solid #ccc; transition: border-color 0.15s; }
-.med-body a:hover { border-color: #1a1a1a; }
-.med-body em { font-style: italic; }
-.med-note { font-size: 0.82rem; color: #888; font-style: italic; display: block; margin-top: 0.1rem; }
-@media (max-width: 500px) {
-  .med-entry { flex-direction: column; gap: 0.2rem; }
-  .med-year { text-align: left; }
-}
+.med-wrap{max-width:760px}
+.med-rdc{color:var(--soft);font-size:1rem;margin-bottom:1.4rem;padding-bottom:1.2rem;border-bottom:1px solid var(--line)}
+.med-rdc a{color:var(--pop);border-bottom:1px solid var(--line)}
+.med-section-title{font-family:var(--disp);font-weight:700;font-size:1.15rem;color:var(--ink);margin:2.4rem 0 .5rem;padding-top:1.4rem;border-top:1px solid var(--line)}
+.med-section-title:first-of-type{margin-top:.4rem;border-top:none;padding-top:0}
+.med-entry{display:grid;grid-template-columns:1fr;gap:.15rem;padding:1rem 0;border-bottom:1px solid var(--line)}
+.med-year{font-weight:700;font-size:.72rem;letter-spacing:.1em;color:var(--pop);text-transform:uppercase}
+.med-body{font-size:1.02rem;line-height:1.4;color:var(--ink)}
+.med-body a{border-bottom:1.5px solid var(--line);transition:.15s}
+.med-body a:hover{border-color:var(--pop);color:var(--pop)}
+.med-body em{font-style:italic}
+.med-note{display:block;margin-top:.25rem;color:var(--soft);font-size:.9rem;font-style:italic}
+@media(min-width:720px){.med-entry{grid-template-columns:auto 1fr;gap:.2rem 1.6rem;align-items:baseline}.med-year{padding-top:.15rem}}
 </style>
 
 <div class="med-wrap">
+<div class="pagehead"><div class="eyebrow">Rien de caché</div><h2>Media</h2></div>
 
 <p class="med-rdc">Presse et médias autour de <a href="/rien-de-cache/"><em>Rien de caché</em></a> (Bayard, 2026) — <a href="/rien-de-cache/">voir la page dédiée</a></p>
 

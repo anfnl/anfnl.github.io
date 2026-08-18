@@ -1,48 +1,33 @@
 ---
-layout: archive
-title: ""
+layout: refonte
+title: "Anthony Feneuil — Publications"
 description: "Publications of Anthony Feneuil in philosophy and theology, including books, journal articles, and book chapters."
 permalink: /publications/
-author_profile: true
-header: false
+lang: en
 ---
 
-<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;1,400&family=Source+Serif+4:ital,wght@0,300;0,400;1,300&display=swap" rel="stylesheet">
-
 <style>
-.pub-wrap { font-family: 'Source Serif 4', Georgia, serif; color: #1a1a1a; max-width: 720px; }
-
-/* Titre de section */
-.pub-section-title { font-family: 'Playfair Display', serif; font-size: 0.78rem; letter-spacing: 0.18em; text-transform: uppercase; color: #888; margin: 3rem 0 1.8rem 0; font-weight: 400; border-top: 1px solid #ddd; padding-top: 1.8rem; }
-.pub-section-title:first-child { margin-top: 0; }
-
-/* Monographs */
-.pub-books { display: flex; flex-wrap: wrap; gap: 1.8rem; margin-bottom: 1rem; }
-.pub-book { flex: 0 0 auto; width: 120px; text-align: center; }
-.pub-book img { width: 100%; display: block; box-shadow: 3px 4px 12px rgba(0,0,0,0.18); margin-bottom: 0.6rem; }
-.pub-book-title { font-size: 0.75rem; line-height: 1.4; color: #333; font-weight: 400; font-style: italic; }
-.pub-book-title a { color: #333; text-decoration: none; }
-.pub-book-title a:hover { text-decoration: underline; }
-.pub-book-editor { font-size: 0.7rem; color: #999; margin-top: 0.2rem; font-style: normal; }
-
-/* Entrées */
-.pub-entry { display: flex; gap: 1.4rem; margin-bottom: 1.2rem; align-items: baseline; }
-.pub-year { flex: 0 0 44px; font-size: 0.78rem; color: #aaa; font-weight: 300; letter-spacing: 0.03em; text-align: right; padding-top: 0.05rem; }
-.pub-body { flex: 1; font-size: 0.9rem; line-height: 1.65; font-weight: 300; color: #1a1a1a; }
-.pub-body a { color: #1a1a1a; text-decoration: none; border-bottom: 1px solid #ccc; transition: border-color 0.15s; }
-.pub-body a:hover { border-color: #1a1a1a; }
-.pub-body em { font-style: italic; }
-.pub-translation { font-size: 0.82rem; color: #888; font-style: italic; display: block; margin-top: 0.1rem; }
-
-@media (max-width: 500px) {
-  .pub-entry { flex-direction: column; gap: 0.2rem; }
-  .pub-year { text-align: left; }
-  .pub-books { gap: 1rem; }
-  .pub-book { width: 90px; }
-}
+.pub-wrap{max-width:760px}
+.pub-section-title{font-family:var(--disp);font-weight:700;font-size:1.15rem;color:var(--ink);margin:2.4rem 0 .5rem;padding-top:1.4rem;border-top:1px solid var(--line)}
+.pub-section-title:first-child{margin-top:.4rem;border-top:none;padding-top:0}
+.pub-entry{display:grid;grid-template-columns:1fr;gap:.15rem;padding:1rem 0;border-bottom:1px solid var(--line)}
+.pub-year{font-weight:700;font-size:.72rem;letter-spacing:.1em;color:var(--pop);text-transform:uppercase}
+.pub-body{font-size:1.02rem;line-height:1.4;color:var(--ink)}
+.pub-body a{border-bottom:1.5px solid var(--line);transition:.15s}
+.pub-body a:hover{border-color:var(--pop);color:var(--pop)}
+.pub-body em{font-style:italic}
+.pub-translation{display:block;margin-top:.25rem;color:var(--soft);font-size:.9rem;font-style:italic}
+.pub-books{display:flex;flex-wrap:wrap;gap:1.4rem;margin:.6rem 0 1rem}
+.pub-book{width:110px;text-align:center}
+.pub-book img{width:100%;box-shadow:0 10px 22px -10px rgba(0,0,0,.4);margin-bottom:.5rem}
+.pub-book-title{font-size:.78rem;line-height:1.35;font-style:italic;color:var(--ink)}
+.pub-book-title a{color:var(--ink)}
+.pub-book-editor{font-size:.7rem;color:var(--soft);margin-top:.15rem}
+@media(min-width:720px){.pub-entry{grid-template-columns:auto 1fr;gap:.2rem 1.6rem;align-items:baseline}.pub-year{padding-top:.15rem}}
 </style>
 
 <div class="pub-wrap">
+<div class="pagehead"><div class="eyebrow">Research</div><h2>Publications</h2></div>
 
 <p class="pub-section-title">Monographs</p>
   <div class="pub-books">
@@ -203,6 +188,6 @@ header: false
 
 <div class="pub-entry"><div class="pub-year">2008</div><div class="pub-body">« Édition critique de ‘L'intuition philosophique’ de Henri Bergson ». In <em>La Pensée et le Mouvant</em>. Paris: PUF</div></div>
 
-<p style="margin-top: 2.5rem; padding-top: 1.5rem; border-top: 1px solid #ddd; font-size: 0.85rem; color: #aaa; font-family: 'Source Serif 4', serif; font-weight: 300;">Voir aussi : <a href="/rien-de-cache/" style="color: #aaa; text-decoration: none; border-bottom: 1px solid #ddd;"><em>Rien de caché</em></a> (Bayard, 2026) — récit littéraire</p>
+<p style="margin-top:2.4rem;padding-top:1.5rem;border-top:1px solid var(--line);font-size:.9rem;color:var(--soft)">Voir aussi : <a href="/rien-de-cache/" style="color:var(--pop);border-bottom:1px solid var(--line)"><em>Rien de caché</em></a> (Bayard, 2026) — récit littéraire</p>
 
 </div>
