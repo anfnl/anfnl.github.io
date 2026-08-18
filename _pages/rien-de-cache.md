@@ -1,60 +1,46 @@
 ---
-layout: archive
+layout: refonte
 title: "Rien de caché – Bayard / Labor et Fides, Anthony Feneuil"
 description: "Récit littéraire et philosophique d'Anthony Feneuil sur sa vie sous X et sa recherche des origines."
 permalink: /rien-de-cache/
-author_profile: true
+lang: fr
 ---
 <style>
-.page__title { display: none; }
-</style>
-<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;1,400&family=Source+Serif+4:ital,wght@0,300;0,400;1,300&display=swap" rel="stylesheet">
-
-<style>
-.rdc-wrap { font-family: 'Source Serif 4', Georgia, serif; color: #1a1a1a; max-width: 680px; }
-
-/* En-tête livre */
-.rdc-header { display: flex; gap: 2.4rem; align-items: flex-start; margin-bottom: 3rem; flex-wrap: wrap; }
-.rdc-cover img { width: 148px; display: block; box-shadow: 6px 8px 24px rgba(0,0,0,0.22); }
-.rdc-meta { flex: 1; min-width: 200px; padding-top: 0.2rem; }
-.rdc-title { font-family: 'Playfair Display', Georgia, serif; font-size: 1.85rem; font-weight: 600; margin: 0 0 0.15rem 0; line-height: 1.15; letter-spacing: -0.01em; }
-.rdc-author { font-size: 0.95rem; color: #555; margin: 0 0 0.5rem 0; font-weight: 300; letter-spacing: 0.04em; text-transform: uppercase; }
-.rdc-editor { font-size: 0.88rem; color: #777; margin: 0 0 1.2rem 0; font-style: italic; }
-.rdc-desc { font-size: 0.97rem; line-height: 1.7; color: #333; margin: 0 0 1.4rem 0; font-weight: 300; font-style: italic; }
-.rdc-buttons { display: flex; gap: 0.6rem; flex-wrap: wrap; }
-.rdc-buy { display: inline-block; padding: 0.45rem 1.1rem; border: 1px solid #1a1a1a; color: #1a1a1a; text-decoration: none; font-size: 0.82rem; letter-spacing: 0.08em; text-transform: uppercase; font-family: 'Source Serif 4', serif; font-weight: 400; transition: background 0.2s, color 0.2s; }
-.rdc-buy:hover { background: #1a1a1a; color: #fff; }
-
-/* Séparateur */
-.rdc-divider { border: none; border-top: 1px solid #ccc; margin: 2.2rem 0 2rem 0; }
-.rdc-section-title { font-family: 'Playfair Display', serif; font-size: 0.78rem; letter-spacing: 0.18em; text-transform: uppercase; color: #888; margin: 0 0 1.8rem 0; font-weight: 400; }
-
-/* Médias embarqués */
-.rdc-media-item { margin-bottom: 2.4rem; }
-.rdc-media-label { font-size: 0.78rem; letter-spacing: 0.12em; text-transform: uppercase; color: #888; margin: 0 0 0.6rem 0; font-family: 'Source Serif 4', serif; }
-.rdc-media-label strong { color: #1a1a1a; font-weight: 400; }
-.rdc-video-wrap { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; }
-.rdc-video-wrap iframe { position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none; }
-.rdc-audio-wrap iframe { width: 100%; display: block; }
-
-/* Items liste */
-.rdc-item { display: flex; gap: 1.2rem; margin-bottom: 1.6rem; align-items: center; }
-.rdc-tag-col { flex: 0 0 115px; text-align: right; }
-.rdc-tag { display: inline-block; font-size: 0.68rem; letter-spacing: 0.1em; text-transform: uppercase; padding: 0.18rem 0.5rem; border-radius: 2px; font-family: 'Source Serif 4', serif; }
-.tag-tv       { background: #dce8f0; color: #1a4a6b; }
-.tag-radio    { background: #ecddf0; color: #5a1a6b; }
-.tag-presse   { background: #ddf0e4; color: #1a5c35; }
-.tag-event    { background: #f5ecd7; color: #7a5a1a; }
-.rdc-item-body { flex: 1; }
-.rdc-item-source { font-size: 0.9rem; color: #1a1a1a; letter-spacing: 0.03em; margin: 0; font-weight: 400; }
-.rdc-item-source a { color: #1a1a1a; text-decoration: none; }
-.rdc-item-source a:hover { text-decoration: underline; }
-.rdc-item-note { font-size: 0.85rem; color: #666; margin: 0.2rem 0 0 0; font-style: italic; font-weight: 300; }
-
-@media (max-width: 500px) {
-  .rdc-item { flex-direction: column; gap: 0.4rem; align-items: flex-start; }
-  .rdc-tag-col { flex: none; }
-}
+.rdc-wrap{max-width:720px}
+.rdc-header{display:flex;gap:2rem;align-items:flex-start;margin:1.4rem 0 2.4rem;flex-wrap:wrap}
+.rdc-cover img{width:150px;display:block;box-shadow:0 16px 34px -14px rgba(0,0,0,.5)}
+.rdc-meta{flex:1;min-width:220px}
+.rdc-author{font-weight:700;font-size:.72rem;letter-spacing:.14em;text-transform:uppercase;color:var(--pop);margin:0 0 .4rem}
+.rdc-title{font-family:var(--disp);font-weight:800;font-size:clamp(2rem,7vw,3rem);line-height:.95;letter-spacing:-.02em;margin:0 0 .5rem}
+.rdc-editor{font-style:italic;color:var(--soft);font-size:.95rem;margin:0 0 1.1rem}
+.rdc-desc{font-style:italic;font-size:1.05rem;line-height:1.6;color:var(--ink);border-left:3px solid var(--pop);padding-left:1rem;margin:0 0 1.4rem}
+.rdc-buttons{display:flex;gap:.6rem;flex-wrap:wrap}
+.rdc-buy{display:inline-block;padding:.55rem 1.1rem;border:1px solid var(--ink);color:var(--ink);font-weight:700;font-size:.72rem;letter-spacing:.08em;text-transform:uppercase;border-radius:2px;transition:.16s}
+.rdc-buy:hover{background:var(--ink);color:var(--paper)}
+.rdc-buy:first-child{background:var(--pop);border-color:var(--pop);color:var(--on-pop)}
+.rdc-buy:first-child:hover{background:var(--ink);border-color:var(--ink);color:var(--paper)}
+.rdc-divider{border:none;border-top:1px solid var(--line);margin:2.4rem 0 1.6rem}
+.rdc-section-title{font-family:var(--disp);font-weight:800;font-size:1.4rem;color:var(--ink);margin:0 0 1.4rem;letter-spacing:-.01em}
+.rdc-media-item{margin-bottom:2rem}
+.rdc-media-label{font-size:.9rem;color:var(--ink);margin:0 0 .6rem;display:flex;align-items:center;gap:.5rem;flex-wrap:wrap}
+.rdc-media-label strong{font-weight:600}
+.rdc-media-label a{color:var(--ink)!important;border-bottom:1.5px solid var(--line)}
+.rdc-video-wrap{position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:6px}
+.rdc-video-wrap iframe{position:absolute;inset:0;width:100%;height:100%;border:none}
+.rdc-audio-wrap iframe{width:100%;display:block;border-radius:6px}
+.rdc-item{display:flex;gap:1.2rem;padding:.7rem 0;align-items:center;border-bottom:1px solid var(--line)}
+.rdc-tag-col{flex:0 0 90px;text-align:right}
+.rdc-tag{display:inline-block;font-size:.62rem;letter-spacing:.1em;text-transform:uppercase;font-weight:700;padding:.2rem .5rem;border-radius:3px}
+.tag-tv{background:#dce8f0;color:#1a4a6b}
+.tag-radio{background:#ecddf0;color:#5a1a6b}
+.tag-presse{background:#ddf0e4;color:#1a5c35}
+.tag-event{background:#f5ecd7;color:#7a5a1a}
+.rdc-item-body{flex:1;min-width:0}
+.rdc-item-source{font-size:.95rem;color:var(--ink);margin:0}
+.rdc-item-source a{color:var(--ink);border-bottom:1.5px solid var(--line)}
+.rdc-item-source a:hover{border-color:var(--pop);color:var(--pop)}
+.rdc-item-note{font-size:.85rem;color:var(--soft);font-style:italic;margin:.2rem 0 0}
+@media (max-width:500px){.rdc-item{flex-direction:column;gap:.3rem;align-items:flex-start}.rdc-tag-col{flex:none;text-align:left}}
 </style>
 
 <div class="rdc-wrap">
@@ -77,49 +63,49 @@ author_profile: true
 <p class="rdc-section-title">À voir &amp; écouter</p>
 
 <div class="rdc-media-item">
-<p class="rdc-media-label"><span class="rdc-tag tag-tv">TV</span> &nbsp;<strong>28 minutes · Arte · 27 avril 2026</strong></p>
+<p class="rdc-media-label"><span class="rdc-tag tag-tv">TV</span> <strong>28 minutes · Arte · 27 avril 2026</strong></p>
 <div class="rdc-video-wrap">
 <iframe title="Né sous X, il part à la recherche de sa mère biologique… et la retrouve !" allowfullscreen="true" src="https://www.arte.tv/embeds/fr/132922-001-A?autoplay=false&mute=0"></iframe>
 </div>
 </div>
 
 <div class="rdc-media-item">
-<p class="rdc-media-label"><span class="rdc-tag tag-radio">Radio</span> &nbsp;<strong>Le Book Club · France Culture · 27 mai 2026</strong></p>
+<p class="rdc-media-label"><span class="rdc-tag tag-radio">Radio</span> <strong>Le Book Club · France Culture · 27 mai 2026</strong></p>
 <div class="rdc-audio-wrap">
 <iframe src="https://embed.radiofrance.fr/franceculture/diffusion/f766931e-d48c-477d-b9c7-5bbb5f6b316d" width="100%" height="144" frameborder="0" allowfullscreen></iframe>
 </div>
 </div>
 
 <div class="rdc-media-item">
-<p class="rdc-media-label"><span class="rdc-tag tag-tv">TV</span> &nbsp;<strong>Les Maternelles · France Télévisions · 18 mars 2026</strong></p>
+<p class="rdc-media-label"><span class="rdc-tag tag-tv">TV</span> <strong>Les Maternelles · France Télévisions · 18 mars 2026</strong></p>
 <div class="rdc-video-wrap">
 <iframe src="https://www.youtube.com/embed/ebDLgzfrg7c?si=5w1S1KpAkSpqTmC5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
 
 <div class="rdc-media-item">
-<p class="rdc-media-label"><span class="rdc-tag tag-tv">VIDEO</span> &nbsp;<strong>La Croix · Juillet 2026</strong></p>
+<p class="rdc-media-label"><span class="rdc-tag tag-tv">VIDEO</span> <strong>La Croix · Juillet 2026</strong></p>
 <div class="rdc-video-wrap">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xrhyn23qwu8?si=uWPH-NuuKZ4U5taY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
 
 <div class="rdc-media-item">
-<p class="rdc-media-label"><span class="rdc-tag tag-radio">Radio</span> &nbsp;<strong>Weekend Première · RTBF · 12 avril 2026</strong></p>
+<p class="rdc-media-label"><span class="rdc-tag tag-radio">Radio</span> <strong>Weekend Première · RTBF · 12 avril 2026</strong></p>
 <div class="rdc-video-wrap">
 <iframe allowfullscreen="true" allow="encrypted-media" scrolling="no" frameborder="0" src="https://auvio.rtbf.be/embed/generic/content/media/3460192"></iframe>
 </div>
 </div>
 
 <div class="rdc-media-item">
-<p class="rdc-media-label"><span class="rdc-tag tag-tv">TV</span> &nbsp;<strong>Un cœur qui écoute · KTO · 29 mai 2026</strong></p>
+<p class="rdc-media-label"><span class="rdc-tag tag-tv">TV</span> <strong>Un cœur qui écoute · KTO · 29 mai 2026</strong></p>
 <div class="rdc-video-wrap">
 <iframe src="https://www.youtube.com/embed/UuN1iGZnw2w?si=RRYuZ2XVt5ZpPzCB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
 
 <div class="rdc-media-item">
-<p class="rdc-media-label"><span class="rdc-tag tag-radio">Radio</span> &nbsp;<strong><a href="https://www.europe1.fr/emissions/et-si-on-en-parlait/et-si-on-en-parlait-ladoption-929264" target="_blank" style="color:#1a1a1a;">Et si on en parlait · Europe 1 · 28 avril 2026</a></strong></p>
+<p class="rdc-media-label"><span class="rdc-tag tag-radio">Radio</span> <strong><a href="https://www.europe1.fr/emissions/et-si-on-en-parlait/et-si-on-en-parlait-ladoption-929264" target="_blank">Et si on en parlait · Europe 1 · 28 avril 2026</a></strong></p>
 </div>
 
 <hr class="rdc-divider">
