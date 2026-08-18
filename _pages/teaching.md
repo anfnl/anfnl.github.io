@@ -1,35 +1,29 @@
 ---
-layout: archive
-title: ""
+layout: refonte
+title: "Anthony Feneuil — Teaching"
 description: "Teaching experience of Anthony Feneuil, Associate Professor in philosophy and theology at the Université de Lorraine."
 permalink: /teaching/
-author_profile: true
+lang: en
 ---
-
-<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;1,400&family=Source+Serif+4:ital,wght@0,300;0,400;1,300&display=swap" rel="stylesheet">
-
 <style>
-.teach-wrap { font-family: 'Source Serif 4', Georgia, serif; color: #1a1a1a; max-width: 720px; }
-.teach-section-title { font-family: 'Playfair Display', serif; font-size: 0.78rem; letter-spacing: 0.18em; text-transform: uppercase; color: #888; margin: 3rem 0 0.8rem 0; font-weight: 400; border-top: 1px solid #ddd; padding-top: 1.8rem; }
-.teach-section-title:first-of-type { margin-top: 0; border-top: none; padding-top: 0; }
-.teach-subsection { font-size: 0.88rem; color: #1a1a1a; font-weight: 600; font-style: normal; margin: 1.6rem 0 0.8rem 0; font-family: 'Playfair Display', serif; }
-.teach-subsection:first-of-type { margin-top: 0; }
-.teach-list { list-style: none; padding: 0; margin: 0; }
-.teach-list li { font-size: 0.9rem; font-weight: 300; line-height: 1.65; color: #1a1a1a; padding: 0.3rem 0; border-bottom: 1px solid #f0ede8; display: flex; align-items: baseline; gap: 0.8rem; }
-.teach-list li:last-child { border-bottom: none; }
-.teach-en { flex: 1; }
-.teach-fr { font-size: 0.82rem; color: #aaa; font-style: italic; flex: 0 0 auto; }
-.teach-note { font-size: 0.82rem; color: #888; font-style: italic; display: block; margin-top: 0.1rem; }
-.teach-ext-entry { margin-bottom: 1.6rem; }
-.teach-ext-title { font-size: 0.9rem; font-weight: 400; line-height: 1.65; color: #1a1a1a; }
-.teach-ext-title strong { font-weight: 600; }
-@media (max-width: 500px) {
-  .teach-list li { flex-direction: column; gap: 0.1rem; }
-  .teach-fr { text-align: left; }
-}
+.teach-wrap{max-width:760px}
+.teach-section-title{font-family:var(--disp);font-weight:800;font-size:1.3rem;color:var(--ink);margin:2.6rem 0 .4rem;padding-top:1.6rem;border-top:1px solid var(--line)}
+.teach-section-title:first-of-type{margin-top:.4rem;border-top:none;padding-top:0}
+.teach-subsection{font-family:var(--disp);font-weight:700;font-size:1rem;color:var(--ink);margin:1.6rem 0 .2rem}
+.teach-list{list-style:none;padding:0;margin:.3rem 0 0}
+.teach-list li{display:grid;grid-template-columns:1fr;gap:.05rem;padding:.55rem 0;border-bottom:1px solid var(--line)}
+.teach-list li:last-child{border-bottom:none}
+.teach-en{color:var(--ink);font-size:1rem;line-height:1.35}
+.teach-fr{color:var(--soft);font-size:.9rem}
+.teach-note{display:block;color:var(--soft);font-size:.85rem;font-style:italic;margin-top:.15rem}
+.teach-ext-entry{margin:1.1rem 0}
+.teach-ext-title{font-weight:600;color:var(--ink)}
+@media(min-width:720px){.teach-list li{grid-template-columns:1fr 1fr;gap:1.4rem;align-items:baseline}}
 </style>
 
 <div class="teach-wrap">
+<div class="pagehead"><div class="eyebrow">Enseignement</div><h2>Teaching</h2></div>
+
 <p class="teach-section-title">Université de Lorraine</p>
 <p class="teach-subsection">Master of Theology</p>
 <ul class="teach-list">
@@ -82,7 +76,7 @@ author_profile: true
 <li><span class="teach-en">Introduction to Theology</span><span class="teach-fr">Introduction à la théologie</span></li>
 <li><span class="teach-en">Literalism and Criticism</span><span class="teach-fr">Littéralisme et critique</span></li>
 </ul>
-<p class="teach-section-title">International & External Teaching</p>
+<p class="teach-section-title">International &amp; External Teaching</p>
 <div class="teach-ext-entry">
 <div class="teach-ext-title"><strong>Erasmus+</strong> — Université Félix-Houphouêt-Boigny, Abidjan, Côte d'Ivoire</div>
 <ul class="teach-list" style="margin-top: 0.5rem;">
