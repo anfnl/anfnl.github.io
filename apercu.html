@@ -9,8 +9,8 @@
 <link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;700&family=Archivo+Expanded:wght@600;700;800;900&display=swap" rel="stylesheet">
 <style>
   :root{
-    --paper:#FF9F45; --ink:#1C0F06; --soft:#5A3410; --line:#F0862A;
-    --accent:#17120C; --accent-soft:#FFE0C0; --card:#FFF3E4; --on-accent:#ffffff;
+    --paper:#FFCE1F; --ink:#1A1400; --soft:#6B5600; --line:#E6B800;
+    --accent:#17120C; --accent-soft:#FFF0B0; --card:#FFFBE6; --on-accent:#ffffff;
     --pop:#2438E0; --on-pop:#ffffff;
     --sans:'Archivo', system-ui, -apple-system, sans-serif;
     --disp:'Archivo Expanded','Archivo', system-ui, sans-serif;
@@ -101,8 +101,8 @@
 
   /* Affiliations */
   .affil{display:flex;gap:2rem;align-items:center;flex-wrap:wrap;margin-top:2.6rem;padding-top:1.6rem;border-top:1px solid var(--line)}
-  .affil img{height:50px;width:auto;opacity:.68;filter:grayscale(100%);transition:.2s}
-  .affil a:hover img{opacity:1;filter:none}
+  .affil img{height:50px;width:auto;transition:.2s}
+  @media (hover:hover){.affil img{filter:grayscale(100%);opacity:.7}.affil a:hover img{filter:none;opacity:1}}
 
   /* Footer */
   footer{border-top:1px solid var(--line);margin-top:3rem}
@@ -223,13 +223,51 @@
 
   <!-- CV -->
   <section class="page" id="cv">
-    <div class="pagehead"><div class="eyebrow">Parcours</div><h2>CV</h2><p>Version abrégée. Le CV complet est téléchargeable en PDF.</p></div>
-    <div class="cvrow"><div class="k">Poste</div><div class="v"><b>Maître de conférences HDR</b><div class="d">Théologie systématique &amp; philosophie contemporaine — Université de Lorraine</div></div></div>
-    <div class="cvrow"><div class="k">Distinction</div><div class="v"><b>Membre de l'Institut Universitaire de France</b><div class="d">Chaire sur les enjeux politiques des sciences sociales de la croyance</div></div></div>
-    <div class="cvrow"><div class="k">Édition</div><div class="v"><b>Directeur de publication — <i>Théo</i>Rèmes</b><div class="d">Revue de théorie et de sciences des religions</div></div></div>
-    <div class="cvrow"><div class="k">2020</div><div class="v"><b>Habilitation à diriger des recherches</b></div></div>
-    <div class="cvrow"><div class="k">2013</div><div class="v"><b>Doctorat de philosophie</b><div class="d">L'expérience religieuse chez Karl Barth et Henri Bergson</div></div></div>
-    <div style="margin-top:1.6rem"><a class="btn" href="#">Télécharger le CV (PDF)</a></div>
+    <div class="pagehead"><div class="eyebrow">Parcours</div><h2>CV</h2></div>
+
+    <div class="grouphead">Current Positions</div>
+    <div class="cvrow"><div class="k">2014 – present</div><div class="v"><b>Associate Professor (Maître de conférences HDR)</b><div class="d">University of Lorraine</div></div></div>
+    <div class="cvrow"><div class="k">2025 – 2030</div><div class="v"><b>Junior Member</b><div class="d">Institut Universitaire de France (IUF)</div></div></div>
+    <div class="cvrow"><div class="k">2025 – present</div><div class="v"><b>Vice-Director</b><div class="d">Research Center Écritures (ER3943)</div></div></div>
+    <div class="cvrow"><div class="k">2024 – present</div><div class="v"><b>Member of the Executive Committee</b><div class="d">ANR ReligiS</div></div></div>
+    <div class="cvrow"><div class="k">2011 – present</div><div class="v"><b>Publishing Director &amp; Editorial Board Member</b><div class="d"><i>ThéoRèmes</i></div></div></div>
+
+    <div class="grouphead">Education</div>
+    <div class="cvrow"><div class="k">2020</div><div class="v"><b>Habilitation (HDR)</b><div class="d">University of Lorraine — <i>Powers of Uncertainty: Theology as a Philosophical Method</i></div></div></div>
+    <div class="cvrow"><div class="k">2008 – 2013</div><div class="v"><b>Ph.D. in Philosophy and Theology (cotutelle)</b><div class="d">University of Lille III &amp; University of Geneva — <i>More than Experience? The Epistemological Stakes of the Notion of Religious Experience in K. Barth and H. Bergson</i>. Supervisors: Ghislain Waterlot (Geneva) &amp; Frédéric Worms (ENS)</div></div></div>
+    <div class="cvrow"><div class="k">2007</div><div class="v"><b>M.A. in History of Philosophy</b><div class="d">École Normale Supérieure de Lyon</div></div></div>
+    <div class="cvrow"><div class="k">2003 – 2008</div><div class="v"><b>Élève</b><div class="d">École Normale Supérieure de Lyon (ENS LSH)</div></div></div>
+
+    <div class="grouphead">Research Interests</div>
+    <div class="kw" style="margin-top:.8rem">
+      <span>Theological language</span><span>Epistemology of belief</span><span>Philosophy of religion</span><span>Personal identity</span><span>Mysticism &amp; religious experience</span><span>Theology &amp; social sciences</span><span>Beliefs &amp; politics</span>
+    </div>
+
+    <div class="grouphead">Visiting Positions</div>
+    <div class="cvrow"><div class="k">2022</div><div class="v"><b>Visiting Scholar</b><div class="d">University of Helsinki, Faculty of Theology (March – June 2022)</div></div></div>
+    <div class="cvrow"><div class="k">2021 – 2022</div><div class="v"><b>Research Leave (CRCT + LUE)</b><div class="d">Moscow — CEFR &amp; Institute of Philosophy</div></div></div>
+    <div class="cvrow"><div class="k">2012 – 2013</div><div class="v"><b>Visiting Doctoral Student</b><div class="d">Princeton Theological Seminary (Sept 2012 – Feb 2013)</div></div></div>
+
+    <div class="grouphead">Awards &amp; Grants</div>
+    <div class="cvrow"><div class="k">2025 – 2030</div><div class="v"><b>IUF Junior Membership</b></div></div>
+    <div class="cvrow"><div class="k">2020</div><div class="v"><b>Suzanne Zivi Prize</b><div class="d">Académie de Stanislas</div></div></div>
+    <div class="cvrow"><div class="k">2020</div><div class="v"><b>LUE Grant (€10,000)</b><div class="d">« Religions and Identities in Contemporary Russia »</div></div></div>
+
+    <div class="grouphead">Editorial Responsibilities</div>
+    <div class="cvrow"><div class="k">2011 – present</div><div class="v"><b>Editor-in-Chief — <i>ThéoRèmes</i></b><div class="d">Indexed in ERIH+, Scopus</div></div></div>
+    <div class="cvrow"><div class="k">2025 – present</div><div class="v"><b>Editorial Board</b><div class="d"><i>Laval théologique et philosophique</i></div></div></div>
+    <div class="cvrow"><div class="k">2024 – present</div><div class="v"><b>Editorial Board</b><div class="d"><i>Analecta Bruxellensia</i></div></div></div>
+
+    <div class="grouphead">Professional Societies</div>
+    <div class="cvrow"><div class="k">2022 – present</div><div class="v"><b>Secretary</b><div class="d">Société francophone de philosophie de la religion</div></div></div>
+    <div class="cvrow"><div class="k">Member</div><div class="v"><b>Société des amis de Bergson</b></div></div>
+
+    <div class="grouphead">Languages</div>
+    <div class="kw" style="margin-top:.8rem">
+      <span>French — native</span><span>English — C1</span><span>Russian — B2</span><span>German — A2 (reading)</span>
+    </div>
+
+    <div style="margin-top:1.8rem"><a class="btn" href="#">Télécharger le CV (PDF)</a></div>
   </section>
 
   <!-- PUBLICATIONS -->
