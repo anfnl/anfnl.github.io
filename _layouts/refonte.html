@@ -4,6 +4,25 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>{{ page.title | default: site.title }}</title>
+<meta name="description" content="{{ page.description | default: site.description | strip_html }}">
+<link rel="canonical" href="{{ page.url | absolute_url }}">
+<meta property="og:title" content="{{ page.title | default: site.title }}">
+<meta property="og:description" content="{{ page.description | default: site.description | strip_html }}">
+<meta property="og:image" content="{{ '/images/profile.jpg' | absolute_url }}">
+<meta property="og:type" content="website">
+<meta name="theme-color" content="#FFCE1F">
+<link rel="alternate" type="application/atom+xml" title="Feed" href="/feed.xml">
+<link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon-180x180.png">
+<link rel="icon" type="image/svg+xml" href="/images/favicon.svg">
+<link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="192x192" href="/images/favicon-192x192.png">
+<link rel="manifest" href="/images/manifest.json">
+<link rel="icon" href="/images/favicon.ico">
+{% if page.url == '/fr/' or page.url == '/en/' %}
+<link rel="alternate" hreflang="fr" href="https://anthonyfeneuil.com/fr/" />
+<link rel="alternate" hreflang="en" href="https://anthonyfeneuil.com/en/" />
+<link rel="alternate" hreflang="x-default" href="https://anthonyfeneuil.com/fr/" />
+{% endif %}
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;700&family=Archivo+Expanded:wght@600;700;800;900&display=swap" rel="stylesheet">
@@ -153,6 +172,19 @@
   </div>
   <div class="c">© {{ site.time | date: '%Y' }} Anthony Feneuil</div>
 </footer>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    var links = document.links;
+    for (var i = 0; i < links.length; i++) {
+      if (links[i].hostname && links[i].hostname !== window.location.hostname) {
+        links[i].target = '_blank';
+        links[i].rel = 'noopener';
+      }
+    }
+  });
+</script>
+<script data-goatcounter="https://bogog.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
 
 </body>
 </html>
