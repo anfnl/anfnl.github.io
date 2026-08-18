@@ -128,7 +128,7 @@
 <header>
   <div class="top">
     <a class="brand" href="/fr/"><img class="mini" src="/images/profile.jpg" alt="">{{ site.title | default: "Anthony Feneuil" }}</a>
-    {% if page.lang == 'en' %}<a class="lang" href="https://anthonyfeneuil.com/fr/">FR</a>{% else %}<a class="lang" href="https://anthonyfeneuil.com/en/">EN</a>{% endif %}
+    {% if page.url == '/fr/' or page.url == '/en/' %}{% if page.lang == 'en' %}<a class="lang" href="https://anthonyfeneuil.com/fr/">FR</a>{% else %}<a class="lang" href="https://anthonyfeneuil.com/en/">EN</a>{% endif %}{% endif %}
   </div>
   <nav class="tabs">
     <a class="tab {% if page.url == '/fr/' or page.url == '/en/' %}active{% endif %}" href="/fr/">Accueil</a>
