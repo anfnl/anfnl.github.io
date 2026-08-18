@@ -1,48 +1,55 @@
 ---
 permalink: /en/
 title: "Anthony Feneuil – About, CV and publications"
-layout: single
+layout: refonte
 description: "Academic website of Anthony Feneuil, Associate Professor in theology and philosophy at the University of Lorraine and member of the Institut Universitaire de France."
-author_profile: true
 lang: en
 ---
-<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;1,400&family=Source+Serif+4:ital,wght@0,300;0,400;1,300&display=swap" rel="stylesheet">
-<style>
-.home-body { font-size: 0.97rem; line-height: 1.8; font-weight: 300; color: #1a1a1a; font-family: 'Source Serif 4', Georgia, serif; }
-.home-body p { margin-bottom: 1.2rem; }
-.home-body a { color: #1a1a1a; text-decoration: none; border-bottom: 1px solid #ccc; transition: border-color 0.15s; }
-.home-body a:hover { border-color: #1a1a1a; }
-.next-events { font-family: 'Source Serif 4', Georgia, serif; margin-top: 2.4rem; }
-.next-events h2 { font-family: 'Playfair Display', Georgia, serif; font-weight: 600; font-size: 1.05rem; letter-spacing: 0.02em; margin-bottom: 1rem; color: #1a1a1a; }
-.next-events ul { list-style: none; margin: 0; padding: 0; }
-.next-events li { display: flex; align-items: center; gap: 1.2rem; padding: 0.9rem 0; border-bottom: 1px solid #eee; font-size: 0.92rem; line-height: 1.6; }
-.next-events li:last-child { border-bottom: none; }
-.next-events .event-date { flex: 0 0 100px; flex-shrink: 0; color: #999; font-size: 0.78rem; letter-spacing: 0.04em; }
-.next-events .event-desc { flex: 1; min-width: 0; }
-.next-events .event-desc a { color: #1a1a1a; text-decoration: none; border-bottom: 1px solid #ccc; }
-.next-events .event-desc a:hover { border-color: #1a1a1a; }
-.event-location { display: block; font-size: 0.78rem; color: #999; margin-top: 0.3rem; }
-</style>
-<div style="font-family: 'Source Serif 4', Georgia, serif; color: #1a1a1a; max-width: 680px;">
-<div style="display: flex; align-items: center; margin-bottom: 2rem; padding-bottom: 1.4rem; border-bottom: 1px solid #ddd;">
-  <div style="flex: 1; font-size: 0.72rem; letter-spacing: 0.06em; color: #999; font-weight: 300;">
-    Beliefs · Philosophy &amp; Theology · Identity · Epistemology of Religious Studies
+<section class="hero">
+  <div class="txt">
+    <div class="eyebrow kicker">Associate Professor · University of Lorraine</div>
+    <h1>Anthony Feneuil</h1>
+    <div class="heroline"></div>
+    <div class="kw">
+      <span>Beliefs</span>
+      <span>Philosophy &amp; Theology</span>
+      <span>Identity</span>
+      <span>Epistemology of Religious Studies</span>
+    </div>
+    <div class="contact">
+      <a href="mailto:anthony.feneuil@univ-lorraine.fr">Email</a>
+      <a href="https://orcid.org/0000-0002-1770-2709">ORCID</a>
+      <a href="https://cv.hal.science/anthonyfeneuil">HAL</a>
+      <a href="https://scholar.google.com/citations?user=-5KYAJ8AAAAJ">Scholar</a>
+      <a href="https://bsky.app/profile/anfnl.bsky.social">Bluesky</a>
+      <a href="https://instagram.com/anfnl__">Instagram</a>
+      <a href="https://www.linkedin.com/in/anthony-feneuil-572465245/">LinkedIn</a>
+    </div>
   </div>
-</div>
-<div class="home-body">
+</section>
+
+<div class="prose">
 <p>I am an Associate Professor at the University of Lorraine (France), where I teach systematic theology and contemporary philosophy. My research focuses on theological language, the epistemology of belief, and the relationships between contemporary theology and the social sciences. I completed my PhD in 2013 (on religious experience in Karl Barth and Henri Bergson) and obtained my habilitation in 2020. I am also interested in the construction of identity, which I explore through the philosophical and theological lenses of the personal identity problem, and through literary experimentation (<a href="/rien-de-cache/"><em>Rien de caché</em></a>, 2026).</p>
 <p>I am a founder and publishing director of the journal <a href="https://journals.openedition.org/theoremes/"><em>Théo</em>Rèmes</a>.</p>
 <p>I am currently conducting research as an <a href="https://www.iufrance.fr/les-membres-de-liuf/membre/2850-anthony-feneuil.html">IUF fellow</a> on the political consequences of the social sciences of belief.</p>
 <p>For more details, see my <a href="/cv/">CV</a> and <a href="/publications/">publications</a>.</p>
 </div>
 
+<div class="feature">
+  <figure class="cover"><a href="/rien-de-cache/"><img src="/images/rien-de-cache.jpg" alt="Rien de caché" onerror="this.closest('.cover').style.display='none'"></a></figure>
+  <div>
+    <div class="badge">Just published</div>
+    <div class="bk">Rien de caché</div>
+    <div class="bkmeta">Bayard, coll. <i>Littérature intérieure</i></div>
+    <a class="more" href="/rien-de-cache/">Discover the book →</a>
+  </div>
+</div>
+
 {% include next-events.html %}
 
 {% include recent-pubs.html %}
 
-<div style="display: flex; justify-content: space-between; align-items: flex-end; margin-top: 3rem; padding-top: 1.8rem; border-top: 1px solid #ddd;">
-  <a href="https://ecritures.univ-lorraine.fr/"><img src="/images/logoEcritransp.png" alt="Écritures, Université de Lorraine" style="height: 72px;"></a>
-  <a href="https://www.iufrance.fr/les-membres-de-liuf/membre/2850-anthony-feneuil.html"><img src="/images/LogoIUF.png" alt="Institut Universitaire de France" style="height: 72px;"></a>
-</div>
-
+<div class="affil">
+  <a href="https://ecritures.univ-lorraine.fr/"><img src="/images/logoEcritransp.png" alt="Écritures, Université de Lorraine"></a>
+  <a href="https://www.iufrance.fr/les-membres-de-liuf/membre/2850-anthony-feneuil.html"><img src="/images/LogoIUF.png" alt="Institut Universitaire de France"></a>
 </div>
