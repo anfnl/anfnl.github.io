@@ -85,6 +85,18 @@
   .prose a:hover{border-color:var(--pop)}
   .prose i,.prose em{font-style:italic}
 
+  /* Typographie de base pour le contenu Markdown (terms, etc.) */
+  main h1{font-family:var(--disp);font-weight:800;font-size:clamp(2rem,7vw,3rem);line-height:.95;letter-spacing:-.02em;margin:1.4rem 0 .6rem}
+  main h2{font-family:var(--disp);font-weight:700;font-size:1.5rem;color:var(--ink);margin:2rem 0 .5rem}
+  main h3{font-family:var(--disp);font-weight:700;font-size:1.15rem;color:var(--ink);margin:1.5rem 0 .4rem}
+  main h4{font-weight:700;font-size:1rem;color:var(--ink);margin:1.2rem 0 .3rem}
+  main > p, main > ul, main > ol{max-width:64ch;font-size:1.02rem}
+  main > p{margin:0 0 1rem}
+  main > ul, main > ol{margin:0 0 1rem 1.2rem}
+  main li{margin:.25rem 0}
+  main > p a, main li a{color:var(--pop);border-bottom:1.5px solid var(--accent-soft)}
+  main > p a:hover, main li a:hover{border-color:var(--pop)}
+
   /* Book feature */
   .feature{margin:2.4rem 0;display:grid;grid-template-columns:auto 1fr;gap:1.3rem;align-items:center;background:var(--accent-soft);border:1px solid rgba(0,0,0,.08);border-radius:6px;padding:1.5rem}
   .feature .cover{width:92px;box-shadow:0 14px 30px -14px rgba(0,0,0,.4)}
