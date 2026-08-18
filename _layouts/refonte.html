@@ -96,9 +96,12 @@
   .btn:hover{background:var(--ink);color:var(--paper)}
 
   /* Affiliations */
-  .affil{display:flex;gap:2rem;align-items:center;flex-wrap:wrap;margin-top:2.6rem;padding-top:1.6rem;border-top:1px solid var(--line)}
-  .affil img{height:50px;width:auto;transition:.2s}
-  @media (hover:hover){.affil img{filter:grayscale(100%);opacity:.7}.affil a:hover img{filter:none;opacity:1}}
+  .affil{display:flex;gap:2rem;align-items:center;flex-wrap:wrap;margin-top:1.4rem;padding-top:1.6rem;border-top:1px solid var(--line)}
+  .affil img{height:50px;width:auto}
+  /* dernier filet de la liste d'événements/pubs juste avant les logos : on l'enlève */
+  .next-events + .affil,
+  .next-events:last-of-type li:last-child{border-bottom:none}
+  .next-events:last-of-type{margin-bottom:0}
 
   /* Footer */
   .site-foot{border-top:1px solid var(--line);margin-top:3rem;max-width:960px;margin-left:auto;margin-right:auto;padding:2rem 1.15rem 2.6rem;display:flex;flex-wrap:wrap;gap:1rem 1.4rem;justify-content:space-between}
