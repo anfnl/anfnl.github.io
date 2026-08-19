@@ -10,7 +10,9 @@
 <meta property="og:description" content="{{ page.description | default: site.description | strip_html }}">
 <meta property="og:image" content="{{ '/images/profile.jpg' | absolute_url }}">
 <meta property="og:type" content="website">
-<meta name="theme-color" content="#FFCE1F">
+<meta name="theme-color" content="#2438E0">
+<!-- Jaune (réserve) : <meta name="theme-color" content="#FFCE1F"> -->
+
 <link rel="alternate" type="application/atom+xml" title="Feed" href="/feed.xml">
 <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon-180x180.png">
 <link rel="icon" type="image/svg+xml" href="/images/favicon.svg">
@@ -28,9 +30,25 @@
 <link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;700&family=Archivo+Expanded:wght@600;700;800;900&display=swap" rel="stylesheet">
 <style>
   :root{
-    --paper:#FFCE1F; --ink:#1A1400; --soft:#6B5600; --line:#E6B800;
-    --accent:#17120C; --accent-soft:#FFF0B0; --card:#FFFBE6; --on-accent:#ffffff;
-    --pop:#2438E0; --on-pop:#ffffff;
+    /* ═══════════════════════════════════════════════════════════════
+       CHANGER D'AMBIANCE : garde UNE seule des deux lignes non commentée.
+       (« commenter » = entourer la ligne de barre-étoile … étoile-barre)
+       ═══════════════════════════════════════════════════════════════ */
+
+    /* — BLEU (actif) — */
+    --paper:#2438E0; --ink:#FFFFFF; --pop:#FFCE1F; --on-pop:#17120C;
+
+    /* — JAUNE (en réserve : commente la ligne bleue ci-dessus, décommente celle-ci) — */
+    /* --paper:#FFCE1F; --ink:#1A1400; --pop:#2438E0; --on-pop:#FFFFFF; */
+
+    /* le reste se calcule tout seul à partir des 4 couleurs ci-dessus */
+    --soft:color-mix(in srgb, var(--ink) 60%, var(--paper));
+    --line:color-mix(in srgb, var(--ink) 20%, var(--paper));
+    --accent-soft:color-mix(in srgb, var(--ink) 12%, var(--paper));
+    --card:color-mix(in srgb, var(--ink) 6%, var(--paper));
+    --accent:var(--ink);
+    --on-accent:var(--paper);
+
     --sans:'Archivo', system-ui, -apple-system, sans-serif;
     --disp:'Archivo Expanded','Archivo', system-ui, sans-serif;
   }
