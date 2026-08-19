@@ -1,10 +1,3 @@
-- date_en: "June 30, 2026"
-  date_fr: "30 juin 2026"
-  location: "Rome"
-  url: "https://secure.onlinecongress.it/Olc/Client/Programme/Public/Session/EUARE2026/1997208256990597002202207/en/Detail?SemIdSession=581"
-  label_en: 'Panel "Crossing the Gap Between Faith and Faithlessness: Models of Religious Belief and Their Anthropological Plausibility", European Academy of Religion 2026'
-  label_fr: 'Panel "Crossing the Gap Between Faith and Faithlessness: Models of Religious Belief and Their Anthropological Plausibility", European Academy of Religion 2026'
-
 - date_en: "Sept. 3-5, 2026"
   date_fr: "3-5 sept. 2026"
   location: "Metz"
@@ -19,4 +12,17 @@
   label_en: '"Laïcité et droit local" Conference, University of Lorraine'
   label_fr: 'Colloque "Laïcité et droit local", Université de Lorraine'
 
+- date_en: "September 29, 2026"
+  date_fr: "29 septembre 2026"
+  location: "Paris"
+  url: "https://secure.onlinecongress.it/Olc/Client/Programme/Public/Session/EUARE2026/1997208256990597002202207/en/Detail?SemIdSession=581"
+  label_en: 'Conference "Heidegger, Ricœur et le problème de l'ontothéologie"'
+  label_fr: 'Colloque "Heidegger, Ricœur et le problème de l'ontothéologie"'
+
+- date_en: "November 30, 2026"
+  date_fr: "30 novembre 2026"
+  location: "Reims"
+  url: "https://epu-reimsepernay.org/evenements/ecp-conference-ne-ailleurs-itineraire-dune-quete-animee-par-m-anthony-feneuil/"
+  label_en: 'Conference au temple protestant de Reims'
+  label_fr: 'Talk at the protestant Church in Reims'
 
