@@ -145,10 +145,13 @@
   .btn:hover{background:var(--ink);color:var(--paper)}
 
   /* Affiliations */
-  .affil{display:flex;gap:1rem;align-items:center;flex-wrap:wrap;margin-top:1.2rem;padding-top:1.6rem;border-top:1px solid var(--line)}
-  .affil a{background:#FBF7EC;border-radius:16px;padding:.7rem 1.1rem;display:inline-flex;align-items:center;box-shadow:0 8px 20px -12px rgba(0,0,0,.4);opacity:.55;filter:grayscale(100%);transition:opacity .2s, filter .2s}
-  .affil a:hover{opacity:1;filter:grayscale(0%)}
+    .affil{display:flex;gap:1rem;align-items:center;flex-wrap:wrap;margin-top:1.2rem;padding-top:1.6rem;border-top:1px solid var(--line)}
+  .affil a{background:#FBF7EC;border-radius:16px;padding:.7rem 1.1rem;display:inline-flex;align-items:center;box-shadow:0 8px 20px -12px rgba(0,0,0,.4);transition:opacity .2s, filter .2s}
   .affil img{height:46px;width:auto}
+  @media (hover:hover){
+    .affil a{opacity:.55;filter:grayscale(100%)}
+    .affil a:hover{opacity:1;filter:grayscale(0%)}
+  }
   /* pas de filet sous la dernière publication : évite le double trait avant les logos */
   .recent-pubs ul li:last-child{border-bottom:none}
 
