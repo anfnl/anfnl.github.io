@@ -74,14 +74,14 @@ lang: fr
 </div>
 
 <div class="rdc-media-item">
-<p class="rdc-media-label"><span class="rdc-tag tag-radio">Radio</span> <strong>Le Book Club · France Culture · 27 mai 2026</strong></p>
+<p class="rdc-media-label"><span class="rdc-tag tag-radio">Radio</span> <strong>Le Book Club · France Culture </strong></p>
 <div class="rdc-audio-wrap">
 <iframe src="https://embed.radiofrance.fr/franceculture/diffusion/f766931e-d48c-477d-b9c7-5bbb5f6b316d" width="100%" height="144" frameborder="0" allowfullscreen></iframe>
 </div>
 </div>
 
 <div class="rdc-media-item">
-<p class="rdc-media-label"><span class="rdc-tag tag-tv">TV</span> <strong>Les Maternelles · France Télévisions · 18 mars 2026</strong></p>
+<p class="rdc-media-label"><span class="rdc-tag tag-tv">TV</span> <strong>Les Maternelles · France Télévisions </strong></p>
 <div class="rdc-video-wrap">
 <iframe src="https://www.youtube.com/embed/ebDLgzfrg7c?si=5w1S1KpAkSpqTmC5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
@@ -95,14 +95,14 @@ lang: fr
 </div>
 
 <div class="rdc-media-item">
-<p class="rdc-media-label"><span class="rdc-tag tag-radio">Radio</span> <strong>Weekend Première · RTBF · 12 avril 2026</strong></p>
+<p class="rdc-media-label"><span class="rdc-tag tag-radio">Radio</span> <strong>Weekend Première · RTBF </strong></p>
 <div class="rdc-video-wrap">
 <iframe allowfullscreen="true" allow="encrypted-media" scrolling="no" frameborder="0" src="https://auvio.rtbf.be/embed/generic/content/media/3460192"></iframe>
 </div>
 </div>
 
 <div class="rdc-media-item">
-<p class="rdc-media-label"><span class="rdc-tag tag-tv">TV</span> <strong>Un cœur qui écoute · KTO · 29 mai 2026</strong></p>
+<p class="rdc-media-label"><span class="rdc-tag tag-tv">TV</span> <strong>Un cœur qui écoute · KTO </strong></p>
 <div class="rdc-video-wrap">
 <iframe src="https://www.youtube.com/embed/UuN1iGZnw2w?si=RRYuZ2XVt5ZpPzCB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
