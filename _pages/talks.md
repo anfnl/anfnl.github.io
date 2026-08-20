@@ -9,7 +9,7 @@ lang: en
 <style>
 .talk-wrap{max-width:760px}
 .talk-section-title{font-family:var(--disp);font-weight:700;font-size:1.15rem;color:var(--ink);margin:2.4rem 0 .5rem;padding-top:1.4rem;border-top:1px solid var(--line)}
-.talk-section-title:first-of-type{margin-top:.4rem;border-top:none;padding-top:0}
+.pagehead + .talk-section-title{margin-top:.4rem;border-top:none;padding-top:0}
 .talk-entry{display:grid;grid-template-columns:1fr;gap:.15rem;padding:1rem 0;border-bottom:1px solid var(--line)}
 .talk-year{font-weight:700;font-size:.72rem;letter-spacing:.1em;color:var(--pop);text-transform:uppercase}
 .talk-body{font-size:1.02rem;line-height:1.4;color:var(--ink)}
