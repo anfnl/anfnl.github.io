@@ -6,7 +6,7 @@ permalink: /rien-de-cache/
 lang: fr
 ---
 <style>
-.rdc-wrap{max-width:720px}
+.rdc-wrap{max-width:900px}
 .rdc-header{display:flex;gap:2rem;align-items:flex-start;margin:1.4rem 0 2.4rem;flex-wrap:wrap}
 .rdc-cover img{width:150px;display:block;box-shadow:0 16px 34px -14px rgba(0,0,0,.5)}
 .rdc-meta{flex:1;min-width:220px}
@@ -21,13 +21,16 @@ lang: fr
 .rdc-buy:first-child:hover{background:var(--ink);border-color:var(--ink);color:var(--paper)}
 .rdc-divider{border:none;border-top:1px solid var(--line);margin:2.4rem 0 1.6rem}
 .rdc-section-title{font-family:var(--disp);font-weight:800;font-size:1.4rem;color:var(--ink);margin:0 0 1.4rem;letter-spacing:-.01em}
-.rdc-media-item{margin-bottom:2rem}
-.rdc-media-label{font-size:.9rem;color:var(--ink);margin:0 0 .6rem;display:flex;align-items:center;gap:.5rem;flex-wrap:wrap}
-.rdc-media-label strong{font-weight:600}
+.rdc-media-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:1rem;margin-bottom:1rem}
+.rdc-media-item{background:var(--card);border-radius:10px;padding:.75rem;margin:0}
+.rdc-media-label{font-size:.82rem;color:var(--ink);margin:0 0 .5rem;display:flex;align-items:center;gap:.4rem;flex-wrap:wrap}
+.rdc-media-label strong{font-weight:600;font-size:.82rem}
 .rdc-media-label a{color:var(--ink)!important;border-bottom:1.5px solid var(--line)}
 .rdc-video-wrap{position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:6px}
 .rdc-video-wrap iframe{position:absolute;inset:0;width:100%;height:100%;border:none}
 .rdc-audio-wrap iframe{width:100%;display:block;border-radius:6px}
+@media (max-width:900px){.rdc-media-grid{grid-template-columns:repeat(2,1fr)}}
+@media (max-width:600px){.rdc-media-grid{grid-template-columns:1fr}}
 .rdc-item{display:flex;gap:1.2rem;padding:.7rem 0;align-items:center;border-bottom:1px solid var(--line)}
 .rdc-tag-col{flex:0 0 90px;text-align:right}
 .rdc-tag{display:inline-block;font-size:.62rem;letter-spacing:.1em;text-transform:uppercase;font-weight:700;padding:.2rem .5rem;border-radius:3px}
@@ -61,6 +64,7 @@ lang: fr
 
 <hr class="rdc-divider">
 <p class="rdc-section-title">À voir &amp; écouter</p>
+<div class="rdc-media-grid">
 
 <div class="rdc-media-item">
 <p class="rdc-media-label"><span class="rdc-tag tag-tv">TV</span> <strong>28 minutes · Arte · 27 avril 2026</strong></p>
@@ -106,6 +110,8 @@ lang: fr
 
 <div class="rdc-media-item">
 <p class="rdc-media-label"><span class="rdc-tag tag-radio">Radio</span> <strong><a href="https://www.europe1.fr/emissions/et-si-on-en-parlait/et-si-on-en-parlait-ladoption-929264" target="_blank">Et si on en parlait · Europe 1 · 28 avril 2026</a></strong></p>
+</div>
+
 </div>
 
 <hr class="rdc-divider">
