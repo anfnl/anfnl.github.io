@@ -29,9 +29,11 @@ lang: en
 
 <p class="med-section-title">Radio, TV &amp; Podcasts</p>
 
+<div class="med-entry"><div class="med-year">2026</div><div class="med-body"><a href="https://www.arte.tv/fr/videos/132922-001-A/ne-sous-x-il-part-a-la-recherche-de-sa-mere-biologique-et-la-retrouve/">« Invité de 28 minutes »</a><span class="med-note">Émission <em>28 minutes</em> sur Arte, 27 avril 2026</span></div></div>
+
 <div class="med-entry"><div class="med-year">2026</div><div class="med-body"><a href="https://www.radiofrance.fr/franceculture/podcasts/le-book-club/ne-sous-x-ecrire-la-quete-de-soi-avec-anthony-feneuil-7839770">« Écrire la quête de soi »</a><span class="med-note">Invité du Book Club de France culture le 27 mai 2026</span></div></div>
 
-<div class="med-entry"><div class="med-year">2024</div><div class="med-body"><a href="https://www.arte.tv/fr/videos/132922-001-A/ne-sous-x-il-part-a-la-recherche-de-sa-mere-biologique-et-la-retrouve/">« Invité de 28 minutes »</a><span class="med-note">Émission <em>28 minutes</em> sur Arte, 27 avril 2026</span></div></div>
+<div class="med-entry"><div class="med-year">2024</div><div class="med-body">« L'histoire des religions »<span class="med-note">Émission "Bienvenue chez vous", France Bleu Lorraine Nord, 26 septembre 2024</span></div></div>
 
 <div class="med-entry"><div class="med-year">2024</div><div class="med-body"><a href="https://www.youtube.com/watch?v=LKYhYCBGcS0">« La mystique existe-t-elle ? »</a><span class="med-note">Émission <em>La foi prise au mot</em> sur KTO TV, 26 mai 2024</span></div></div>
 
@@ -54,8 +56,6 @@ lang: en
 <p class="med-section-title">Press Articles &amp; Interviews</p>
 
 <div class="med-entry"><div class="med-year">2025</div><div class="med-body"><a href="https://www.temoignagechretien.fr/que-reste-t-il-du-concile-de-nicee/">« Que reste-t-il du Concile de Nicée ? »</a><span class="med-note">Entretien dans <em>Témoignage chrétien</em>, 26 juin 2025</span></div></div>
-
-<div class="med-entry"><div class="med-year">2024</div><div class="med-body">« L'histoire des religions »<span class="med-note">Émission "Bienvenue chez vous", France Bleu Lorraine Nord, 26 septembre 2024</span></div></div>
 
 <div class="med-entry"><div class="med-year">2024</div><div class="med-body"><a href="https://www.temoignagechretien.fr/vous-avez-dit-apologetique/">« Vous avez dit apologétique ? »</a><span class="med-note">Entretien dans <em>Témoignage chrétien</em>, 19 juillet 2024</span></div></div>
 
