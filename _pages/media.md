@@ -29,6 +29,10 @@ lang: en
 
 <p class="med-section-title">Radio, TV &amp; Podcasts</p>
 
+<div class="med-entry"><div class="med-year">2026</div><div class="med-body"><a href="https://www.radiofrance.fr/franceculture/podcasts/le-book-club/ne-sous-x-ecrire-la-quete-de-soi-avec-anthony-feneuil-7839770">« Écrire la quête de soi »</a><span class="med-note">Invité du Book Club de France culture le 27 mai 2026</span></div></div>
+
+<div class="med-entry"><div class="med-year">2024</div><div class="med-body"><a href="https://www.arte.tv/fr/videos/132922-001-A/ne-sous-x-il-part-a-la-recherche-de-sa-mere-biologique-et-la-retrouve/">« Invité de 28 minutes »</a><span class="med-note">Émission <em>28 minutes</em> sur Arte, 27 avril 2026</span></div></div>
+
 <div class="med-entry"><div class="med-year">2024</div><div class="med-body"><a href="https://www.youtube.com/watch?v=LKYhYCBGcS0">« La mystique existe-t-elle ? »</a><span class="med-note">Émission <em>La foi prise au mot</em> sur KTO TV, 26 mai 2024</span></div></div>
 
 <div class="med-entry"><div class="med-year">2021</div><div class="med-body"><a href="https://shows.acast.com/theo-logiques/episodes/le-doute-religieux">« Le doute religieux »</a><span class="med-note">Podcast Théo-logiques, septembre 2021</span></div></div>
