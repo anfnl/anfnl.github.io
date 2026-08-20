@@ -555,7 +555,7 @@ lang: en
 
 <style>
 .med-wrap{max-width:760px}
-.med-rdc{color:var(--soft);font-size:1rem;margin-bottom:1.4rem;padding-bottom:1.2rem;border-bottom:1px solid var(--line)}
+.med-rdc{margin-top:1.4rem;color:var(--soft);font-size:1rem;margin-bottom:1.4rem;padding-bottom:1.2rem;border-bottom:1px solid var(--line)}
 .med-rdc a{color:var(--pop);border-bottom:1px solid var(--line)}
 .med-section-title{font-family:var(--disp);font-weight:700;font-size:1.15rem;color:var(--ink);margin:2.4rem 0 .5rem;padding-top:1.4rem;border-top:1px solid var(--line)}
 .med-rdc + .med-section-title{margin-top:.4rem;border-top:none;padding-top:0}
