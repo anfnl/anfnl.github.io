@@ -4,7 +4,7 @@ title: "Anthony Feneuil — CV"
 permalink: /cv/
 lang: en
 ---
-<div class="pagehead"><div class="eyebrow">Curriculum</div><h2>CV</h2></div>
+<div class="pagehead"><div class="eyebrow">Curriculum vitae</div><h2>CV</h2></div>
 
 <div class="grouphead">Current Positions</div>
 <div class="cvrow"><div class="k">2014 – present</div><div class="v"><b>Associate Professor (Maître de conférences HDR)</b><div class="d">University of Lorraine</div></div></div>
