@@ -23,7 +23,7 @@ lang: en
 </style>
 
 <div class="med-wrap">
-<div class="pagehead"><div class="eyebrow">Rien de caché</div><h2>Media</h2></div>
+<div class="pagehead"><div class="eyebrow">Diffusion de la recherche</div><h2>Media</h2></div>
 
 <p class="med-rdc">Presse et médias autour de <a href="/rien-de-cache/"><em>Rien de caché</em></a> (Bayard, 2026) — <a href="/rien-de-cache/">voir la page dédiée</a></p>
 

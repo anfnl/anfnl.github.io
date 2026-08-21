@@ -23,7 +23,7 @@ lang: en
 </style>
 
 <div class="talk-wrap">
-<div class="pagehead"><div class="eyebrow">Presentations</div><h2>Talks</h2></div>
+<div class="pagehead"><div class="eyebrow">Présentations orales</div><h2>Talks</h2></div>
 
 <p class="talk-section-title">Conference Presentations &amp; Invited Talks</p>
 

@@ -27,7 +27,7 @@ lang: en
 </style>
 
 <div class="pub-wrap">
-<div class="pagehead"><div class="eyebrow">Research</div><h2>Publications</h2></div>
+<div class="pagehead"><div class="eyebrow">Recherche</div><h2>Publications</h2></div>
 
 <p class="pub-section-title">Monographs</p>
   <div class="pub-books">
