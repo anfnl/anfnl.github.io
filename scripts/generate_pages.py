@@ -472,7 +472,7 @@ lang: en
 </style>
 
 <div class="pub-wrap">
-<div class="pagehead"><div class="eyebrow">Research</div><h2>Publications</h2></div>
+<div class="pagehead"><div class="eyebrow">Recherche</div><h2>Publications</h2></div>
 
 <p class="pub-section-title">Monographs</p>
   <div class="pub-books">
@@ -539,7 +539,7 @@ lang: en
 </style>
 
 <div class="talk-wrap">
-<div class="pagehead"><div class="eyebrow">Presentations</div><h2>Talks</h2></div>
+<div class="pagehead"><div class="eyebrow">Présentations orales</div><h2>Talks</h2></div>
 
 <p class="talk-section-title">Conference Presentations &amp; Invited Talks</p>
 
@@ -570,7 +570,7 @@ lang: en
 </style>
 
 <div class="med-wrap">
-<div class="pagehead"><div class="eyebrow">Rien de caché</div><h2>Media</h2></div>
+<div class="pagehead"><div class="eyebrow">Diffusion de la recherche</div><h2>Media</h2></div>
 
 <p class="med-rdc">Presse et médias autour de <a href="/rien-de-cache/"><em>Rien de caché</em></a> (Bayard, 2026) — <a href="/rien-de-cache/">voir la page dédiée</a></p>
 
