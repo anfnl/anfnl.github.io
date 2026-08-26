@@ -119,6 +119,11 @@ lang: fr
 
 <div class="rdc-item">
 <div class="rdc-tag-col"><span class="rdc-tag tag-presse">Presse</span></div>
+<div class="rdc-item-body"><p class="rdc-item-source"><a href="https://charliehebdo.fr/2026/08/culture/secrets-de-famille-episode-8-luke-skywalker-et-son-pere-du-cote-obscur/" target="_blank">Charlie Hebdo · N° 1779 · 26 Août 2026</a></p></div>
+</div>
+
+<div class="rdc-item">
+<div class="rdc-tag-col"><span class="rdc-tag tag-presse">Presse</span></div>
 <div class="rdc-item-body"><p class="rdc-item-source"><a href="https://www.revue-etudes.com/critiques-de-livres/rien-de-cache-de-anthony-feneuil/28845" target="_blank">Études · N° 4339 · Juillet 2026</a></p></div>
 </div>
 
