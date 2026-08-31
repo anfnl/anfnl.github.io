@@ -29,7 +29,7 @@ lang: fr
 </section>
 
 <div class="prose">
-<p>Je suis maître de conférences à l'Université de Lorraine (France), où j'enseigne la théologie systématique et la philosophie contemporaine. Mes recherches portent sur le langage théologique, l'épistémologie de la croyance et les relations entre théologie contemporaine et sciences sociales. J'ai soutenu ma thèse en 2013 (sur l'expérience religieuse chez Karl Barth et Henri Bergson) et mon habilitation en 2020. Je m'intéresse également à la construction de l'identité, que j'explore à travers les prismes philosophique et théologique du problème de l'identité personnelle, et via l'expérimentation littéraire (<a href="/rien-de-cache/"><em>Rien de caché</em></a>, 2026).</p>
+<p>Je suis maître de conférences à l'Université de Lorraine (France), où j'enseigne la théologie systématique et la philosophie contemporaine. Mes recherches portent sur le langage théologique, l'épistémologie de la croyance et les relations entre théologie contemporaine et sciences sociales. Je m'intéresse également à la construction de l'identité, que j'explore à travers les prismes philosophique et théologique du problème de l'identité personnelle, et via l'expérimentation littéraire (<a href="/rien-de-cache/"><em>Rien de caché</em></a>, 2026).</p>
 <p>Je suis cofondateur et directeur de publication de la revue <a href="https://journals.openedition.org/theoremes/"><em>Théo</em>Rèmes</a>.</p>
 <p>Je travaille actuellement dans le cadre d'une <a href="https://www.iufrance.fr/les-membres-de-liuf/membre/2850-anthony-feneuil.html">chaire de l'IUF</a> sur les enjeux politiques des sciences sociales de la croyance.</p>
 <p>Pour plus de détails, voir mon <a href="/cv/">CV</a> et mes <a href="/publications/">publications</a>.</p>
