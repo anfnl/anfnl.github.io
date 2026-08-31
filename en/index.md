@@ -29,7 +29,7 @@ lang: en
 </section>
 
 <div class="prose">
-<p>I am an Associate Professor at the University of Lorraine (France), where I teach systematic theology and contemporary philosophy. My research focuses on theological language, the epistemology of belief, and the relationships between contemporary theology and the social sciences. I completed my PhD in 2013 (on religious experience in Karl Barth and Henri Bergson) and obtained my habilitation in 2020. I am also interested in the construction of identity, which I explore through the philosophical and theological lenses of the personal identity problem, and through literary experimentation (<a href="/rien-de-cache/"><em>Rien de caché</em></a>, 2026).</p>
+<p>I am an Associate Professor at the University of Lorraine (France), where I teach systematic theology and contemporary philosophy. My research focuses on theological language, the epistemology of belief, and the relationships between contemporary theology and the social sciences. I am also interested in the construction of identity, which I explore through the philosophical and theological lenses of the personal identity problem, and through literary experimentation (<a href="/rien-de-cache/"><em>Rien de caché</em></a>, 2026).</p>
 <p>I am a founder and publishing director of the journal <a href="https://journals.openedition.org/theoremes/"><em>Théo</em>Rèmes</a>.</p>
 <p>I am currently conducting research as an <a href="https://www.iufrance.fr/les-membres-de-liuf/membre/2850-anthony-feneuil.html">IUF fellow</a> on the political consequences of the social sciences of belief.</p>
 <p>For more details, see my <a href="/cv/">CV</a> and <a href="/publications/">publications</a>.</p>
