@@ -1,10 +1,3 @@
-- date_en: "Sept. 3-5, 2026"
-  date_fr: "3-5 sept. 2026"
-  location: "Metz"
-  url: "https://www.philosophie-religion.org/articles/religion-et-ecologie-congres-2026-de-la-sfpr-a-metz-or-universite-de-lorraine"
-  label_en: 'SFPR Congress – "Religions, spiritualités et écologie"'
-  label_fr: 'Congrès de la Société francophone de philosophie de la religion – "Religions, spiritualités et écologie"'
-
 - date_en: "Sept. 25, 2026"
   date_fr: "25 sept. 2026"
   location: "Metz"
@@ -23,6 +16,6 @@
   date_fr: "30 novembre 2026"
   location: "Reims"
   url: "https://epu-reimsepernay.org/evenements/ecp-conference-ne-ailleurs-itineraire-dune-quete-animee-par-m-anthony-feneuil/"
-  label_fr: 'Conference à Reims'
-  label_en: 'Talk at the protestant Church in Reims'
+  label_fr: 'Présentation du livre Rien de caché à Reims'
+  label_en: 'Book presentation in Reims'
 
