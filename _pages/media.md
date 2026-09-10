@@ -55,6 +55,8 @@ lang: en
 
 <p class="med-section-title">Press Articles &amp; Interviews</p>
 
+<div class="med-entry"><div class="med-year">2026</div><div class="med-body"><a href="https://kiosque.lavie.fr/">« L'Essentiel »</a><span class="med-note">Entretien de 5 pages et recension dans le journal <em>La Vie</em> n°4222 du 13 septembre 2026</span></div></div>
+
 <div class="med-entry"><div class="med-year">2025</div><div class="med-body"><a href="https://www.temoignagechretien.fr/que-reste-t-il-du-concile-de-nicee/">« Que reste-t-il du Concile de Nicée ? »</a><span class="med-note">Entretien dans <em>Témoignage chrétien</em>, 26 juin 2025</span></div></div>
 
 <div class="med-entry"><div class="med-year">2024</div><div class="med-body"><a href="https://www.temoignagechretien.fr/vous-avez-dit-apologetique/">« Vous avez dit apologétique ? »</a><span class="med-note">Entretien dans <em>Témoignage chrétien</em>, 19 juillet 2024</span></div></div>
