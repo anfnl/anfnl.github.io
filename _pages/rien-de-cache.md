@@ -119,7 +119,7 @@ lang: fr
 
 <div class="rdc-item">
 <div class="rdc-tag-col"><span class="rdc-tag tag-presse">Presse</span></div>
-<div class="rdc-item-body"><p class="rdc-item-source"><a href="https://kiosque.lavie.fr/" target="_blank">La Vie · N° 4222 · 13 septembre 2026</a></p></div>
+<div class="rdc-item-body"><p class="rdc-item-source"><a href="https://www.lavie.fr/christianisme/temoignage/anthony-feneuil-itineraire-spirituel-dun-enfant-adopte-105062.php">La Vie · N° 4222 · 13 septembre 2026</a></p></div>
 </div>
 
 <div class="rdc-item">
