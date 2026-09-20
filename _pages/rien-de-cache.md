@@ -102,6 +102,13 @@ lang: fr
 </div>
 
 <div class="rdc-media-item">
+<p class="rdc-media-label"><span class="rdc-tag tag-radio">Radio</span> <strong>Babel · RTS Espace 2 </strong></p>
+<div class="rdc-video-wrap">
+<iframe allowfullscreen="true" allow="encrypted-media" scrolling="no" frameborder="0" src="https://www.rts.ch/play/embed?urn=urn:rts:audio:cd88d332-6267-37fc-b93c-193214a014e5"></iframe>
+</div>
+</div>
+
+<div class="rdc-media-item">
 <p class="rdc-media-label"><span class="rdc-tag tag-tv">TV</span> <strong>Un cœur qui écoute · KTO </strong></p>
 <div class="rdc-video-wrap">
 <iframe src="https://www.youtube.com/embed/UuN1iGZnw2w?si=RRYuZ2XVt5ZpPzCB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
