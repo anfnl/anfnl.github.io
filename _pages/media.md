@@ -29,6 +29,8 @@ lang: en
 
 <p class="med-section-title">Radio, TV &amp; Podcasts</p>
 
+<div class="med-entry"><div class="med-year">2026</div><div class="med-body"><a href="https://www.ici.fr/emissions/l-invite-d-ici-matin-ici-lorraine-meurthe-et-moselle-et-vosges/visite-du-pape-en-lorraine-un-engouement-populaire-mais-aussi-mediatique-tempere-anthony-feneuil-5464287">« Le pape Léon XIV en Lorraine : "Un engouement populaire mais aussi médiatique" »</a><span class="med-note">Entretien sur Ici Lorraine autour de la visite de Léon XIV à Metz le 25 septembre 2026</span></div></div>
+
 <div class="med-entry"><div class="med-year">2026</div><div class="med-body"><a href="https://www.arte.tv/fr/videos/132922-001-A/ne-sous-x-il-part-a-la-recherche-de-sa-mere-biologique-et-la-retrouve/">« Invité de 28 minutes »</a><span class="med-note">Émission <em>28 minutes</em> sur Arte, 27 avril 2026</span></div></div>
 
 <div class="med-entry"><div class="med-year">2026</div><div class="med-body"><a href="https://www.radiofrance.fr/franceculture/podcasts/le-book-club/ne-sous-x-ecrire-la-quete-de-soi-avec-anthony-feneuil-7839770">« Écrire la quête de soi »</a><span class="med-note">Invité du Book Club de France culture le 27 mai 2026</span></div></div>
