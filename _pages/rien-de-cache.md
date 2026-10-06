@@ -148,7 +148,7 @@ lang: fr
 </div>
 
 <div class="rdc-item">
-<p class="rdc-item"><span class="rdc-tag tag-radio">Radio</span></div>
+<div class="rdc-tag-col"><span class="rdc-tag tag-radio">Radio</span></div>
 <div class="rdc-item-body"><p class="rdc-item-source"><a href="https://www.europe1.fr/emissions/et-si-on-en-parlait/et-si-on-en-parlait-ladoption-929264" target="_blank">Et si on en parlait · Europe 1 · 28 avril 2026</a></p></div>
 </div>
 
