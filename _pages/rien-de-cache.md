@@ -34,9 +34,9 @@ lang: fr
 .rdc-item{display:flex;gap:1.2rem;padding:.7rem 0;align-items:center;border-bottom:1px solid var(--line)}
 .rdc-tag-col{flex:0 0 90px;text-align:right}
 .rdc-tag{display:inline-block;font-size:.62rem;letter-spacing:.1em;text-transform:uppercase;font-weight:700;padding:.2rem .5rem;border-radius:3px}
-.tag-tv{background:#dce8f0;color:#1a4a6b}
-.tag-radio{background:#ecddf0;color:#5a1a6b}
-.tag-presse{background:#ddf0e4;color:#1a5c35}
+.tag-tv{background:#ff2d95;color:#fff;box-shadow:0 2px 8px rgba(255,45,149,.4)}
+.tag-radio{background:#ffd400;color:#1a1400;box-shadow:0 2px 8px rgba(255,212,0,.4)}
+.tag-presse{background:#00c853;color:#002d14;box-shadow:0 2px 8px rgba(0,200,83,.4)}
 .tag-event{background:#f5ecd7;color:#7a5a1a}
 .rdc-item-body{flex:1;min-width:0}
 .rdc-item-source{font-size:.95rem;color:var(--ink);margin:0}
