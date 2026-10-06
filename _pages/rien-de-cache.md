@@ -123,13 +123,13 @@ lang: fr
 <p class="rdc-section-title">Presse</p>
 
 <div class="rdc-item">
-<div class="rdc-tag-col"><span class="rdc-tag tag-presse">Presse</span></div>
-<div class="rdc-item-body"><p class="rdc-item-source"><a href="https://www.lavie.fr/christianisme/temoignage/anthony-feneuil-itineraire-spirituel-dun-enfant-adopte-105062.php">La Vie · N° 4222 · 13 septembre 2026</a></p></div>
+<div class="rdc-tag-col"><span class="rdc-tag tag-radio">Radio</span></div>
+<div class="rdc-item-body"><p class="rdc-item-source"><a href="https://www.ici.fr/emissions/le-lorrain-du-jour/ne-sous-x-l-ecrivain-mosellan-anthony-feneuil-raconte-son-histoire-2203420" target="_blank">Le Lorrain du jour · ICI Lorraine · 6 octobre 2026</a></p></div>
 </div>
 
 <div class="rdc-item">
-<div class="rdc-tag-col"><span class="rdc-tag tag-radio">Radio</span></div>
-<div class="rdc-item-body"><p class="rdc-item-source"><a href="https://www.ici.fr/emissions/le-lorrain-du-jour/ne-sous-x-l-ecrivain-mosellan-anthony-feneuil-raconte-son-histoire-2203420" target="_blank">Le Lorrain du jour · ICI Lorraine · 6 octobre 2026</a></p></div>
+<div class="rdc-tag-col"><span class="rdc-tag tag-presse">Presse</span></div>
+<div class="rdc-item-body"><p class="rdc-item-source"><a href="https://www.lavie.fr/christianisme/temoignage/anthony-feneuil-itineraire-spirituel-dun-enfant-adopte-105062.php">La Vie · N° 4222 · 13 septembre 2026</a></p></div>
 </div>
 
 <div class="rdc-item">
