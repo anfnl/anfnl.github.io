@@ -128,7 +128,7 @@ lang: fr
 </div>
 
 <div class="rdc-item">
-<p class="rdc-item"><span class="rdc-tag tag-radio">Radio</span></div>
+<div class="rdc-tag-col"><span class="rdc-tag tag-radio">Radio</span></div>
 <div class="rdc-item-body"><p class="rdc-item-source"><a href="https://www.ici.fr/emissions/le-lorrain-du-jour/ne-sous-x-l-ecrivain-mosellan-anthony-feneuil-raconte-son-histoire-2203420" target="_blank">Le Lorrain du jour · ICI Lorraine · 6 octobre 2026</a></p></div>
 </div>
 
