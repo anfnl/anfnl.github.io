@@ -116,6 +116,10 @@ lang: fr
 </div>
 
 <div class="rdc-media-item">
+<p class="rdc-media-label"><span class="rdc-tag tag-radio">Radio</span> <strong><a href="https://www.ici.fr/emissions/le-lorrain-du-jour/ne-sous-x-l-ecrivain-mosellan-anthony-feneuil-raconte-son-histoire-2203420" target="_blank">Le Lorrain du jour · ICI Lorraine · 6 octobre 2026</a></strong></p>
+</div>
+
+<div class="rdc-media-item">
 <p class="rdc-media-label"><span class="rdc-tag tag-radio">Radio</span> <strong><a href="https://www.europe1.fr/emissions/et-si-on-en-parlait/et-si-on-en-parlait-ladoption-929264" target="_blank">Et si on en parlait · Europe 1 · 28 avril 2026</a></strong></p>
 </div>
 
