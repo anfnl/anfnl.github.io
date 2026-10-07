@@ -56,7 +56,6 @@ lang: en
     <div class="pub-book-title"><a href="/rien-de-cache/">Rien de caché</a></div>
     <div class="pub-book-editor">Bayard & Labor et Fides</div>
   </div>
-  <div class="pub-books">
   <div class="pub-book">
     <a href="https://www.laboretfides.com/product/un-lexique-theologique/"><img src="/images/images_livres/lexique.png" alt="Lexique de théologie"></a>
     <div class="pub-book-title"><a href="https://www.laboretfides.com/product/un-lexique-theologique/">Lexique de théologie</a></div>
