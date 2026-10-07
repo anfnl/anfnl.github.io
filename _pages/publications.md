@@ -18,11 +18,16 @@ lang: en
 .pub-body em{font-style:italic}
 .pub-translation{display:block;margin-top:.25rem;color:var(--soft);font-size:.9rem;font-style:italic}
   
-/* Monographs — livres avec image */
-  
-/* Mobile : empilés */
+/* ===== Monographs — livres avec image ===== */
+
+/* Règles communes (mobile et desktop) */
+.pub-book-title{font-size:.82rem;line-height:1.35;font-style:italic;color:var(--ink)}
+.pub-book-title a{color:var(--ink)}
+.pub-book-editor{font-size:.7rem;color:var(--soft);margin-top:.15rem}
+
+/* Mobile : livres empilés, couverture à gauche */
 @media(max-width:719px){
-  .pub-books{display:flex;flex-direction:column;flex-wrap:nowrap;margin:.6rem 0 1rem}
+  .pub-books{display:flex;flex-direction:column;margin:.6rem 0 1rem}
   .pub-book{width:100%;max-width:280px;text-align:left;display:flex;gap:.8rem;align-items:center}
   .pub-book > a{flex:0 0 90px;width:90px;display:block}
   .pub-book img{width:100%;height:138px;object-fit:cover;object-position:top;display:block;box-shadow:0 10px 22px -10px rgba(0,0,0,.4)}
@@ -31,18 +36,20 @@ lang: en
 /* Desktop : une seule ligne glissante, images grandes */
 @media(min-width:720px){
   .pub-books{
+    display:flex;
     flex-direction:row;
     flex-wrap:nowrap;
     gap:1.4rem;
     overflow-x:auto;
     scroll-snap-type:x proximity;
-    padding-bottom:.6rem;          /* place pour l'ombre des couvertures */
+    padding-bottom:.6rem;
+    margin:.6rem 0 1rem;
     -webkit-overflow-scrolling:touch;
   }
   .pub-book{flex:0 0 130px;width:130px;display:block;text-align:center;scroll-snap-align:start}
-  .pub-book img{width:130px;height:199px;object-fit:cover;object-position:top;flex:none;margin-bottom:.5rem}
+  .pub-book img{width:130px;height:199px;object-fit:cover;object-position:top;display:block;margin-bottom:.5rem;box-shadow:0 10px 22px -10px rgba(0,0,0,.4)}
 }
-
+  
 /* Publications listées */
 @media(min-width:720px){.pub-entry{grid-template-columns:auto 1fr;gap:.2rem 1.6rem;align-items:baseline}.pub-year{padding-top:.15rem}}
 </style>
