@@ -22,7 +22,7 @@ lang: en
 /* Mobile : empilés */
 .pub-books{display:flex;flex-direction:column;flex-wrap:nowrap;margin:.6rem 0 1rem}
 .pub-book{width:100%;max-width:280px;text-align:left;display:flex;gap:.8rem;align-items:center}
-.pub-book img{width:90px;flex:0 0 90px;margin-bottom:0;box-shadow:0 10px 22px -10px rgba(0,0,0,.4)}
+.pub-book img{width:90px;height:138px;object-fit:cover;object-position:top;flex:0 0 90px;margin-bottom:0;box-shadow:0 10px 22px -10px rgba(0,0,0,.4)}
 .pub-book-title{font-size:.82rem;line-height:1.35;font-style:italic;color:var(--ink)}
 .pub-book-title a{color:var(--ink)}
 .pub-book-editor{font-size:.7rem;color:var(--soft);margin-top:.15rem}
@@ -39,7 +39,7 @@ lang: en
     -webkit-overflow-scrolling:touch;
   }
   .pub-book{flex:0 0 130px;width:130px;display:block;text-align:center;scroll-snap-align:start}
-  .pub-book img{width:130px;flex:none;margin-bottom:.5rem}
+  .pub-book img{width:130px;height:199px;object-fit:cover;object-position:top;flex:none;margin-bottom:.5rem}
 }
 
 /* Publications listées */
