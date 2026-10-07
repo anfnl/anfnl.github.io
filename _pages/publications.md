@@ -17,12 +17,23 @@ lang: en
 .pub-body a:hover{border-color:var(--pop);color:var(--pop)}
 .pub-body em{font-style:italic}
 .pub-translation{display:block;margin-top:.25rem;color:var(--soft);font-size:.9rem;font-style:italic}
-.pub-books{display:flex;flex-wrap:wrap;gap:1.4rem;margin:.6rem 0 1rem}
-.pub-book{width:110px;text-align:center}
-.pub-book img{width:100%;box-shadow:0 10px 22px -10px rgba(0,0,0,.4);margin-bottom:.5rem}
-.pub-book-title{font-size:.78rem;line-height:1.35;font-style:italic;color:var(--ink)}
+/* Monographs — livres */
+/* Mobile par défaut : livres empilés */
+.pub-books{display:flex;flex-direction:column;flex-wrap:nowrap;margin:.6rem 0 1rem}
+.pub-book{width:100%;max-width:280px;text-align:left;display:flex;gap:.8rem;align-items:center}
+.pub-book img{width:90px;flex:0 0 90px;margin-bottom:0;box-shadow:0 10px 22px -10px rgba(0,0,0,.4)}
+.pub-book-title{font-size:.82rem;line-height:1.35;font-style:italic;color:var(--ink)}
 .pub-book-title a{color:var(--ink)}
 .pub-book-editor{font-size:.7rem;color:var(--soft);margin-top:.15rem}
+
+/* Desktop : une seule ligne */
+@media(min-width:720px){
+  .pub-books{flex-direction:row;gap:1.4rem}
+  .pub-book{flex:1 1 0;min-width:0;width:auto;display:block;text-align:center}
+  .pub-book img{width:100%;flex:none;margin-bottom:.5rem}
+}
+
+/* Publications listées */
 @media(min-width:720px){.pub-entry{grid-template-columns:auto 1fr;gap:.2rem 1.6rem;align-items:baseline}.pub-year{padding-top:.15rem}}
 </style>
 
