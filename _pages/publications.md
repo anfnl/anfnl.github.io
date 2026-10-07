@@ -32,6 +32,12 @@ lang: en
 <p class="pub-section-title">Monographs</p>
   <div class="pub-books">
   <div class="pub-book">
+    <a href="/rien-de-cache/"><img src="/images/images_livres/RienDeCache.jpeg" alt="Rien de caché"></a>
+    <div class="pub-book-title"><a href="/rien-de-cache/">Rien de caché</a></div>
+    <div class="pub-book-editor">Bayard & Labor et Fides</div>
+  </div>
+  <div class="pub-books">
+  <div class="pub-book">
     <a href="https://www.laboretfides.com/product/un-lexique-theologique/"><img src="/images/images_livres/lexique.png" alt="Lexique de théologie"></a>
     <div class="pub-book-title"><a href="https://www.laboretfides.com/product/un-lexique-theologique/">Lexique de théologie</a></div>
     <div class="pub-book-editor">Labor et Fides</div>
