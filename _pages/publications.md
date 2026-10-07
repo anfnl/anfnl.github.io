@@ -21,13 +21,12 @@ lang: en
 /* Monographs — livres avec image */
   
 /* Mobile : empilés */
-.pub-books{display:flex;flex-direction:column;flex-wrap:nowrap;margin:.6rem 0 1rem}
-.pub-book{width:100%;max-width:280px;text-align:left;display:flex;gap:.8rem;align-items:center}
-.pub-book > a{flex:0 0 90px;width:90px;display:block}
-.pub-book img{width:100%;height:138px;object-fit:cover;object-position:top;display:block;box-shadow:0 10px 22px -10px rgba(0,0,0,.4)}
-.pub-book-title{font-size:.82rem;line-height:1.35;font-style:italic;color:var(--ink)}
-.pub-book-title a{color:var(--ink)}
-.pub-book-editor{font-size:.7rem;color:var(--soft);margin-top:.15rem}
+@media(max-width:719px){
+  .pub-books{display:flex;flex-direction:column;flex-wrap:nowrap;margin:.6rem 0 1rem}
+  .pub-book{width:100%;max-width:280px;text-align:left;display:flex;gap:.8rem;align-items:center}
+  .pub-book > a{flex:0 0 90px;width:90px;display:block}
+  .pub-book img{width:100%;height:138px;object-fit:cover;object-position:top;display:block;box-shadow:0 10px 22px -10px rgba(0,0,0,.4)}
+}
 
 /* Desktop : une seule ligne glissante, images grandes */
 @media(min-width:720px){
