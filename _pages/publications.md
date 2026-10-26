@@ -17,40 +17,12 @@ lang: en
 .pub-body a:hover{border-color:var(--pop);color:var(--pop)}
 .pub-body em{font-style:italic}
 .pub-translation{display:block;margin-top:.25rem;color:var(--soft);font-size:.9rem;font-style:italic}
-  
-/* ===== Monographs — livres avec image ===== */
-
-/* Règles communes (mobile et desktop) */
-.pub-book-title{font-size:.82rem;line-height:1.35;font-style:italic;color:var(--ink)}
+.pub-books{display:flex;flex-wrap:wrap;gap:1.4rem;margin:.6rem 0 1rem}
+.pub-book{width:110px;text-align:center}
+.pub-book img{width:100%;box-shadow:0 10px 22px -10px rgba(0,0,0,.4);margin-bottom:.5rem}
+.pub-book-title{font-size:.78rem;line-height:1.35;font-style:italic;color:var(--ink)}
 .pub-book-title a{color:var(--ink)}
 .pub-book-editor{font-size:.7rem;color:var(--soft);margin-top:.15rem}
-
-/* Mobile : livres empilés, couverture à gauche */
-@media(max-width:719px){
-  .pub-books{display:flex;flex-direction:column;margin:.6rem 0 1rem}
-  .pub-book{width:100%;max-width:280px;text-align:left;display:flex;gap:.8rem;align-items:center}
-  .pub-book > a{flex:0 0 90px;width:90px;display:block}
-  .pub-book img{width:100%;height:138px;object-fit:cover;object-position:top;display:block;box-shadow:0 10px 22px -10px rgba(0,0,0,.4)}
-}
-
-/* Desktop : une seule ligne glissante, images grandes */
-@media(min-width:720px){
-  .pub-books{
-    display:flex;
-    flex-direction:row;
-    flex-wrap:nowrap;
-    gap:1.4rem;
-    overflow-x:auto;
-    scroll-snap-type:x proximity;
-    padding-bottom:.6rem;
-    margin:.6rem 0 1rem;
-    -webkit-overflow-scrolling:touch;
-  }
-  .pub-book{flex:0 0 130px;width:130px;display:block;text-align:center;scroll-snap-align:start}
-  .pub-book img{width:130px;height:199px;object-fit:cover;object-position:top;display:block;margin-bottom:.5rem;box-shadow:0 10px 22px -10px rgba(0,0,0,.4)}
-}
-  
-/* Publications listées */
 @media(min-width:720px){.pub-entry{grid-template-columns:auto 1fr;gap:.2rem 1.6rem;align-items:baseline}.pub-year{padding-top:.15rem}}
 </style>
 
@@ -59,11 +31,6 @@ lang: en
 
 <p class="pub-section-title">Monographs</p>
   <div class="pub-books">
-  <div class="pub-book">
-    <a href="/rien-de-cache/"><img src="/images/images_livres/RienDeCache.jpeg" alt="Rien de caché"></a>
-    <div class="pub-book-title"><a href="/rien-de-cache/">Rien de caché</a></div>
-    <div class="pub-book-editor">Bayard & Labor et Fides</div>
-  </div>
   <div class="pub-book">
     <a href="https://www.laboretfides.com/product/un-lexique-theologique/"><img src="/images/images_livres/lexique.png" alt="Lexique de théologie"></a>
     <div class="pub-book-title"><a href="https://www.laboretfides.com/product/un-lexique-theologique/">Lexique de théologie</a></div>
@@ -162,6 +129,8 @@ lang: en
 <div class="pub-entry"><div class="pub-year">2026</div><div class="pub-body"><a href="https://link.springer.com/book/10.65272/978-88-6977-548-2">« Reverberations. Albert Piette's Anthropology of Separation [foreword] »</a>. In <em>Humans, Temporary Absolutes</em>, dir. Piette, A. Milan: Mimesis, 7–13</div></div>
 
 <div class="pub-entry"><div class="pub-year">2026</div><div class="pub-body"><a href="https://www.editionsepisteme.org/produit/60/9782889157099/experience-et-verite-s">« Démocratie et (post-)vérité : le dilemme de Hans Kelsen »</a>. In <em>Expérience et vérité</em>, dir. Salzman, F. et Waterlot, G. Lausanne: Épistémé, 221–235<span class="pub-translation">Democracy and (Post-)Truth: The Dilemma of Hans Kelsen</span></div></div>
+
+<div class="pub-entry"><div class="pub-year">2026</div><div class="pub-body">« L’histoire chrétienne, la guerre et la vérité ». In <em>Les Dialogues de l'Histoire de Charles Péguy</em>, dir. Jeannelle, J.-L. et Vitry, A. de. Rennes: PUR, 69–81<span class="pub-translation">Christian History, War, and Truth</span></div></div>
 
 <div class="pub-entry"><div class="pub-year">2026</div><div class="pub-body"><a href="https://doi.org/10.4000/16fe0">« Philosophie, croyance, démocratie »</a>. In <em>Athènes et Jérusalem face à la naissance de la philosophie</em>, dir. Grosos, P., Riquier, C. et Roux, S. Rennes: PUR, 95–105<span class="pub-translation">Philosophy, Belief, Democracy</span></div></div>
 
