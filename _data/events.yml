@@ -1,9 +1,9 @@
-- date_en: "Nov. 3, 2026"
-  date_fr: "3 nov. 2026"
-  location: "Metz"
-  url: "https://ecritures.univ-lorraine.fr/manifestations/seminaire-transversal/seance-speciale-rudolf-bultman"
-  label_en: 'Special session of the ''Écritures'' cross-disciplinary seminar, on Rudolf Bultmann'
-  label_fr: 'Séance spéciale du séminaire transversal Écritures autour de Rudolf Bultmann'
+- date_en: "Nov. 26-27, 2026"
+  date_fr: "26-27 nov. 2026"
+  location: "Genève"
+  url: "https://www.unige.ch/theologie/irse/actualites/les-deux-sources-de-la-morale-et-de-la-religion-actualites-et-interpretations-26-2711"
+  label_en: "Colloque 'Les Deux Sources de la morale et de la religion: actualité et interprétation' "
+  label_fr: "Conference 'The Two Sources of Morality and Religion: Relevance Today and Interpretation' "
 
 - date_en: "Nov. 30, 2026"
   date_fr: "30 nov. 2026"
@@ -11,4 +11,13 @@
   url: "https://www.infoculture-reims.fr/details.php?s_ev_id=33860&s_from=0&s_period=all&s_famille=10&s_date_debut=2026-09-18&s_date_fin=2030-01-01&s_nb_results=500"
   label_fr: 'Présentation du livre Rien de caché à Reims (Espace culturel protestant)'
   label_en: 'Book presentation in Reims (Espace culturel protestant)'
+
+- date_en: "Jan. 9, 2026"
+  date_fr: "9 janv. 2026"
+  location: "Strasbourg"
+  url: ""
+  label_en: "Journée EFA + Voix d'adoptés"
+  label_fr: "EFA + Voix d'adoptés day"
+
+
 
