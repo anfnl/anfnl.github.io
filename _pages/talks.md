@@ -27,6 +27,10 @@ lang: en
 
 <p class="talk-section-title">Conference Presentations &amp; Invited Talks</p>
 
+<div class="talk-entry"><div class="talk-year">2026</div><div class="talk-body">« Religion, espace public, IA »<span class="talk-note">Table ronde 'Poate spațiul public să se lipsească de dimensiunea religioasă în era IA?[L'espace public peut-il se passer de religion à l'ère de l'IA?]', Târgoviște (Roumanie), Nov. 19</span></div></div>
+
+<div class="talk-entry"><div class="talk-year">2026</div><div class="talk-body"><a href="https://www.gazetadambovitei.ro/educatie/cultura/religia-in-era-digitala-intre-autoritatea-religioasa-si-raspunsurile-inteligentei-artificiale/">« Autour de la question de l'identité »</a><span class="talk-note">Présentation au Département de langue et littérature françaises de la Faculté des langues de l'Université de Bucarest (Roumanie), Nov. 20</span></div></div>
+
 <div class="talk-entry"><div class="talk-year">2026</div><div class="talk-body">« Faith as Credence: What Could It Mean? »<span class="talk-note">Panel "Crossing the Gap Between Faith and Faithlessness: Philosophical Models of Belief and Their Anthropological plausibility", European Academy of Religion 2026, Rome, June 30</span></div></div>
 
 <div class="talk-entry"><div class="talk-year">2026</div><div class="talk-body">« Le temps de la résurrection »<span class="talk-note">Conference "La résurrection : espérer en judaïsme, christianisme et islam", Université de Lorraine, May 26</span></div></div>
